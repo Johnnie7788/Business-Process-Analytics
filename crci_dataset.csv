@@ -1,0 +1,301 @@
+Invoice_ID,Customer_ID,Outstanding_Balance,Invoice_Age,Recovery_Attempts,Last_Contact_Channel,Contact_Result,Agent_ID,Resolution_Status,Delay_Reason_Code,SLA_Breached,Days_Since_Last_Attempt
+INV1000,CUST2000,993,38,2,SMS,Responded,AGENT4,Recovered,Dispute,Yes,21
+INV1001,CUST2001,14647,15,9,Phone,Disconnected,AGENT1,Escalated,Wrong Contact Info,No,15
+INV1002,CUST2002,14581,89,9,SMS,No Answer,AGENT1,Escalated,Financial Hardship,Yes,8
+INV1003,CUST2003,11051,135,6,SMS,No Answer,AGENT8,Unrecovered,No Objection,Yes,18
+INV1004,CUST2004,1000,24,5,Email,No Answer,AGENT1,Unrecovered,Dispute,No,17
+INV1005,CUST2005,3384,15,3,Phone,Responded,AGENT4,Recovered,Awaiting Approval,No,19
+INV1006,CUST2006,1589,58,9,Phone,Disconnected,AGENT8,Escalated,Wrong Contact Info,Yes,13
+INV1007,CUST2007,9740,81,6,SMS,No Answer,AGENT2,Unrecovered,Dispute,Yes,2
+INV1008,CUST2008,3678,44,3,SMS,Disconnected,AGENT9,Unrecovered,Financial Hardship,Yes,1
+INV1009,CUST2009,9090,67,4,SMS,No Answer,AGENT4,Unrecovered,No Objection,Yes,3
+INV1010,CUST2010,11831,125,2,Phone,No Answer,AGENT2,Unrecovered,Awaiting Approval,Yes,18
+INV1011,CUST2011,7955,62,3,Phone,Disconnected,AGENT4,Unrecovered,Dispute,Yes,19
+INV1012,CUST2012,13439,168,1,Phone,Do Not Call,AGENT8,Unrecovered,Financial Hardship,Yes,21
+INV1013,CUST2013,13903,105,2,Phone,No Answer,AGENT10,Unrecovered,Wrong Contact Info,Yes,18
+INV1014,CUST2014,1552,141,1,SMS,Responded,AGENT10,Recovered,Awaiting Approval,Yes,19
+INV1015,CUST2015,10977,159,4,SMS,No Answer,AGENT1,Unrecovered,Wrong Contact Info,Yes,24
+INV1016,CUST2016,6605,121,6,Email,Responded,AGENT4,Unrecovered,Wrong Contact Info,Yes,5
+INV1017,CUST2017,3580,106,10,Email,No Answer,AGENT3,Escalated,Awaiting Approval,Yes,24
+INV1018,CUST2018,2873,35,10,Phone,Do Not Call,AGENT2,Escalated,Financial Hardship,Yes,4
+INV1019,CUST2019,5041,165,5,Email,No Answer,AGENT3,Unrecovered,No Objection,Yes,12
+INV1020,CUST2020,11724,43,5,SMS,Responded,AGENT10,Unrecovered,Dispute,Yes,21
+INV1021,CUST2021,7147,37,10,SMS,Disconnected,AGENT3,Escalated,No Objection,Yes,19
+INV1022,CUST2022,10000,52,8,Phone,No Answer,AGENT9,Escalated,Wrong Contact Info,Yes,11
+INV1023,CUST2023,10444,93,3,Phone,Disconnected,AGENT4,Unrecovered,No Objection,Yes,22
+INV1024,CUST2024,14006,154,3,Phone,No Answer,AGENT7,Unrecovered,Financial Hardship,Yes,8
+INV1025,CUST2025,6283,93,9,Phone,No Answer,AGENT1,Escalated,Wrong Contact Info,Yes,12
+INV1026,CUST2026,6846,134,4,Phone,No Answer,AGENT2,Unrecovered,Dispute,Yes,14
+INV1027,CUST2027,12840,34,10,SMS,No Answer,AGENT5,Escalated,Financial Hardship,Yes,3
+INV1028,CUST2028,10942,143,5,SMS,Responded,AGENT8,Unrecovered,Dispute,Yes,22
+INV1029,CUST2029,11569,132,6,SMS,Responded,AGENT2,Unrecovered,No Objection,Yes,20
+INV1030,CUST2030,11977,81,9,Phone,Responded,AGENT7,Escalated,Wrong Contact Info,Yes,2
+INV1031,CUST2031,5532,48,8,SMS,No Answer,AGENT3,Escalated,Wrong Contact Info,Yes,10
+INV1032,CUST2032,1584,148,3,SMS,Disconnected,AGENT1,Unrecovered,Wrong Contact Info,Yes,18
+INV1033,CUST2033,1863,117,9,SMS,Disconnected,AGENT8,Escalated,Dispute,Yes,19
+INV1034,CUST2034,11199,142,4,Email,Responded,AGENT5,Unrecovered,Financial Hardship,Yes,10
+INV1035,CUST2035,2314,54,5,SMS,Responded,AGENT3,Unrecovered,Awaiting Approval,Yes,21
+INV1036,CUST2036,7338,39,5,Phone,Responded,AGENT4,Unrecovered,Dispute,Yes,8
+INV1037,CUST2037,13049,21,8,Phone,No Answer,AGENT1,Escalated,Financial Hardship,No,24
+INV1038,CUST2038,6774,74,2,Phone,No Answer,AGENT4,Unrecovered,Awaiting Approval,Yes,3
+INV1039,CUST2039,1930,151,6,Email,No Answer,AGENT3,Unrecovered,Awaiting Approval,Yes,12
+INV1040,CUST2040,2926,38,1,SMS,Responded,AGENT4,Recovered,Wrong Contact Info,Yes,11
+INV1041,CUST2041,15000,42,5,SMS,No Answer,AGENT1,Unrecovered,Dispute,Yes,11
+INV1042,CUST2042,14194,87,9,Email,Responded,AGENT10,Escalated,Wrong Contact Info,Yes,8
+INV1043,CUST2043,1077,167,10,Phone,Responded,AGENT4,Escalated,Financial Hardship,Yes,16
+INV1044,CUST2044,8082,126,10,Email,Responded,AGENT2,Escalated,Wrong Contact Info,Yes,24
+INV1045,CUST2045,6330,139,3,SMS,Responded,AGENT9,Recovered,Wrong Contact Info,Yes,21
+INV1046,CUST2046,11750,144,6,Phone,No Answer,AGENT9,Unrecovered,Awaiting Approval,Yes,5
+INV1047,CUST2047,5486,117,1,Phone,Responded,AGENT10,Recovered,Financial Hardship,Yes,9
+INV1048,CUST2048,11055,41,7,SMS,No Answer,AGENT5,Escalated,Awaiting Approval,Yes,4
+INV1049,CUST2049,10388,105,4,Email,No Answer,AGENT3,Unrecovered,Dispute,Yes,20
+INV1050,CUST2050,4654,111,3,SMS,No Answer,AGENT9,Unrecovered,Wrong Contact Info,Yes,1
+INV1051,CUST2051,1712,78,4,Phone,Disconnected,AGENT5,Unrecovered,Dispute,Yes,23
+INV1052,CUST2052,1934,180,9,Email,Do Not Call,AGENT6,Escalated,Wrong Contact Info,Yes,4
+INV1053,CUST2053,7014,80,9,Email,Responded,AGENT1,Escalated,Dispute,Yes,19
+INV1054,CUST2054,7981,80,2,Phone,No Answer,AGENT6,Unrecovered,No Objection,Yes,17
+INV1055,CUST2055,9877,18,8,Email,No Answer,AGENT10,Escalated,Wrong Contact Info,No,15
+INV1056,CUST2056,9986,138,7,Phone,No Answer,AGENT10,Escalated,Dispute,Yes,25
+INV1057,CUST2057,1149,144,4,Email,Do Not Call,AGENT6,Unrecovered,Wrong Contact Info,Yes,25
+INV1058,CUST2058,5049,63,3,SMS,Responded,AGENT5,Recovered,Wrong Contact Info,Yes,14
+INV1059,CUST2059,3574,154,7,SMS,Responded,AGENT4,Escalated,Awaiting Approval,Yes,7
+INV1060,CUST2060,10383,133,3,Email,Responded,AGENT2,Recovered,Awaiting Approval,Yes,9
+INV1061,CUST2061,14830,165,10,Phone,No Answer,AGENT5,Escalated,Awaiting Approval,Yes,15
+INV1062,CUST2062,3873,28,8,Phone,Responded,AGENT4,Escalated,Wrong Contact Info,No,18
+INV1063,CUST2063,10858,93,1,SMS,Responded,AGENT4,Recovered,Financial Hardship,Yes,15
+INV1064,CUST2064,11721,152,3,SMS,No Answer,AGENT2,Unrecovered,Financial Hardship,Yes,13
+INV1065,CUST2065,6870,145,1,SMS,Responded,AGENT3,Recovered,Dispute,Yes,3
+INV1066,CUST2066,8496,175,7,Phone,No Answer,AGENT2,Escalated,No Objection,Yes,25
+INV1067,CUST2067,4500,159,8,Email,Responded,AGENT8,Escalated,Wrong Contact Info,Yes,22
+INV1068,CUST2068,1058,180,8,Email,Do Not Call,AGENT10,Escalated,Awaiting Approval,Yes,8
+INV1069,CUST2069,919,102,2,Phone,No Answer,AGENT1,Unrecovered,Dispute,Yes,20
+INV1070,CUST2070,2922,91,9,Phone,Responded,AGENT10,Escalated,Awaiting Approval,Yes,24
+INV1071,CUST2071,8153,17,1,Phone,No Answer,AGENT1,Unrecovered,Financial Hardship,No,19
+INV1072,CUST2072,7074,103,1,SMS,Responded,AGENT7,Recovered,Wrong Contact Info,Yes,21
+INV1073,CUST2073,11870,60,8,Phone,Responded,AGENT7,Escalated,Dispute,Yes,8
+INV1074,CUST2074,12917,46,1,Email,Responded,AGENT9,Recovered,Awaiting Approval,Yes,10
+INV1075,CUST2075,6042,102,8,Email,Responded,AGENT2,Escalated,No Objection,Yes,5
+INV1076,CUST2076,2969,168,10,Email,No Answer,AGENT8,Escalated,Awaiting Approval,Yes,13
+INV1077,CUST2077,10522,57,9,Email,Disconnected,AGENT3,Escalated,No Objection,Yes,22
+INV1078,CUST2078,2601,47,5,Phone,No Answer,AGENT3,Unrecovered,Awaiting Approval,Yes,12
+INV1079,CUST2079,11504,155,10,SMS,Responded,AGENT1,Escalated,Wrong Contact Info,Yes,4
+INV1080,CUST2080,4636,81,3,SMS,No Answer,AGENT4,Unrecovered,Wrong Contact Info,Yes,14
+INV1081,CUST2081,1958,111,3,Email,Disconnected,AGENT8,Unrecovered,No Objection,Yes,8
+INV1082,CUST2082,3846,159,10,SMS,Responded,AGENT8,Escalated,Awaiting Approval,Yes,19
+INV1083,CUST2083,8857,64,4,Email,No Answer,AGENT8,Unrecovered,Awaiting Approval,Yes,10
+INV1084,CUST2084,7995,38,7,SMS,Disconnected,AGENT7,Escalated,Dispute,Yes,11
+INV1085,CUST2085,701,147,9,Phone,Disconnected,AGENT10,Escalated,Awaiting Approval,Yes,4
+INV1086,CUST2086,10003,170,2,Phone,No Answer,AGENT5,Unrecovered,No Objection,Yes,24
+INV1087,CUST2087,6577,127,10,Email,Do Not Call,AGENT6,Escalated,No Objection,Yes,6
+INV1088,CUST2088,12643,52,8,SMS,Responded,AGENT4,Escalated,No Objection,Yes,3
+INV1089,CUST2089,6866,179,8,Phone,Disconnected,AGENT10,Escalated,No Objection,Yes,4
+INV1090,CUST2090,8080,81,2,SMS,Do Not Call,AGENT1,Unrecovered,Dispute,Yes,7
+INV1091,CUST2091,14869,166,2,Phone,No Answer,AGENT10,Unrecovered,Financial Hardship,Yes,2
+INV1092,CUST2092,4812,89,6,SMS,No Answer,AGENT2,Unrecovered,Awaiting Approval,Yes,14
+INV1093,CUST2093,2599,59,5,SMS,Responded,AGENT3,Unrecovered,No Objection,Yes,17
+INV1094,CUST2094,5611,148,5,Email,No Answer,AGENT6,Unrecovered,Awaiting Approval,Yes,17
+INV1095,CUST2095,10474,70,5,Email,No Answer,AGENT3,Unrecovered,Wrong Contact Info,Yes,15
+INV1096,CUST2096,3214,94,4,Email,Responded,AGENT1,Unrecovered,Financial Hardship,Yes,10
+INV1097,CUST2097,4335,110,6,Phone,No Answer,AGENT6,Unrecovered,Financial Hardship,Yes,25
+INV1098,CUST2098,12528,103,1,SMS,No Answer,AGENT10,Unrecovered,Financial Hardship,Yes,5
+INV1099,CUST2099,10829,167,1,SMS,No Answer,AGENT7,Unrecovered,Awaiting Approval,Yes,17
+INV1100,CUST2100,3106,104,6,Email,No Answer,AGENT3,Unrecovered,Awaiting Approval,Yes,22
+INV1101,CUST2101,2317,40,9,Phone,No Answer,AGENT2,Escalated,Wrong Contact Info,Yes,10
+INV1102,CUST2102,7359,173,7,Email,Responded,AGENT6,Escalated,Wrong Contact Info,Yes,20
+INV1103,CUST2103,13773,36,3,Email,No Answer,AGENT7,Unrecovered,Awaiting Approval,Yes,23
+INV1104,CUST2104,234,167,3,Email,No Answer,AGENT7,Unrecovered,Dispute,Yes,7
+INV1105,CUST2105,4269,134,2,Email,No Answer,AGENT8,Unrecovered,Awaiting Approval,Yes,13
+INV1106,CUST2106,7610,59,6,Email,No Answer,AGENT9,Unrecovered,Dispute,Yes,25
+INV1107,CUST2107,6364,114,9,SMS,No Answer,AGENT10,Escalated,Dispute,Yes,5
+INV1108,CUST2108,11993,153,7,Phone,Responded,AGENT1,Escalated,Wrong Contact Info,Yes,21
+INV1109,CUST2109,7980,107,4,Phone,Disconnected,AGENT9,Unrecovered,Financial Hardship,Yes,13
+INV1110,CUST2110,14628,154,8,Email,Disconnected,AGENT6,Escalated,Awaiting Approval,Yes,5
+INV1111,CUST2111,12703,19,8,Phone,Do Not Call,AGENT7,Escalated,Financial Hardship,No,18
+INV1112,CUST2112,923,119,3,SMS,Responded,AGENT2,Recovered,Wrong Contact Info,Yes,16
+INV1113,CUST2113,11369,115,9,Email,No Answer,AGENT7,Escalated,Dispute,Yes,1
+INV1114,CUST2114,9909,31,10,Phone,No Answer,AGENT5,Escalated,Wrong Contact Info,Yes,20
+INV1115,CUST2115,8560,180,5,Phone,No Answer,AGENT1,Unrecovered,No Objection,Yes,24
+INV1116,CUST2116,3292,16,10,SMS,No Answer,AGENT6,Escalated,Awaiting Approval,No,15
+INV1117,CUST2117,6555,39,6,Phone,Responded,AGENT8,Unrecovered,Wrong Contact Info,Yes,10
+INV1118,CUST2118,12412,65,9,Phone,Responded,AGENT3,Escalated,Awaiting Approval,Yes,13
+INV1119,CUST2119,4441,111,8,Email,Responded,AGENT10,Escalated,Dispute,Yes,4
+INV1120,CUST2120,1420,102,5,Email,No Answer,AGENT6,Unrecovered,Financial Hardship,Yes,17
+INV1121,CUST2121,8006,113,4,Phone,No Answer,AGENT2,Unrecovered,Dispute,Yes,9
+INV1122,CUST2122,11619,145,10,SMS,No Answer,AGENT6,Escalated,Financial Hardship,Yes,6
+INV1123,CUST2123,1028,27,5,Phone,Disconnected,AGENT7,Unrecovered,Dispute,No,11
+INV1124,CUST2124,11201,149,9,Phone,Disconnected,AGENT1,Escalated,Dispute,Yes,12
+INV1125,CUST2125,12426,173,9,Email,Responded,AGENT5,Escalated,Dispute,Yes,6
+INV1126,CUST2126,6918,83,5,Email,Responded,AGENT8,Unrecovered,Dispute,Yes,9
+INV1127,CUST2127,1750,154,10,SMS,No Answer,AGENT10,Escalated,No Objection,Yes,18
+INV1128,CUST2128,1556,144,6,Phone,Disconnected,AGENT10,Unrecovered,Financial Hardship,Yes,6
+INV1129,CUST2129,5523,89,10,SMS,Responded,AGENT10,Escalated,Financial Hardship,Yes,22
+INV1130,CUST2130,6798,56,10,SMS,Responded,AGENT6,Escalated,Financial Hardship,Yes,20
+INV1131,CUST2131,5116,63,6,SMS,Responded,AGENT5,Unrecovered,Awaiting Approval,Yes,7
+INV1132,CUST2132,1159,113,4,SMS,Responded,AGENT4,Unrecovered,Awaiting Approval,Yes,12
+INV1133,CUST2133,9514,139,3,Phone,Do Not Call,AGENT5,Unrecovered,No Objection,Yes,11
+INV1134,CUST2134,4633,96,6,Phone,No Answer,AGENT2,Unrecovered,Dispute,Yes,19
+INV1135,CUST2135,6362,84,2,Email,No Answer,AGENT2,Unrecovered,Awaiting Approval,Yes,2
+INV1136,CUST2136,1818,151,4,SMS,No Answer,AGENT8,Unrecovered,Wrong Contact Info,Yes,12
+INV1137,CUST2137,7329,103,10,Email,Responded,AGENT3,Escalated,Wrong Contact Info,Yes,17
+INV1138,CUST2138,11211,146,8,SMS,No Answer,AGENT9,Escalated,Dispute,Yes,17
+INV1139,CUST2139,9642,171,6,Phone,No Answer,AGENT5,Unrecovered,No Objection,Yes,6
+INV1140,CUST2140,12011,21,4,Phone,Responded,AGENT7,Unrecovered,Wrong Contact Info,No,3
+INV1141,CUST2141,6080,19,2,Email,Disconnected,AGENT5,Unrecovered,Awaiting Approval,No,8
+INV1142,CUST2142,13010,28,8,SMS,Do Not Call,AGENT6,Escalated,Wrong Contact Info,No,11
+INV1143,CUST2143,1878,41,7,Email,No Answer,AGENT7,Escalated,Awaiting Approval,Yes,6
+INV1144,CUST2144,13057,32,6,SMS,Responded,AGENT10,Unrecovered,Financial Hardship,Yes,5
+INV1145,CUST2145,3593,28,2,Phone,Responded,AGENT7,Recovered,Financial Hardship,No,2
+INV1146,CUST2146,3887,79,6,SMS,No Answer,AGENT4,Unrecovered,No Objection,Yes,20
+INV1147,CUST2147,11000,125,9,Email,Disconnected,AGENT8,Escalated,Wrong Contact Info,Yes,21
+INV1148,CUST2148,9032,52,8,Phone,Responded,AGENT4,Escalated,Wrong Contact Info,Yes,18
+INV1149,CUST2149,798,43,1,Phone,Responded,AGENT1,Recovered,Dispute,Yes,20
+INV1150,CUST2150,3672,40,10,SMS,Do Not Call,AGENT7,Escalated,Financial Hardship,Yes,4
+INV1151,CUST2151,1325,74,2,SMS,Disconnected,AGENT9,Unrecovered,Dispute,Yes,17
+INV1152,CUST2152,4477,163,1,Phone,No Answer,AGENT8,Unrecovered,Wrong Contact Info,Yes,20
+INV1153,CUST2153,5817,28,7,SMS,No Answer,AGENT7,Escalated,No Objection,No,2
+INV1154,CUST2154,5670,164,6,Phone,No Answer,AGENT5,Unrecovered,No Objection,Yes,19
+INV1155,CUST2155,2830,34,4,Email,No Answer,AGENT4,Unrecovered,Awaiting Approval,Yes,23
+INV1156,CUST2156,6581,46,10,Phone,Responded,AGENT5,Escalated,Awaiting Approval,Yes,11
+INV1157,CUST2157,1752,176,4,SMS,No Answer,AGENT1,Unrecovered,Dispute,Yes,22
+INV1158,CUST2158,8856,118,4,Email,Responded,AGENT3,Unrecovered,Financial Hardship,Yes,20
+INV1159,CUST2159,12423,76,2,Email,No Answer,AGENT8,Unrecovered,Financial Hardship,Yes,23
+INV1160,CUST2160,9866,163,3,Email,No Answer,AGENT9,Unrecovered,Financial Hardship,Yes,20
+INV1161,CUST2161,11806,105,7,Email,No Answer,AGENT3,Escalated,Dispute,Yes,16
+INV1162,CUST2162,2245,30,3,SMS,Disconnected,AGENT9,Unrecovered,Financial Hardship,No,21
+INV1163,CUST2163,7392,97,10,Email,Responded,AGENT3,Escalated,No Objection,Yes,2
+INV1164,CUST2164,3775,15,8,Phone,Disconnected,AGENT10,Escalated,Wrong Contact Info,No,19
+INV1165,CUST2165,10111,40,2,SMS,Disconnected,AGENT2,Unrecovered,Wrong Contact Info,Yes,11
+INV1166,CUST2166,1065,123,1,SMS,Disconnected,AGENT6,Unrecovered,No Objection,Yes,4
+INV1167,CUST2167,5767,161,9,SMS,Disconnected,AGENT4,Escalated,Wrong Contact Info,Yes,19
+INV1168,CUST2168,2510,140,8,Email,Disconnected,AGENT6,Escalated,Dispute,Yes,23
+INV1169,CUST2169,14941,169,1,Phone,Responded,AGENT7,Recovered,Financial Hardship,Yes,17
+INV1170,CUST2170,3488,116,9,SMS,Disconnected,AGENT1,Escalated,No Objection,Yes,16
+INV1171,CUST2171,13333,89,8,SMS,Disconnected,AGENT2,Escalated,Dispute,Yes,23
+INV1172,CUST2172,13141,22,1,Phone,No Answer,AGENT5,Unrecovered,No Objection,No,2
+INV1173,CUST2173,3443,51,10,Phone,Do Not Call,AGENT3,Escalated,Dispute,Yes,10
+INV1174,CUST2174,7627,35,5,Phone,No Answer,AGENT3,Unrecovered,No Objection,Yes,7
+INV1175,CUST2175,10583,25,10,Phone,No Answer,AGENT5,Escalated,Financial Hardship,No,23
+INV1176,CUST2176,9767,92,4,Phone,Disconnected,AGENT7,Unrecovered,Awaiting Approval,Yes,2
+INV1177,CUST2177,11979,61,3,Email,No Answer,AGENT8,Unrecovered,No Objection,Yes,11
+INV1178,CUST2178,14441,164,7,Email,Disconnected,AGENT6,Escalated,No Objection,Yes,22
+INV1179,CUST2179,11065,48,8,Phone,Responded,AGENT7,Escalated,No Objection,Yes,13
+INV1180,CUST2180,12070,32,6,Email,Disconnected,AGENT2,Unrecovered,Awaiting Approval,Yes,13
+INV1181,CUST2181,5758,138,5,Email,No Answer,AGENT8,Unrecovered,Awaiting Approval,Yes,10
+INV1182,CUST2182,4819,75,8,Email,No Answer,AGENT5,Escalated,Wrong Contact Info,Yes,22
+INV1183,CUST2183,14308,111,10,Phone,Do Not Call,AGENT5,Escalated,No Objection,Yes,21
+INV1184,CUST2184,11195,82,10,Email,No Answer,AGENT1,Escalated,Wrong Contact Info,Yes,11
+INV1185,CUST2185,13248,130,7,Phone,Responded,AGENT3,Escalated,Financial Hardship,Yes,14
+INV1186,CUST2186,8617,168,1,Phone,No Answer,AGENT5,Unrecovered,Dispute,Yes,16
+INV1187,CUST2187,10262,49,3,Email,Responded,AGENT1,Recovered,Financial Hardship,Yes,19
+INV1188,CUST2188,7812,92,10,SMS,Responded,AGENT10,Escalated,Dispute,Yes,19
+INV1189,CUST2189,4607,180,6,Email,Responded,AGENT3,Unrecovered,Dispute,Yes,9
+INV1190,CUST2190,1100,83,4,SMS,Disconnected,AGENT9,Unrecovered,Financial Hardship,Yes,20
+INV1191,CUST2191,7334,155,3,Email,Do Not Call,AGENT2,Unrecovered,Dispute,Yes,9
+INV1192,CUST2192,4106,62,3,Phone,Responded,AGENT6,Recovered,Wrong Contact Info,Yes,22
+INV1193,CUST2193,13446,39,1,SMS,Responded,AGENT9,Recovered,Financial Hardship,Yes,25
+INV1194,CUST2194,6006,46,4,Email,No Answer,AGENT9,Unrecovered,Dispute,Yes,22
+INV1195,CUST2195,3528,158,9,Phone,No Answer,AGENT10,Escalated,Financial Hardship,Yes,24
+INV1196,CUST2196,6773,25,1,Phone,Disconnected,AGENT4,Unrecovered,Financial Hardship,No,18
+INV1197,CUST2197,13828,57,6,SMS,Disconnected,AGENT10,Unrecovered,Financial Hardship,Yes,12
+INV1198,CUST2198,11142,133,4,Phone,Responded,AGENT7,Unrecovered,Wrong Contact Info,Yes,13
+INV1199,CUST2199,3324,79,7,Phone,Disconnected,AGENT5,Escalated,Dispute,Yes,18
+INV1200,CUST2200,9727,164,6,SMS,No Answer,AGENT7,Unrecovered,Wrong Contact Info,Yes,19
+INV1201,CUST2201,8011,124,5,Phone,Responded,AGENT8,Unrecovered,Awaiting Approval,Yes,4
+INV1202,CUST2202,10269,40,3,SMS,No Answer,AGENT8,Unrecovered,Financial Hardship,Yes,3
+INV1203,CUST2203,12298,165,7,Email,Disconnected,AGENT8,Escalated,Financial Hardship,Yes,6
+INV1204,CUST2204,10916,125,1,Email,Responded,AGENT7,Recovered,Awaiting Approval,Yes,16
+INV1205,CUST2205,506,172,5,Phone,No Answer,AGENT4,Unrecovered,Financial Hardship,Yes,3
+INV1206,CUST2206,8686,33,8,Phone,No Answer,AGENT5,Escalated,Dispute,Yes,4
+INV1207,CUST2207,11627,135,5,SMS,Responded,AGENT1,Unrecovered,Awaiting Approval,Yes,7
+INV1208,CUST2208,13231,157,8,SMS,No Answer,AGENT3,Escalated,Dispute,Yes,16
+INV1209,CUST2209,6092,116,1,Email,No Answer,AGENT5,Unrecovered,Awaiting Approval,Yes,7
+INV1210,CUST2210,7160,93,9,Email,Disconnected,AGENT2,Escalated,Dispute,Yes,24
+INV1211,CUST2211,14734,103,9,Email,No Answer,AGENT9,Escalated,Awaiting Approval,Yes,10
+INV1212,CUST2212,700,37,1,SMS,No Answer,AGENT7,Unrecovered,Awaiting Approval,Yes,21
+INV1213,CUST2213,8717,112,1,SMS,Responded,AGENT1,Recovered,Financial Hardship,Yes,17
+INV1214,CUST2214,12483,60,5,Email,Responded,AGENT9,Unrecovered,Awaiting Approval,Yes,16
+INV1215,CUST2215,1981,27,7,Phone,Do Not Call,AGENT3,Escalated,Awaiting Approval,No,18
+INV1216,CUST2216,2440,72,4,Phone,No Answer,AGENT6,Unrecovered,Awaiting Approval,Yes,3
+INV1217,CUST2217,8291,170,7,SMS,No Answer,AGENT2,Escalated,Dispute,Yes,19
+INV1218,CUST2218,3453,161,5,SMS,Disconnected,AGENT6,Unrecovered,Wrong Contact Info,Yes,11
+INV1219,CUST2219,10478,171,5,Phone,Responded,AGENT1,Unrecovered,Awaiting Approval,Yes,3
+INV1220,CUST2220,1534,165,6,Phone,Do Not Call,AGENT7,Unrecovered,Awaiting Approval,Yes,2
+INV1221,CUST2221,3053,132,2,SMS,No Answer,AGENT2,Unrecovered,Dispute,Yes,11
+INV1222,CUST2222,1840,166,1,Email,No Answer,AGENT6,Unrecovered,Dispute,Yes,5
+INV1223,CUST2223,5481,152,4,Phone,Disconnected,AGENT10,Unrecovered,Wrong Contact Info,Yes,10
+INV1224,CUST2224,5799,124,7,Email,No Answer,AGENT8,Escalated,Awaiting Approval,Yes,13
+INV1225,CUST2225,4395,39,10,Phone,No Answer,AGENT9,Escalated,Dispute,Yes,10
+INV1226,CUST2226,10525,174,3,SMS,Responded,AGENT7,Recovered,Dispute,Yes,22
+INV1227,CUST2227,6860,116,1,Email,No Answer,AGENT7,Unrecovered,Wrong Contact Info,Yes,5
+INV1228,CUST2228,10647,46,9,Phone,No Answer,AGENT5,Escalated,Financial Hardship,Yes,18
+INV1229,CUST2229,13467,56,1,Phone,Disconnected,AGENT1,Unrecovered,No Objection,Yes,15
+INV1230,CUST2230,12970,63,4,SMS,No Answer,AGENT1,Unrecovered,Awaiting Approval,Yes,21
+INV1231,CUST2231,14961,29,7,Email,Responded,AGENT9,Escalated,Awaiting Approval,No,6
+INV1232,CUST2232,6728,157,6,Email,Responded,AGENT10,Unrecovered,Dispute,Yes,11
+INV1233,CUST2233,11857,42,7,SMS,Responded,AGENT7,Escalated,Financial Hardship,Yes,10
+INV1234,CUST2234,9316,39,3,Email,Responded,AGENT5,Recovered,Dispute,Yes,18
+INV1235,CUST2235,969,59,3,Email,Disconnected,AGENT10,Unrecovered,Awaiting Approval,Yes,18
+INV1236,CUST2236,6144,23,10,SMS,No Answer,AGENT8,Escalated,Financial Hardship,No,4
+INV1237,CUST2237,7047,48,3,Email,Disconnected,AGENT7,Unrecovered,Financial Hardship,Yes,7
+INV1238,CUST2238,9230,80,6,Email,No Answer,AGENT2,Unrecovered,Dispute,Yes,23
+INV1239,CUST2239,3646,175,10,Phone,No Answer,AGENT5,Escalated,Awaiting Approval,Yes,14
+INV1240,CUST2240,12367,130,10,Email,Responded,AGENT4,Escalated,Awaiting Approval,Yes,19
+INV1241,CUST2241,13707,114,5,SMS,Disconnected,AGENT1,Unrecovered,Financial Hardship,Yes,11
+INV1242,CUST2242,13838,90,6,SMS,Responded,AGENT6,Unrecovered,Wrong Contact Info,Yes,22
+INV1243,CUST2243,11386,49,4,SMS,No Answer,AGENT3,Unrecovered,Wrong Contact Info,Yes,4
+INV1244,CUST2244,9350,62,10,Email,Responded,AGENT9,Escalated,Wrong Contact Info,Yes,18
+INV1245,CUST2245,11241,33,3,SMS,Do Not Call,AGENT6,Unrecovered,Awaiting Approval,Yes,3
+INV1246,CUST2246,14363,27,8,Phone,No Answer,AGENT1,Escalated,Wrong Contact Info,No,6
+INV1247,CUST2247,2944,98,1,Email,No Answer,AGENT1,Unrecovered,Dispute,Yes,11
+INV1248,CUST2248,1347,137,5,SMS,No Answer,AGENT1,Unrecovered,Financial Hardship,Yes,17
+INV1249,CUST2249,12641,101,6,SMS,Responded,AGENT8,Unrecovered,Dispute,Yes,21
+INV1250,CUST2250,4160,104,10,SMS,Disconnected,AGENT9,Escalated,No Objection,Yes,7
+INV1251,CUST2251,11295,49,1,SMS,Responded,AGENT3,Recovered,Awaiting Approval,Yes,5
+INV1252,CUST2252,4648,76,3,SMS,Responded,AGENT10,Recovered,Financial Hardship,Yes,21
+INV1253,CUST2253,12253,100,1,Phone,Disconnected,AGENT7,Unrecovered,Financial Hardship,Yes,20
+INV1254,CUST2254,1686,178,7,Email,Responded,AGENT4,Escalated,Awaiting Approval,Yes,18
+INV1255,CUST2255,5105,171,5,Email,No Answer,AGENT2,Unrecovered,Financial Hardship,Yes,10
+INV1256,CUST2256,9071,22,5,Email,Do Not Call,AGENT2,Unrecovered,Financial Hardship,No,24
+INV1257,CUST2257,2564,21,3,Phone,Responded,AGENT9,Recovered,Awaiting Approval,No,13
+INV1258,CUST2258,11838,67,9,Phone,Responded,AGENT10,Escalated,Wrong Contact Info,Yes,19
+INV1259,CUST2259,12656,149,2,Phone,Disconnected,AGENT2,Unrecovered,No Objection,Yes,20
+INV1260,CUST2260,731,123,7,Phone,Disconnected,AGENT4,Escalated,Dispute,Yes,25
+INV1261,CUST2261,11665,121,5,Email,Disconnected,AGENT3,Unrecovered,Awaiting Approval,Yes,17
+INV1262,CUST2262,4741,114,1,Email,Do Not Call,AGENT6,Unrecovered,Wrong Contact Info,Yes,11
+INV1263,CUST2263,3784,108,1,Email,No Answer,AGENT8,Unrecovered,Dispute,Yes,25
+INV1264,CUST2264,7238,114,9,Phone,Responded,AGENT1,Escalated,Awaiting Approval,Yes,19
+INV1265,CUST2265,11642,145,8,Email,Disconnected,AGENT7,Escalated,Wrong Contact Info,Yes,13
+INV1266,CUST2266,5132,141,9,Phone,Responded,AGENT8,Escalated,Financial Hardship,Yes,23
+INV1267,CUST2267,9626,130,2,Email,No Answer,AGENT6,Unrecovered,Financial Hardship,Yes,18
+INV1268,CUST2268,11920,150,4,Phone,No Answer,AGENT1,Unrecovered,Wrong Contact Info,Yes,8
+INV1269,CUST2269,1501,62,10,Phone,Responded,AGENT2,Escalated,Awaiting Approval,Yes,21
+INV1270,CUST2270,3400,117,7,Phone,No Answer,AGENT7,Escalated,Financial Hardship,Yes,16
+INV1271,CUST2271,4707,143,7,Email,Responded,AGENT8,Escalated,Financial Hardship,Yes,22
+INV1272,CUST2272,4517,41,1,Phone,Responded,AGENT8,Recovered,Financial Hardship,Yes,4
+INV1273,CUST2273,601,53,7,Email,Responded,AGENT10,Escalated,Wrong Contact Info,Yes,9
+INV1274,CUST2274,11479,166,2,Email,No Answer,AGENT5,Unrecovered,Financial Hardship,Yes,7
+INV1275,CUST2275,9286,123,2,SMS,Responded,AGENT1,Recovered,Financial Hardship,Yes,5
+INV1276,CUST2276,14122,17,1,Phone,No Answer,AGENT9,Unrecovered,Financial Hardship,No,13
+INV1277,CUST2277,11694,74,7,SMS,Disconnected,AGENT8,Escalated,Wrong Contact Info,Yes,22
+INV1278,CUST2278,1066,118,6,SMS,No Answer,AGENT3,Unrecovered,Awaiting Approval,Yes,1
+INV1279,CUST2279,5713,164,5,SMS,Disconnected,AGENT1,Unrecovered,Wrong Contact Info,Yes,10
+INV1280,CUST2280,493,161,8,SMS,Responded,AGENT6,Escalated,Wrong Contact Info,Yes,17
+INV1281,CUST2281,1867,157,8,SMS,Responded,AGENT10,Escalated,Awaiting Approval,Yes,23
+INV1282,CUST2282,671,168,9,Email,Responded,AGENT1,Escalated,Financial Hardship,Yes,20
+INV1283,CUST2283,5002,74,6,Email,Responded,AGENT5,Unrecovered,Financial Hardship,Yes,12
+INV1284,CUST2284,7466,171,7,SMS,Responded,AGENT4,Escalated,Dispute,Yes,6
+INV1285,CUST2285,10079,58,2,Email,Responded,AGENT9,Recovered,Awaiting Approval,Yes,19
+INV1286,CUST2286,4143,72,9,Email,No Answer,AGENT5,Escalated,Financial Hardship,Yes,14
+INV1287,CUST2287,5017,64,1,SMS,No Answer,AGENT9,Unrecovered,Awaiting Approval,Yes,15
+INV1288,CUST2288,4346,114,6,SMS,Responded,AGENT4,Unrecovered,Dispute,Yes,9
+INV1289,CUST2289,12101,26,10,SMS,Disconnected,AGENT10,Escalated,Financial Hardship,No,16
+INV1290,CUST2290,444,31,7,SMS,Responded,AGENT7,Escalated,Financial Hardship,Yes,24
+INV1291,CUST2291,8448,113,10,Email,No Answer,AGENT9,Escalated,Wrong Contact Info,Yes,8
+INV1292,CUST2292,242,174,2,SMS,Do Not Call,AGENT7,Unrecovered,Wrong Contact Info,Yes,10
+INV1293,CUST2293,5403,128,4,Email,Disconnected,AGENT6,Unrecovered,Awaiting Approval,Yes,13
+INV1294,CUST2294,7250,84,6,Email,Responded,AGENT1,Unrecovered,No Objection,Yes,1
+INV1295,CUST2295,12330,55,9,Email,No Answer,AGENT4,Escalated,Wrong Contact Info,Yes,2
+INV1296,CUST2296,7159,163,9,SMS,Responded,AGENT4,Escalated,Awaiting Approval,Yes,9
+INV1297,CUST2297,1529,37,10,Phone,Responded,AGENT8,Escalated,Financial Hardship,Yes,2
+INV1298,CUST2298,7091,144,9,Email,Responded,AGENT1,Escalated,Wrong Contact Info,Yes,10
+INV1299,CUST2299,5127,123,9,Phone,Disconnected,AGENT5,Escalated,Financial Hardship,Yes,6

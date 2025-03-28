@@ -1,0 +1,1001 @@
+Borrower_ID,Age,Employment_Status,Income,Credit_Score,Nationality,Loan_ID,Interest_Rate,Loan_Term,Purpose,Disbursement_Date,Due_Date,Days_Past_Due,Payment_Amount,Outstanding_Balance,Collection_Status,Recovery_Status,Recovery_Amount,Recovery_Date,Paid_Date,Invoice_Amount,Customer_Segment,Days_To_Collect,Recovered,Contact_Attempts,Payment_History_Pattern,Region,Channel_of_Contact
+1,56,Employed,117747,793,German,10001,5.73,36,Debt Consolidation,2/17/2021,2/2/2024,4,42005.5836,-6161.5836,Current,Not Started,0,,2/6/2024,35844,Employed,1084,0,1,Always Late,South,Email
+2,69,Employed,70922,768,German,10002,8.64,60,Home Improvement,9/9/2022,8/14/2027,0,5719.407999999999,-1725.408,Current,Not Started,0,,8/14/2027,3994,Employed,1800,0,1,Always Late,West,In-App
+3,46,Employed,63231,624,German,10003,13.04,36,Debt Consolidation,9/19/2022,9/3/2025,4,6599.8528,-1855.8528,Current,Not Started,0,,9/7/2025,4744,Employed,1084,0,8,Mixed,North,Phone
+4,32,Employed,44301,603,German,10004,11.03,24,Home Improvement,8/2/2021,7/23/2023,-2,58874.4204,-10640.4204,Current,Not Started,0,,7/21/2023,48234,Employed,718,0,7,Mixed,West,Email
+5,60,Employed,106652,575,German,10005,8.23,12,Other,1/10/2022,1/5/2023,69,52265.3493,-3974.3493,Delinquent,Not Started,0,,3/15/2023,48291,Employed,429,0,7,Mixed,East,SMS
+6,25,Employed,77711,500,German,10006,11.13,60,Home Improvement,9/9/2020,8/14/2025,-3,44098.758,-15766.758,Current,Not Started,0,,8/11/2025,28332,Employed,1797,0,7,Mixed,East,Phone
+7,38,Employed,56323,744,German,10007,4.86,36,Debt Consolidation,7/30/2020,7/15/2023,95,7555.405199999999,-961.4052,Default,Recovered,-702.2918815,3/28/2024,10/18/2023,6594,Employed,1175,1,6,Always On Time,East,In-App
+8,56,Employed,33752,623,German,10008,8.12,48,Education,7/13/2020,6/22/2024,42,54712.9152,-13413.9152,Delinquent,Not Started,0,,8/3/2024,41299,Employed,1482,0,1,Always Late,South,Email
+9,36,Employed,112912,334,Other,10009,12.62,24,Debt Consolidation,8/11/2020,8/1/2022,-5,10483.8404,-2112.8404,Current,Not Started,0,,7/27/2022,8371,Employed,715,0,3,Mixed,South,Phone
+10,40,Self-Employed,97205,781,Other,10010,6.04,12,Business,12/24/2021,12/19/2022,0,51233.226,-2918.226,Current,Not Started,0,,12/19/2022,48315,Self-Employed,360,0,6,Mixed,South,Phone
+11,28,Employed,113452,779,German,10011,5.64,24,Business,5/12/2020,5/2/2022,-1,21174.3584,-2146.3584,Current,Not Started,0,,5/1/2022,19028,Employed,719,0,2,Mixed,North,Phone
+12,28,Employed,28395,364,German,10012,14.43,48,Business,6/18/2021,5/28/2025,37,58217.6064,-21305.6064,Delinquent,Not Started,0,,7/4/2025,36912,Employed,1477,0,5,Always Late,West,In-App
+13,41,Self-Employed,100957,307,German,10013,5.91,12,Business,12/1/2022,11/26/2023,54,15875.909,-885.909,Delinquent,Not Started,0,,1/19/2024,14990,Self-Employed,414,0,1,Always Late,South,Email
+14,53,Employed,71273,600,Other,10014,6.5,48,Other,5/17/2021,4/26/2025,2,60292.26,-12441.26,Current,Not Started,0,,4/28/2025,47851,Employed,1442,0,3,Always Late,West,SMS
+15,57,Employed,106878,642,German,10015,14.65,24,Education,4/20/2022,4/9/2024,122,22790.418,-5164.418,Default,Recovered,-4322.621406,11/3/2024,8/9/2024,17626,Employed,842,1,4,Always On Time,West,SMS
+16,41,Employed,19895,730,German,10016,11.95,36,Education,8/13/2022,7/28/2025,2,29165.6365,-7696.6365,Current,Not Started,0,,7/30/2025,21469,Employed,1082,0,5,Always Late,West,SMS
+17,20,Employed,91559,723,German,10017,11.55,24,Debt Consolidation,12/29/2022,12/18/2024,-3,51359.78200000001,-9637.782,Current,Not Started,0,,12/15/2024,41722,Employed,717,0,4,Always Late,North,Email
+18,39,Self-Employed,25699,631,German,10018,13.31,24,Home Improvement,8/4/2022,7/24/2024,174,51961.0494,-10924.0494,Default,Not Started,0,,1/14/2025,41037,Self-Employed,894,0,5,Always Late,North,SMS
+19,19,Employed,80061,737,German,10019,4.83,24,Debt Consolidation,5/8/2022,4/27/2024,76,8915.358,-785.358,Delinquent,Not Started,0,,7/12/2024,8130,Employed,796,0,1,Mixed,East,In-App
+20,41,Employed,24715,473,German,10020,11.62,60,Debt Consolidation,2/27/2020,1/31/2025,-1,12376.068,-4548.068,Current,Not Started,0,,1/30/2025,7828,Employed,1799,0,1,Always Late,East,Email
+21,61,Employed,34169,826,German,10021,9.29,48,Debt Consolidation,9/1/2022,8/11/2026,74,58446.6192,-15834.6192,Delinquent,Not Started,0,,10/24/2026,42612,Employed,1514,0,7,Always Late,West,Phone
+22,47,Employed,31163,325,German,10022,13.04,48,Debt Consolidation,4/10/2022,3/20/2026,115,73018.54079999999,-25030.5408,Default,Not Started,0,,7/13/2026,47988,Employed,1555,0,5,Always Late,East,In-App
+23,55,Employed,20782,705,German,10023,9.34,48,Education,4/17/2020,3/27/2024,71,55079.9864,-14980.9864,Delinquent,Not Started,0,,6/6/2024,40099,Employed,1511,0,1,Always Late,West,Phone
+24,19,Employed,103177,531,German,10024,10.63,60,Home Improvement,4/15/2020,3/20/2025,90,72233.19750000001,-25068.1975,Delinquent,Not Started,0,,6/18/2025,47165,Employed,1890,0,7,Always Late,North,SMS
+25,38,Employed,99328,832,German,10025,8.99,36,Debt Consolidation,10/7/2021,9/21/2024,73,23975.7451,-5092.7451,Delinquent,Not Started,0,,12/3/2024,18883,Employed,1153,0,2,Always Late,North,In-App
+26,50,Unemployed,50585,849,German,10026,9,24,Education,4/29/2022,4/18/2024,-5,51989.62,-7930.62,Current,Not Started,0,,4/13/2024,44059,Unemployed,715,0,4,Always Late,North,Email
+27,29,Employed,45682,804,German,10027,12.33,36,Debt Consolidation,6/29/2020,6/14/2023,75,26770.5858,-7228.5858,Delinquent,Not Started,0,,8/28/2023,19542,Employed,1155,0,1,Mixed,South,In-App
+28,39,Employed,62864,478,German,10028,10.73,60,Business,9/19/2020,8/24/2025,2,67501.518,-23569.518,Current,Not Started,0,,8/26/2025,43932,Employed,1802,0,6,Always Late,West,Phone
+29,61,Employed,99416,431,German,10029,10.78,48,Debt Consolidation,6/26/2020,6/5/2024,138,16387.24,-4937.24,Default,Not Started,0,,10/21/2024,11450,Employed,1578,0,5,Always Late,North,Email
+30,42,Employed,70114,754,German,10030,8.68,24,Debt Consolidation,11/14/2020,11/4/2022,-5,25142.0328,-3719.0328,Current,Not Started,0,,10/30/2022,21423,Employed,715,0,2,Always Late,West,In-App
+31,66,Employed,53067,647,German,10031,9.61,12,Other,11/26/2021,11/21/2022,-4,3326.6635,-291.6635,Current,Not Started,0,,11/17/2022,3035,Employed,356,0,7,Always Late,East,In-App
+32,44,Employed,57685,839,German,10032,12.08,12,Business,4/5/2022,3/31/2023,1,50694.9048,-5463.9048,Current,Not Started,0,,4/1/2023,45231,Employed,361,0,3,Mixed,East,In-App
+33,59,Employed,33073,705,German,10033,13,36,Home Improvement,12/17/2021,12/1/2024,2,58025.55,-16280.55,Current,Not Started,0,,12/3/2024,41745,Employed,1082,0,2,Always Late,North,In-App
+34,45,Employed,51035,375,German,10034,11.51,48,Debt Consolidation,3/18/2020,2/26/2024,-5,26639.1564,-8398.1564,Current,Not Started,0,,2/21/2024,18241,Employed,1435,0,2,Mixed,West,Email
+35,33,Employed,79977,791,German,10035,14.13,12,Home Improvement,12/30/2021,12/25/2022,145,27566.9602,-3412.9602,Default,Not Started,0,,5/19/2023,24154,Employed,505,0,2,Always Late,North,Phone
+36,32,Self-Employed,117710,493,German,10036,12.93,36,Business,9/25/2020,9/10/2023,103,36952.8375,-10327.8375,Default,Recovered,-7960.213193,3/14/2024,12/22/2023,26625,Self-Employed,1183,1,1,Always On Time,East,In-App
+37,64,Employed,105373,461,German,10037,9.96,60,Debt Consolidation,7/20/2021,6/24/2026,3,68833.1,-22883.1,Current,Not Started,0,,6/27/2026,45950,Employed,1803,0,4,Always Late,North,Email
+38,68,Employed,98362,646,German,10038,11.22,36,Other,12/25/2020,12/10/2023,146,45532.6156,-11466.6156,Default,Not Started,0,,5/4/2024,34066,Employed,1226,0,7,Always Late,West,Phone
+39,61,Employed,105517,660,German,10039,14.15,36,Education,12/14/2020,11/29/2023,85,49417.3295,-14726.3295,Delinquent,Not Started,0,,2/22/2024,34691,Employed,1165,0,4,Mixed,East,In-App
+40,69,Unemployed,80450,386,German,10040,10.62,36,Other,5/6/2021,4/20/2024,3,18896.8566,-4565.8566,Current,Not Started,0,,4/23/2024,14331,Unemployed,1083,0,2,Always Late,South,Phone
+41,20,Employed,25382,561,German,10041,12.99,24,Other,2/13/2020,2/2/2022,4,27325.062,-5635.062,Current,Not Started,0,,2/6/2022,21690,Employed,724,0,1,Mixed,East,Phone
+42,54,Employed,19437,513,German,10042,11.42,36,Education,1/26/2021,1/11/2024,125,27097.6958,-6914.6958,Default,Not Started,0,,5/15/2024,20183,Employed,1205,0,2,Always Late,South,Email
+43,68,Unemployed,85971,561,German,10043,9.85,36,Education,2/27/2021,2/12/2024,2,52268.243,-11922.243,Current,Not Started,0,,2/14/2024,40346,Unemployed,1082,0,3,Always Late,North,Phone
+44,24,Self-Employed,79612,582,German,10044,6.28,24,Education,12/12/2021,12/2/2023,106,6612.9,-737.9,Default,Not Started,0,,3/17/2024,5875,Self-Employed,826,0,6,Always Late,North,Email
+45,38,Self-Employed,105355,766,German,10045,8.4,24,Debt Consolidation,6/21/2021,6/11/2023,37,15480.672,-2226.672,Delinquent,Not Started,0,,7/18/2023,13254,Self-Employed,757,0,2,Always Late,West,In-App
+46,26,Employed,76929,679,German,10046,14.63,60,Home Improvement,6/18/2022,5/23/2027,58,51288.7615,-21667.7615,Delinquent,Not Started,0,,7/20/2027,29621,Employed,1858,0,6,Always Late,South,Phone
+47,56,Employed,117411,661,German,10047,11.06,48,Home Improvement,4/30/2020,4/9/2024,1,17171.772,-5266.772,Current,Not Started,0,,4/10/2024,11905,Employed,1441,0,7,Mixed,North,Phone
+48,35,Employed,112518,748,German,10048,9.99,12,Education,8/17/2022,8/12/2023,2,51828.3879,-4707.3879,Current,Not Started,0,,8/14/2023,47121,Employed,362,0,4,Mixed,South,SMS
+49,21,Unemployed,113864,740,German,10049,14.23,12,Other,10/9/2020,10/4/2021,-5,19284.3086,-2402.3086,Current,Not Started,0,,9/29/2021,16882,Unemployed,355,0,7,Always Late,North,In-App
+50,42,Employed,27329,392,German,10050,10.24,36,Business,3/13/2021,2/26/2024,0,26197.5952,-6156.5952,Current,Not Started,0,,2/26/2024,20041,Employed,1080,0,4,Always Late,East,In-App
+51,31,Employed,40169,723,German,10051,9.55,60,Education,3/24/2022,2/26/2027,1,44469.795,-14371.795,Current,Not Started,0,,2/27/2027,30098,Employed,1801,0,5,Always Late,North,SMS
+52,67,Employed,102468,441,German,10052,12.23,36,Other,2/10/2022,1/25/2025,-1,59365.8339,-15934.8339,Current,Not Started,0,,1/24/2025,43431,Employed,1079,0,4,Mixed,West,SMS
+53,26,Self-Employed,49594,590,German,10053,11.7,12,Other,4/15/2022,4/10/2023,-1,38769.953,-4060.953,Current,Not Started,0,,4/9/2023,34709,Self-Employed,359,0,4,Always Late,East,Email
+54,43,Employed,91957,731,German,10054,5.72,24,Debt Consolidation,1/22/2021,1/12/2023,117,39756.22,-4081.22,Default,Recovered,-3761.717194,9/27/2023,5/9/2023,35675,Employed,837,1,2,Mixed,West,Email
+55,19,Employed,75631,348,Other,10055,8.92,48,Debt Consolidation,2/5/2021,1/15/2025,-3,7919.6416,-2082.6416,Current,Not Started,0,,1/12/2025,5837,Employed,1437,0,3,Always Late,East,Phone
+56,37,Employed,60033,601,German,10056,8.93,60,Home Improvement,2/12/2021,1/17/2026,0,68633.53199999999,-21185.532,Current,Not Started,0,,1/17/2026,47448,Employed,1800,0,2,Always Late,South,Phone
+57,45,Employed,78133,489,German,10057,7.85,24,Home Improvement,11/11/2022,10/31/2024,1,29490.773,-4001.773,Current,Not Started,0,,11/1/2024,25489,Employed,721,0,4,Mixed,West,Phone
+58,64,Employed,88165,435,German,10058,9.45,48,Business,12/27/2020,12/6/2024,-5,25668.006,-7041.006,Current,Not Started,0,,12/1/2024,18627,Employed,1435,0,1,Mixed,North,Phone
+59,24,Employed,88861,703,German,10059,8.25,60,Business,9/21/2021,8/26/2026,-4,9458.1,-2762.1,Current,Not Started,0,,8/22/2026,6696,Employed,1796,0,8,Always Late,South,Email
+60,61,Employed,67290,640,German,10060,5.79,60,Business,10/4/2022,9/8/2027,45,64467.26299999999,-14473.263,Delinquent,Not Started,0,,10/23/2027,49994,Employed,1845,0,6,Always Late,North,In-App
+61,25,Employed,109031,617,German,10061,8.24,12,Business,11/13/2021,11/8/2022,-2,15741.3432,-1198.3432,Current,Not Started,0,,11/6/2022,14543,Employed,358,0,3,Mixed,East,Phone
+62,64,Employed,46750,662,German,10062,4.33,24,Other,2/25/2020,2/14/2022,74,14794.059,-1179.059,Delinquent,Not Started,0,,4/29/2022,13615,Employed,794,0,2,Always Late,East,In-App
+63,52,Employed,110155,681,German,10063,10.12,60,Other,4/23/2020,3/28/2025,2,3713.796,-1247.796,Current,Not Started,0,,3/30/2025,2466,Employed,1802,0,7,Always Late,North,Phone
+64,31,Employed,55461,532,German,10064,13.32,60,Home Improvement,3/4/2021,2/6/2026,149,52930.486,-21159.486,Default,Not Started,0,,7/5/2026,31771,Employed,1949,0,7,Always Late,North,SMS
+65,34,Employed,88800,643,German,10065,11.84,48,Debt Consolidation,9/12/2022,8/22/2026,58,28514.16,-9164.16,Delinquent,Not Started,0,,10/19/2026,19350,Employed,1498,0,6,Always Late,South,Phone
+66,53,Employed,93222,848,German,10066,7.64,12,Debt Consolidation,5/7/2021,5/2/2022,180,1480.05,-105.05,Default,Not Started,0,,10/29/2022,1375,Employed,540,0,2,Mixed,North,Phone
+67,67,Employed,39226,828,German,10067,4.5,36,Education,12/5/2022,11/19/2025,112,38624.05,-4594.05,Default,Not Started,0,,3/11/2026,34030,Employed,1192,0,3,Mixed,West,Phone
+68,57,Employed,21721,482,German,10068,5.82,12,Other,3/17/2020,3/12/2021,137,23011.6172,-1265.6172,Default,Recovered,-1114.845936,11/19/2021,7/27/2021,21746,Employed,497,1,1,Always On Time,West,Email
+69,21,Employed,71154,340,German,10069,9.77,36,Business,4/9/2021,3/24/2024,119,30886.9866,-7000.9866,Default,Not Started,0,,7/21/2024,23886,Employed,1199,0,2,Always Late,North,SMS
+70,19,Unemployed,35609,696,German,10070,5.88,24,Business,8/12/2022,8/1/2024,0,50680.92479999999,-5332.9248,Current,Not Started,0,,8/1/2024,45348,Unemployed,720,0,6,Always Late,West,Phone
+71,23,Employed,67130,793,German,10071,9.76,24,Education,4/10/2020,3/31/2022,3,52474.0608,-8570.0608,Current,Not Started,0,,4/3/2022,43904,Employed,723,0,6,Mixed,North,Phone
+72,59,Self-Employed,87909,632,German,10072,6.16,60,Debt Consolidation,11/12/2022,10/17/2027,2,44015.508,-10364.508,Current,Not Started,0,,10/19/2027,33651,Self-Employed,1802,0,4,Mixed,South,In-App
+73,21,Employed,119211,426,German,10073,13.26,24,Business,12/15/2022,12/4/2024,-2,11175.511600000002,-2342.5116,Current,Not Started,0,,12/2/2024,8833,Employed,718,0,7,Always Late,West,SMS
+74,46,Employed,70249,300,German,10074,8.07,60,Debt Consolidation,10/30/2022,10/4/2027,-1,4060.3255,-1167.3255,Current,Not Started,0,,10/3/2027,2893,Employed,1799,0,4,Mixed,West,Phone
+75,35,Self-Employed,63895,467,German,10075,6.32,12,Education,10/14/2022,10/9/2023,1,33568.4136,-1995.4136,Current,Not Started,0,,10/10/2023,31573,Self-Employed,361,0,4,Mixed,North,In-App
+76,43,Employed,109473,318,German,10076,12.84,24,Debt Consolidation,7/30/2021,7/20/2023,162,40683.8728,-8312.8728,Default,Not Started,0,,12/29/2023,32371,Employed,882,0,3,Mixed,West,In-App
+77,61,Employed,20656,631,German,10077,7.44,12,Debt Consolidation,5/8/2020,5/3/2021,168,44989.4256,-3115.4256,Default,Not Started,0,,10/18/2021,41874,Employed,528,0,8,Mixed,East,Email
+78,51,Employed,89520,755,German,10078,4.78,12,Debt Consolidation,12/1/2020,11/26/2021,4,13439.0828,-613.0828,Current,Not Started,0,,11/30/2021,12826,Employed,364,0,1,Always Late,South,In-App
+79,27,Employed,78740,408,German,10079,10.06,24,Business,6/15/2022,6/4/2024,-2,42546.504,-7126.504,Current,Not Started,0,,6/2/2024,35420,Employed,718,0,8,Always Late,South,Phone
+80,53,Unemployed,79309,567,German,10080,10.19,12,Home Improvement,7/13/2022,7/8/2023,151,25259.9556,-2335.9556,Default,Recovered,-1236.06764,2/10/2024,12/6/2023,22924,Unemployed,511,1,7,Mixed,West,Email
+81,31,Self-Employed,44984,744,German,10081,11.72,24,Other,10/22/2021,10/12/2023,2,42422.6248,-8055.6248,Current,Not Started,0,,10/14/2023,34367,Self-Employed,722,0,1,Always Late,West,Email
+82,48,Unemployed,88822,539,German,10082,6.26,24,Debt Consolidation,11/7/2021,10/28/2023,46,24978.3148,-2779.3148,Delinquent,Not Started,0,,12/13/2023,22199,Unemployed,766,0,4,Mixed,East,Phone
+83,65,Employed,20901,600,German,10083,8.6,24,Debt Consolidation,11/19/2022,11/8/2024,2,31489.296,-4621.296,Current,Not Started,0,,11/10/2024,26868,Employed,722,0,7,Mixed,East,SMS
+84,32,Self-Employed,46552,402,German,10084,6.75,36,Debt Consolidation,4/2/2022,3/17/2025,-1,11774.88,-1982.88,Current,Not Started,0,,3/16/2025,9792,Self-Employed,1079,0,4,Always Late,West,In-App
+85,25,Unemployed,106245,549,German,10085,4.43,12,Home Improvement,3/6/2021,3/1/2022,-5,22553.7471,-956.7471,Current,Not Started,0,,2/24/2022,21597,Unemployed,355,0,8,Always Late,West,Email
+86,31,Employed,46055,752,German,10086,13.58,48,Education,7/22/2021,7/1/2025,124,57723.39600000001,-20318.396,Default,Not Started,0,,11/2/2025,37405,Employed,1564,0,8,Always Late,East,SMS
+87,40,Employed,52685,819,German,10087,11.88,24,Business,3/4/2022,2/22/2024,-2,41702.1696,-8006.1696,Current,Not Started,0,,2/20/2024,33696,Employed,718,0,3,Mixed,North,Phone
+88,57,Self-Employed,88965,452,German,10088,6.97,12,Home Improvement,12/12/2020,12/7/2021,2,47198.3731,-3075.3731,Current,Not Started,0,,12/9/2021,44123,Self-Employed,362,0,3,Always Late,East,In-App
+89,38,Employed,29716,473,German,10089,10.39,60,Debt Consolidation,1/22/2022,12/27/2026,-1,25814.7855,-8825.7855,Current,Not Started,0,,12/26/2026,16989,Employed,1799,0,8,Mixed,North,In-App
+90,33,Self-Employed,26138,642,German,10090,5.81,24,Home Improvement,1/7/2020,12/27/2021,-5,33408.982200000006,-3477.9822,Current,Not Started,0,,12/22/2021,29931,Self-Employed,715,0,5,Always Late,South,Email
+91,62,Employed,50298,730,German,10091,13.74,24,Home Improvement,5/14/2021,5/4/2023,97,13117.692,-2827.692,Default,Recovered,-2825.459868,11/30/2023,8/9/2023,10290,Employed,817,1,1,Always On Time,South,In-App
+92,35,Self-Employed,66112,623,German,10092,4.82,48,Home Improvement,4/8/2022,3/18/2026,30,46956.9576,-7589.9576,Current,Not Started,0,,4/17/2026,39367,Self-Employed,1470,0,1,Always Late,East,In-App
+93,64,Employed,38429,719,German,10093,3.54,36,Education,12/16/2020,12/1/2023,3,16971.3204,-1629.3204,Current,Not Started,0,,12/4/2023,15342,Employed,1083,0,4,Always Late,North,In-App
+94,41,Employed,65200,784,German,10094,9.27,36,Other,7/27/2021,7/11/2024,-3,33155.1921,-7214.1921,Current,Not Started,0,,7/8/2024,25941,Employed,1077,0,8,Mixed,East,In-App
+95,43,Employed,86308,711,German,10095,10.21,24,Business,8/20/2022,8/9/2024,-3,17996.769,-3051.769,Current,Not Started,0,,8/6/2024,14945,Employed,717,0,7,Always Late,East,Phone
+96,42,Self-Employed,63244,383,German,10096,10.16,12,Education,6/21/2022,6/16/2023,44,12957.0192,-1195.0192,Delinquent,Not Started,0,,7/30/2023,11762,Self-Employed,404,0,5,Always Late,North,SMS
+97,62,Employed,116268,412,German,10097,4.13,60,Education,8/27/2021,8/1/2026,60,37561.9645,-6428.9645,Delinquent,Not Started,0,,9/30/2026,31133,Employed,1860,0,1,Mixed,East,Phone
+98,58,Employed,32347,631,German,10098,7.11,60,Other,8/26/2021,7/31/2026,0,65172.44,-17092.44,Current,Not Started,0,,7/31/2026,48080,Employed,1800,0,2,Mixed,South,Phone
+99,46,Employed,31920,677,German,10099,9.24,12,Education,8/22/2020,8/17/2021,45,44952.26,-3802.26,Delinquent,Not Started,0,,10/1/2021,41150,Employed,405,0,7,Mixed,West,Email
+100,32,Self-Employed,46822,340,German,10100,5.99,24,Home Improvement,9/3/2022,8/23/2024,4,31412.6296,-3360.6296,Current,Not Started,0,,8/27/2024,28052,Self-Employed,724,0,2,Always Late,West,In-App
+101,62,Employed,61659,404,German,10101,13.54,60,Home Improvement,8/10/2022,7/15/2027,149,71691.75,-28941.75,Default,Recovered,-25358.79686,2/26/2028,12/11/2027,42750,Employed,1949,1,2,Always On Time,East,Phone
+102,18,Self-Employed,55108,501,German,10102,4.5,36,Debt Consolidation,3/5/2020,2/18/2023,96,23781.655,-2828.655,Default,Recovered,-2636.169718,10/19/2023,5/25/2023,20953,Self-Employed,1176,1,1,Mixed,North,In-App
+103,42,Employed,104099,749,German,10103,9.1,12,Education,12/23/2021,12/18/2022,58,45249.225,-3774.225,Delinquent,Not Started,0,,2/14/2023,41475,Employed,418,0,5,Mixed,North,Phone
+104,24,Employed,22967,565,German,10104,11.45,48,Debt Consolidation,3/11/2021,2/18/2025,46,26433.54,-8303.54,Delinquent,Not Started,0,,4/5/2025,18130,Employed,1486,0,8,Always Late,South,Phone
+105,26,Employed,26871,509,German,10105,6.51,24,Business,1/19/2021,1/9/2023,-1,36263.5972,-4177.5972,Current,Not Started,0,,1/8/2023,32086,Employed,719,0,2,Always Late,North,Email
+106,41,Employed,109299,417,Other,10106,10.68,12,Home Improvement,10/25/2021,10/20/2022,89,6234.6044,-601.6044,Delinquent,Not Started,0,,1/17/2023,5633,Employed,449,0,4,Always Late,North,SMS
+107,18,Self-Employed,92452,676,German,10107,13.04,60,Business,3/20/2022,2/22/2027,0,30238.208,-11934.208,Current,Not Started,0,,2/22/2027,18304,Self-Employed,1800,0,5,Always Late,South,SMS
+108,61,Employed,89270,839,German,10108,5.69,24,Other,4/20/2022,4/9/2024,2,47934.61059999999,-4897.6106,Current,Not Started,0,,4/11/2024,43037,Employed,722,0,9,Always Late,East,Phone
+109,25,Employed,48613,383,German,10109,14.05,36,Home Improvement,7/11/2020,6/26/2023,-5,47313.206,-14029.206,Current,Not Started,0,,6/21/2023,33284,Employed,1075,0,1,Mixed,West,Email
+110,41,Self-Employed,43179,753,German,10110,9.87,24,Business,8/22/2020,8/12/2022,50,56931.5804,-9385.5804,Delinquent,Not Started,0,,10/1/2022,47546,Self-Employed,770,0,4,Mixed,South,In-App
+111,28,Employed,67188,813,German,10111,6.94,24,Other,9/15/2022,9/4/2024,-3,9119.5104,-1111.5104,Current,Not Started,0,,9/1/2024,8008,Employed,717,0,3,Mixed,East,In-App
+112,68,Employed,70099,686,Other,10112,8.45,36,Business,8/21/2022,8/5/2025,-4,61786.26849999999,-12495.2685,Current,Not Started,0,,8/1/2025,49291,Employed,1076,0,7,Always Late,South,Phone
+113,34,Unemployed,50262,649,German,10113,7.09,36,Other,9/15/2020,8/31/2023,2,34446.7435,-6041.7435,Current,Not Started,0,,9/2/2023,28405,Unemployed,1082,0,4,Mixed,East,SMS
+114,25,Employed,93213,595,German,10114,11.84,24,Other,10/8/2020,9/28/2022,1,46239.0048,-8853.0048,Current,Not Started,0,,9/29/2022,37386,Employed,721,0,1,Mixed,South,Email
+115,52,Employed,33268,557,German,10115,12.66,36,Home Improvement,7/1/2022,6/15/2025,4,36389.4654,-10016.4654,Current,Not Started,0,,6/19/2025,26373,Employed,1084,0,5,Always Late,East,SMS
+116,52,Unemployed,92866,380,German,10116,13.08,12,Debt Consolidation,9/11/2021,9/6/2022,68,24681.9716,-2854.9716,Delinquent,Not Started,0,,11/13/2022,21827,Unemployed,428,0,6,Always Late,South,In-App
+117,50,Employed,101269,567,German,10117,14.84,36,Other,5/27/2020,5/12/2023,34,49194.608,-15154.608,Delinquent,Not Started,0,,6/15/2023,34040,Employed,1114,0,1,Mixed,East,SMS
+118,22,Employed,75545,718,German,10118,12.6,36,Other,3/19/2021,3/3/2024,3,19301.646,-5294.646,Current,Not Started,0,,3/6/2024,14007,Employed,1083,0,7,Mixed,South,In-App
+119,59,Employed,118483,534,Other,10119,10.42,24,Home Improvement,9/8/2020,8/29/2022,111,23149.3188,-3992.3188,Default,Not Started,0,,12/18/2022,19157,Employed,831,0,2,Mixed,West,Email
+120,56,Self-Employed,107822,610,German,10120,7.4,12,Debt Consolidation,4/20/2022,4/15/2023,47,35610.618,-2453.618,Delinquent,Not Started,0,,6/1/2023,33157,Self-Employed,407,0,4,Always Late,West,Email
+121,58,Employed,87146,656,German,10121,9.76,48,Education,7/2/2021,6/11/2025,-3,50492.376,-14177.376,Current,Not Started,0,,6/8/2025,36315,Employed,1437,0,3,Always Late,North,Phone
+122,45,Employed,86966,512,German,10122,3.97,48,Education,8/6/2022,7/16/2026,49,42796.8016,-5864.8016,Delinquent,Not Started,0,,9/3/2026,36932,Employed,1489,0,6,Mixed,East,Phone
+123,24,Self-Employed,54922,348,German,10123,12.07,60,Debt Consolidation,2/19/2020,1/23/2025,105,35539.974,-13375.974,Default,Recovered,-11043.18883,7/24/2025,5/8/2025,22164,Self-Employed,1905,1,3,Always On Time,South,SMS
+124,26,Self-Employed,94364,426,German,10124,8.63,36,Business,8/29/2021,8/13/2024,-1,19404.6846,-3990.6846,Current,Not Started,0,,8/12/2024,15414,Self-Employed,1079,0,7,Mixed,East,Email
+125,25,Employed,57913,522,German,10125,3.73,36,Home Improvement,7/14/2020,6/29/2023,-3,17042.0913,-1715.0913,Current,Not Started,0,,6/26/2023,15327,Employed,1077,0,6,Mixed,West,Email
+126,29,Employed,112033,578,German,10126,4.22,12,Debt Consolidation,9/28/2022,9/23/2023,166,51426.3168,-2082.3168,Default,Recovered,-1932.686854,7/26/2024,3/7/2024,49344,Employed,526,1,5,Always On Time,East,Phone
+127,51,Employed,119792,707,German,10127,7.96,48,Education,6/10/2022,5/20/2026,1,2565.6064,-619.6064,Current,Not Started,0,,5/21/2026,1946,Employed,1441,0,6,Mixed,South,In-App
+128,50,Self-Employed,70677,804,German,10128,10.21,60,Other,11/28/2022,11/2/2027,-1,23704.2765,-8011.2765,Current,Not Started,0,,11/1/2027,15693,Self-Employed,1799,0,6,Always Late,East,SMS
+129,65,Employed,117154,593,German,10129,8.84,12,Education,5/22/2020,5/17/2021,-1,30737.5044,-2496.5044,Current,Not Started,0,,5/16/2021,28241,Employed,359,0,1,Always Late,South,SMS
+130,40,Employed,64841,576,German,10130,10.62,36,Other,1/3/2021,12/19/2023,0,41211.5244,-9957.5244,Current,Not Started,0,,12/19/2023,31254,Employed,1080,0,3,Always Late,West,Phone
+131,41,Self-Employed,61332,737,German,10131,9.02,48,Home Improvement,3/22/2020,3/1/2024,161,22507.632,-5967.632,Default,Not Started,0,,8/9/2024,16540,Self-Employed,1601,0,8,Always Late,West,Email
+132,54,Self-Employed,107062,406,German,10132,11.11,60,Other,2/13/2022,1/18/2027,4,12006.9045,-4287.9045,Current,Not Started,0,,1/22/2027,7719,Self-Employed,1804,0,1,Mixed,West,Phone
+133,52,Employed,110694,719,German,10133,6.02,24,Debt Consolidation,12/14/2021,12/4/2023,4,47284.2412,-5081.2412,Current,Not Started,0,,12/8/2023,42203,Employed,724,0,6,Always Late,North,Phone
+134,61,Self-Employed,40032,728,German,10134,4.8,48,Other,11/15/2021,10/25/2025,2,31088.552,-5007.552,Current,Not Started,0,,10/27/2025,26081,Self-Employed,1442,0,9,Always Late,West,Phone
+135,57,Employed,52846,674,German,10135,10.36,60,Business,11/23/2021,10/28/2026,3,18747.3,-6397.3,Current,Not Started,0,,10/31/2026,12350,Employed,1803,0,1,Mixed,East,Phone
+136,39,Self-Employed,74474,372,German,10136,9.07,12,Debt Consolidation,12/10/2022,12/5/2023,-2,40746.3706,-3388.3706,Current,Not Started,0,,12/3/2023,37358,Self-Employed,358,0,5,Always Late,North,In-App
+137,44,Employed,59936,329,German,10137,3.81,24,Home Improvement,7/31/2022,7/20/2024,-1,35537.2002,-2516.2002,Current,Not Started,0,,7/19/2024,33021,Employed,719,0,4,Mixed,West,In-App
+138,52,Employed,44794,487,German,10138,7.88,60,Debt Consolidation,2/23/2022,1/28/2027,60,61101.808,-17269.808,Delinquent,Not Started,0,,3/29/2027,43832,Employed,1860,0,4,Mixed,East,Email
+139,18,Self-Employed,76588,663,German,10139,4.72,60,Business,11/23/2020,10/28/2025,-1,36300.084,-6931.084,Current,Not Started,0,,10/27/2025,29369,Self-Employed,1799,0,1,Mixed,East,Phone
+140,52,Employed,85984,750,German,10140,9.61,36,Home Improvement,11/14/2020,10/30/2023,2,42163.4824,-9435.4824,Current,Not Started,0,,11/1/2023,32728,Employed,1082,0,1,Always Late,East,In-App
+141,54,Employed,65331,494,German,10141,8.05,48,Education,5/8/2022,4/17/2026,3,24557.472,-5981.472,Current,Not Started,0,,4/20/2026,18576,Employed,1443,0,5,Always Late,South,Email
+142,64,Self-Employed,109397,455,German,10142,10.55,36,Business,10/6/2020,9/21/2023,1,39496.3165,-9495.3165,Current,Not Started,0,,9/22/2023,30001,Self-Employed,1081,0,7,Always Late,North,Phone
+143,31,Self-Employed,43141,471,German,10143,12.76,24,Home Improvement,8/29/2022,8/18/2024,-1,23658.0096,-4810.0096,Current,Not Started,0,,8/17/2024,18848,Self-Employed,719,0,6,Always Late,East,SMS
+144,20,Employed,24074,340,German,10144,6.95,60,Other,4/27/2022,4/1/2027,-3,1873.025,-483.025,Current,Not Started,0,,3/29/2027,1390,Employed,1797,0,4,Always Late,South,In-App
+145,18,Employed,21406,362,German,10145,14.56,36,Debt Consolidation,1/17/2021,1/2/2024,78,33044.9632,-10045.9632,Delinquent,Not Started,0,,3/20/2024,22999,Employed,1158,0,1,Always Late,West,Email
+146,22,Employed,112359,322,German,10146,9.66,48,Home Improvement,12/1/2020,11/10/2024,3,64378.87040000001,-17942.8704,Current,Not Started,0,,11/13/2024,46436,Employed,1443,0,5,Mixed,East,SMS
+147,43,Employed,38291,659,German,10147,10.61,24,Debt Consolidation,5/5/2022,4/24/2024,66,15236.1418,-2667.1418,Delinquent,Not Started,0,,6/29/2024,12569,Employed,786,0,2,Always Late,South,Phone
+148,31,Employed,56568,374,German,10148,11.33,12,Other,11/14/2021,11/9/2022,3,15618.4857,-1589.4857,Current,Not Started,0,,11/12/2022,14029,Employed,363,0,8,Mixed,East,Phone
+149,56,Employed,112539,417,German,10149,11.17,36,Home Improvement,4/11/2021,3/26/2024,132,31361.499,-7871.499,Default,Not Started,0,,8/5/2024,23490,Employed,1212,0,7,Always Late,North,Phone
+150,44,Unemployed,61851,679,German,10150,9.38,24,Education,8/16/2021,8/6/2023,-2,55668.75,-8793.75,Current,Not Started,0,,8/4/2023,46875,Unemployed,718,0,6,Always Late,North,In-App
+151,26,Employed,114942,589,German,10151,8.43,12,Business,5/25/2022,5/20/2023,82,39390.4504,-3062.4504,Delinquent,Not Started,0,,8/10/2023,36328,Employed,442,0,8,Mixed,West,Email
+152,32,Employed,69823,739,German,10152,4.12,36,Home Improvement,7/6/2021,6/20/2024,-2,7715.7612,-848.7612,Current,Not Started,0,,6/18/2024,6867,Employed,1078,0,1,Always Late,East,SMS
+153,32,Employed,38312,306,German,10153,3.75,24,Other,7/31/2021,7/21/2023,-4,17505.3,-1221.3,Current,Not Started,0,,7/17/2023,16284,Employed,716,0,6,Always Late,South,Email
+154,43,Unemployed,58108,495,Other,10154,7.62,24,Home Improvement,6/26/2022,6/15/2024,-5,40309.799600000006,-5330.7996,Current,Not Started,0,,6/10/2024,34979,Unemployed,715,0,3,Always Late,West,In-App
+155,59,Employed,81918,720,German,10155,7.34,36,Debt Consolidation,5/30/2020,5/15/2023,114,12349.6442,-2228.6442,Default,Recovered,-1239.552933,1/23/2024,9/6/2023,10121,Employed,1194,1,8,Mixed,East,Email
+156,30,Employed,49171,492,German,10156,7.96,24,Home Improvement,6/20/2022,6/9/2024,-2,2943.2088,-404.2088,Current,Not Started,0,,6/7/2024,2539,Employed,718,0,2,Mixed,West,In-App
+157,68,Employed,56779,447,German,10157,5.09,60,Education,12/28/2022,12/2/2027,-1,33229.196,-6741.196,Current,Not Started,0,,12/1/2027,26488,Employed,1799,0,6,Mixed,South,Phone
+158,49,Employed,83828,501,German,10158,11.99,36,Home Improvement,5/29/2020,5/14/2023,67,24511.3119,-6484.3119,Delinquent,Not Started,0,,7/20/2023,18027,Employed,1147,0,7,Mixed,West,SMS
+159,56,Employed,113723,743,German,10159,13.36,24,Business,6/19/2021,6/9/2023,2,12282.9696,-2589.9696,Current,Not Started,0,,6/11/2023,9693,Employed,722,0,1,Mixed,West,Phone
+160,66,Self-Employed,27411,718,German,10160,14.3,12,Home Improvement,8/31/2021,8/26/2022,72,11339.703,-1418.703,Delinquent,Not Started,0,,11/6/2022,9921,Self-Employed,432,0,3,Mixed,West,Email
+161,69,Unemployed,117821,726,German,10161,9.16,12,Debt Consolidation,8/8/2022,8/3/2023,2,12345.996,-1035.996,Current,Not Started,0,,8/5/2023,11310,Unemployed,362,0,6,Always Late,East,Phone
+162,49,Employed,72009,778,German,10162,11.56,60,Home Improvement,10/3/2021,9/7/2026,36,73395.936,-26883.936,Delinquent,Not Started,0,,10/13/2026,46512,Employed,1836,0,4,Mixed,South,SMS
+163,21,Employed,30422,774,German,10163,13.34,36,Education,8/23/2021,8/7/2024,-2,44677.5816,-12769.5816,Current,Not Started,0,,8/5/2024,31908,Employed,1078,0,2,Always Late,North,Phone
+164,47,Unemployed,57468,425,German,10164,8.31,24,Other,10/11/2021,10/1/2023,0,6281.1532,-895.1532,Current,Not Started,0,,10/1/2023,5386,Unemployed,720,0,2,Always Late,East,SMS
+165,54,Self-Employed,47371,694,German,10165,7.06,24,Home Improvement,4/19/2020,4/9/2022,-2,37959.7356,-4696.7356,Current,Not Started,0,,4/7/2022,33263,Self-Employed,718,0,1,Always Late,North,SMS
+166,40,Employed,72022,624,German,10166,14.27,12,Home Improvement,10/27/2022,10/22/2023,44,33609.0924,-4197.0924,Delinquent,Not Started,0,,12/5/2023,29412,Employed,404,0,7,Always Late,North,Phone
+167,56,Employed,86229,691,German,10167,9.43,60,Business,3/27/2022,3/1/2027,1,26932.8645,-8629.8645,Current,Not Started,0,,3/2/2027,18303,Employed,1801,0,4,Always Late,East,In-App
+168,62,Employed,114071,739,German,10168,9.22,12,Education,1/6/2021,1/1/2022,-5,14462.9124,-1220.9124,Current,Not Started,0,,12/27/2021,13242,Employed,355,0,1,Always Late,East,Email
+169,32,Employed,66196,503,German,10169,5.55,12,Other,4/6/2022,4/1/2023,111,50690.3875,-2665.3875,Default,Not Started,0,,7/21/2023,48025,Employed,471,0,3,Mixed,South,In-App
+170,60,Self-Employed,95354,785,Other,10170,4.74,60,Debt Consolidation,12/5/2020,11/9/2025,4,12304.439,-2357.439,Current,Not Started,0,,11/13/2025,9947,Self-Employed,1804,0,3,Mixed,South,In-App
+171,46,Unemployed,111774,330,German,10171,13.18,36,Home Improvement,1/22/2020,1/6/2023,170,66580.1156,-18866.1156,Default,Not Started,0,,6/25/2023,47714,Unemployed,1250,0,2,Always Late,West,Phone
+172,53,Unemployed,111410,687,German,10172,10.56,24,Other,4/11/2022,3/31/2024,105,8393.616,-1463.616,Default,Recovered,-986.28533,8/18/2024,7/14/2024,6930,Unemployed,825,1,3,Always On Time,North,Email
+173,30,Employed,41715,733,German,10173,7.25,36,Debt Consolidation,5/31/2020,5/16/2023,153,47689.475,-8519.475,Default,Recovered,-7993.060659,1/31/2024,10/16/2023,39170,Employed,1233,1,3,Always On Time,South,Email
+174,49,Employed,42605,675,German,10174,5.7,48,Education,5/26/2022,5/5/2026,33,61135.98,-11350.98,Delinquent,Not Started,0,,6/7/2026,49785,Employed,1473,0,3,Mixed,West,In-App
+175,24,Unemployed,114853,643,German,10175,9.89,48,Education,3/31/2021,3/10/2025,1,2103.1692,-596.1692,Current,Not Started,0,,3/11/2025,1507,Unemployed,1441,0,6,Mixed,South,Phone
+176,68,Self-Employed,46174,742,German,10176,10.22,48,Other,8/16/2021,7/26/2025,3,3431.8368,-995.8368,Current,Not Started,0,,7/29/2025,2436,Self-Employed,1443,0,2,Mixed,East,Email
+177,39,Employed,24956,374,German,10177,5.88,60,Debt Consolidation,8/13/2020,7/18/2025,82,36427.394,-8276.394,Delinquent,Not Started,0,,10/8/2025,28151,Employed,1882,0,5,Mixed,South,In-App
+178,45,Unemployed,119444,454,German,10178,13.29,12,Education,8/12/2021,8/7/2022,-2,14294.9322,-1676.9322,Current,Not Started,0,,8/5/2022,12618,Unemployed,358,0,4,Always Late,North,Email
+179,19,Self-Employed,91373,729,German,10179,4.47,36,Other,3/24/2021,3/8/2024,3,11057.475,-1307.475,Current,Not Started,0,,3/11/2024,9750,Self-Employed,1083,0,4,Mixed,South,Phone
+180,59,Employed,84252,662,German,10180,7.6,24,Education,6/11/2021,6/1/2023,82,19724.544,-2602.544,Delinquent,Not Started,0,,8/22/2023,17122,Employed,802,0,5,Always Late,North,Phone
+181,62,Employed,76949,747,German,10181,11.32,48,Education,4/20/2020,3/30/2024,3,12136.6912,-3782.6912,Current,Not Started,0,,4/2/2024,8354,Employed,1443,0,4,Always Late,East,Phone
+182,23,Employed,77646,533,Other,10182,6.65,36,Education,11/13/2021,10/28/2024,142,54051.869,-8989.869,Default,Recovered,-5401.361466,5/10/2025,3/19/2025,45062,Employed,1222,1,7,Always On Time,North,Email
+183,45,Employed,85017,561,German,10183,13.02,48,Business,9/29/2022,9/8/2026,72,48633.6632,-16654.6632,Delinquent,Not Started,0,,11/19/2026,31979,Employed,1512,0,5,Always Late,South,SMS
+184,45,Employed,78037,424,German,10184,12.01,48,Debt Consolidation,2/7/2020,1/17/2024,72,32420.76,-10520.76,Delinquent,Not Started,0,,3/29/2024,21900,Employed,1512,0,4,Always Late,West,Email
+185,61,Self-Employed,104818,544,German,10185,12.57,24,Other,1/21/2021,1/11/2023,36,18570.776,-3730.776,Delinquent,Not Started,0,,2/16/2023,14840,Self-Employed,756,0,7,Always Late,East,SMS
+186,61,Employed,21548,841,German,10186,4.87,60,Other,11/7/2021,10/12/2026,132,47460.6645,-9293.6645,Default,Recovered,-5010.410157,7/26/2027,2/21/2027,38167,Employed,1932,1,5,Always On Time,South,Phone
+187,37,Employed,118141,784,German,10187,5.12,12,Debt Consolidation,3/1/2020,2/24/2021,33,6346.094399999999,-309.0944,Delinquent,Not Started,0,,3/29/2021,6037,Employed,393,0,2,Mixed,East,In-App
+188,47,Employed,88294,421,German,10188,6.79,60,Debt Consolidation,8/1/2022,7/6/2027,-1,39693.40350000001,-10060.4035,Current,Not Started,0,,7/5/2027,29633,Employed,1799,0,2,Always Late,East,SMS
+189,28,Employed,38177,424,German,10189,9.46,36,Debt Consolidation,8/18/2020,8/3/2023,-1,32730.481,-7235.481,Current,Not Started,0,,8/2/2023,25495,Employed,1079,0,2,Always Late,South,Phone
+190,45,Unemployed,39022,848,German,10190,12.1,60,Debt Consolidation,6/26/2021,5/31/2026,165,27041.04,-10193.04,Default,Recovered,-9113.18394,3/5/2027,11/12/2026,16848,Unemployed,1965,1,7,Always On Time,South,Phone
+191,42,Employed,20542,469,German,10191,13.12,36,Home Improvement,4/17/2020,4/2/2023,70,52236.3088,-14753.3088,Delinquent,Not Started,0,,6/11/2023,37483,Employed,1150,0,6,Always Late,West,SMS
+192,56,Employed,106012,423,German,10192,11.6,36,Other,12/21/2022,12/5/2025,3,65573.45999999999,-16928.46,Current,Not Started,0,,12/8/2025,48645,Employed,1083,0,8,Always Late,East,In-App
+193,50,Self-Employed,111320,334,German,10193,14.18,12,Home Improvement,4/18/2020,4/13/2021,0,10090.0866,-1253.0866,Current,Not Started,0,,4/13/2021,8837,Self-Employed,360,0,5,Mixed,East,Phone
+194,18,Employed,75428,386,German,10194,12,24,Education,6/9/2020,5/30/2022,-2,43485.56,-8416.56,Current,Not Started,0,,5/28/2022,35069,Employed,718,0,4,Always Late,South,SMS
+195,44,Employed,37740,500,German,10195,7.02,12,Education,12/18/2020,12/13/2021,-4,8957.574,-587.574,Current,Not Started,0,,12/9/2021,8370,Employed,356,0,1,Always Late,North,In-App
+196,69,Employed,74353,668,German,10196,6.55,60,Other,10/12/2021,9/16/2026,157,9838.1025,-2427.1025,Default,Not Started,0,,2/20/2027,7411,Employed,1957,0,5,Mixed,South,In-App
+197,30,Employed,105353,376,German,10197,11.51,36,Education,12/18/2020,12/3/2023,111,53990.9249,-13857.9249,Default,Not Started,0,,3/23/2024,40133,Employed,1191,0,4,Always Late,East,Phone
+198,58,Employed,71532,358,German,10198,5.72,48,Debt Consolidation,2/28/2020,2/7/2024,0,38705.97120000001,-7206.9712,Current,Not Started,0,,2/7/2024,31499,Employed,1440,0,9,Mixed,South,Email
+199,20,Employed,31052,730,German,10199,4.57,48,Home Improvement,10/12/2020,9/21/2024,-1,36932.93,-5707.93,Current,Not Started,0,,9/20/2024,31225,Employed,1439,0,2,Mixed,West,Email
+200,56,Employed,115689,799,German,10200,9.62,36,Debt Consolidation,3/6/2022,2/18/2025,-4,63421.0262,-14204.0262,Current,Not Started,0,,2/14/2025,49217,Employed,1076,0,4,Mixed,North,Phone
+201,23,Unemployed,62076,408,German,10201,12.95,12,Education,4/30/2020,4/25/2021,73,1911.114,-219.114,Delinquent,Not Started,0,,7/7/2021,1692,Unemployed,433,0,5,Mixed,South,In-App
+202,25,Employed,68420,577,German,10202,4.67,24,Home Improvement,4/13/2020,4/3/2022,-1,32721.0884,-2795.0884,Current,Not Started,0,,4/2/2022,29926,Employed,719,0,5,Always Late,West,Phone
+203,44,Employed,15671,367,German,10203,12.61,12,Debt Consolidation,8/25/2021,8/20/2022,3,39690.5206,-4444.5206,Current,Not Started,0,,8/23/2022,35246,Employed,363,0,4,Mixed,East,SMS
+204,26,Employed,15163,368,German,10204,12.83,36,Other,4/27/2020,4/12/2023,-2,55623.1236,-15459.1236,Current,Not Started,0,,4/10/2023,40164,Employed,1078,0,6,Always Late,South,Email
+205,54,Employed,56424,464,German,10205,9.05,36,Debt Consolidation,12/10/2021,11/24/2024,4,12013.132,-2565.132,Current,Not Started,0,,11/28/2024,9448,Employed,1084,0,2,Always Late,East,SMS
+206,50,Employed,68744,788,German,10206,4.16,24,Education,5/22/2021,5/12/2023,-4,48083.248,-3693.248,Current,Not Started,0,,5/8/2023,44390,Employed,716,0,6,Mixed,West,Phone
+207,68,Employed,85331,604,German,10207,5.51,60,Home Improvement,12/7/2022,11/11/2027,-3,14123.6115,-3050.6115,Current,Not Started,0,,11/8/2027,11073,Employed,1797,0,5,Always Late,East,Phone
+208,59,Unemployed,25634,664,German,10208,11.64,60,Other,4/6/2021,3/11/2026,-3,57606.948,-21192.948,Current,Not Started,0,,3/8/2026,36414,Unemployed,1797,0,7,Always Late,West,In-App
+209,61,Employed,19798,678,German,10209,11.69,24,Home Improvement,9/15/2021,9/5/2023,3,7660.6642,-1451.6642,Current,Not Started,0,,9/8/2023,6209,Employed,723,0,7,Always Late,West,In-App
+210,41,Employed,37420,642,German,10210,13.83,60,Other,4/24/2021,3/29/2026,-2,12742.0695,-5209.0695,Current,Not Started,0,,3/27/2026,7533,Employed,1798,0,3,Mixed,West,In-App
+211,32,Employed,44300,653,German,10211,10.2,48,Home Improvement,10/4/2020,9/13/2024,139,31061.888,-9000.888,Default,Recovered,-8260.502656,3/13/2025,1/30/2025,22061,Employed,1579,1,2,Always On Time,South,SMS
+212,49,Unemployed,104881,715,Other,10212,4.93,60,Education,12/25/2022,11/29/2027,46,10235.0115,-2024.0115,Delinquent,Not Started,0,,1/14/2028,8211,Unemployed,1846,0,9,Always Late,East,In-App
+213,49,Employed,25749,408,Other,10213,4.9,60,Other,5/24/2020,4/28/2025,153,13604.115000000002,-2677.115,Default,Recovered,-1556.276847,12/13/2025,9/28/2025,10927,Employed,1953,1,4,Always On Time,East,Phone
+214,41,Employed,119131,796,German,10214,11.79,60,Business,5/6/2021,4/10/2026,145,20547.4665,-7620.4665,Default,Recovered,-7065.490721,11/14/2026,9/2/2026,12927,Employed,1945,1,8,Always On Time,North,In-App
+215,58,Employed,40121,640,German,10215,5.61,48,Home Improvement,3/31/2022,3/10/2026,1,31337.2936,-5743.2936,Current,Not Started,0,,3/11/2026,25594,Employed,1441,0,2,Always Late,North,Email
+216,69,Self-Employed,52487,682,German,10216,7.28,60,Home Improvement,7/1/2021,6/5/2026,-4,14071.024,-3755.024,Current,Not Started,0,,6/1/2026,10316,Self-Employed,1796,0,5,Mixed,North,In-App
+217,66,Employed,108947,832,German,10217,9.1,48,Debt Consolidation,8/27/2022,8/6/2026,3,17973.428,-4796.428,Current,Not Started,0,,8/9/2026,13177,Employed,1443,0,7,Mixed,North,SMS
+218,66,Self-Employed,48361,599,German,10218,3.78,24,Other,5/23/2021,5/13/2023,159,12741.557600000002,-895.5576,Default,Recovered,-755.2988594,3/1/2024,10/19/2023,11846,Self-Employed,879,1,8,Always On Time,East,Email
+219,69,Employed,36223,438,German,10219,6.36,12,Business,8/19/2021,8/14/2022,105,9501.1388,-568.1388,Default,Recovered,-431.8089758,1/9/2023,11/27/2022,8933,Employed,465,1,3,Mixed,West,Email
+220,29,Employed,87930,658,Other,10220,8.19,24,Education,4/7/2020,3/28/2022,-3,45672.1672,-6428.1672,Current,Not Started,0,,3/25/2022,39244,Employed,717,0,6,Always Late,West,Email
+221,56,Employed,29056,798,German,10221,6.72,12,Debt Consolidation,7/11/2021,7/6/2022,-3,50821.1312,-3200.1312,Current,Not Started,0,,7/3/2022,47621,Employed,357,0,4,Mixed,South,SMS
+222,19,Employed,43380,684,German,10222,5.07,24,Business,1/7/2022,12/28/2023,-3,45923.9744,-4227.9744,Current,Not Started,0,,12/25/2023,41696,Employed,717,0,1,Always Late,West,Phone
+223,20,Employed,41035,579,German,10223,11.87,12,Other,2/10/2020,2/4/2021,67,3445.596,-365.596,Delinquent,Not Started,0,,4/12/2021,3080,Employed,427,0,5,Mixed,East,In-App
+224,66,Employed,45620,782,German,10224,12.85,12,Business,3/18/2022,3/13/2023,-2,7999.936500000001,-910.9365,Current,Not Started,0,,3/11/2023,7089,Employed,358,0,5,Always Late,East,Email
+225,54,Self-Employed,34877,410,Other,10225,6.46,36,Home Improvement,3/18/2021,3/2/2024,2,32379.4374,-5256.4374,Current,Not Started,0,,3/4/2024,27123,Self-Employed,1082,0,8,Always Late,East,Email
+226,66,Employed,70316,438,German,10226,12.41,12,Home Improvement,8/12/2020,8/7/2021,-1,9888.7077,-1091.7077,Current,Not Started,0,,8/6/2021,8797,Employed,359,0,4,Mixed,South,Email
+227,34,Employed,79041,734,German,10227,7.93,12,Debt Consolidation,2/24/2020,2/18/2021,-5,10087.1378,-741.1378,Current,Not Started,0,,2/13/2021,9346,Employed,355,0,2,Mixed,North,Phone
+228,66,Employed,68352,808,German,10228,9.33,36,Other,4/16/2022,3/31/2025,38,26721.7522,-5843.7522,Delinquent,Not Started,0,,5/8/2025,20878,Employed,1118,0,1,Always Late,West,Phone
+229,19,Employed,45911,572,German,10229,13.34,60,Other,9/23/2020,8/28/2025,-5,57798.224,-23126.224,Current,Not Started,0,,8/23/2025,34672,Employed,1795,0,3,Always Late,East,SMS
+230,19,Employed,47784,398,German,10230,12.12,60,Business,11/9/2020,10/14/2025,155,29956.718,-11303.718,Default,Not Started,0,,3/18/2026,18653,Employed,1955,0,3,Always Late,East,Phone
+231,45,Employed,18191,403,German,10231,12.76,36,Debt Consolidation,2/13/2021,1/29/2024,-3,60486.437600000005,-16744.4376,Current,Not Started,0,,1/26/2024,43742,Employed,1077,0,6,Mixed,North,In-App
+232,40,Employed,48160,513,German,10232,5.07,48,Other,3/19/2022,2/26/2026,76,32643.992,-5503.992,Delinquent,Not Started,0,,5/13/2026,27140,Employed,1516,0,3,Mixed,East,SMS
+233,54,Self-Employed,105536,464,German,10233,4.3,12,Home Improvement,2/13/2021,2/8/2022,55,2277.912,-93.912,Delinquent,Not Started,0,,4/4/2022,2184,Self-Employed,415,0,8,Mixed,West,SMS
+234,49,Unemployed,119576,819,German,10234,13.77,12,Business,12/31/2022,12/26/2023,-1,40380.3861,-4887.3861,Current,Not Started,0,,12/25/2023,35493,Unemployed,359,0,9,Always Late,South,In-App
+235,50,Employed,79641,583,German,10235,7.96,36,Education,8/18/2021,8/2/2024,4,55929.3424,-10781.3424,Current,Not Started,0,,8/6/2024,45148,Employed,1084,0,5,Mixed,East,In-App
+236,18,Employed,64723,816,German,10236,6.81,36,Home Improvement,4/9/2022,3/24/2025,52,31126.3378,-5280.3378,Delinquent,Not Started,0,,5/15/2025,25846,Employed,1132,0,8,Always Late,West,In-App
+237,36,Employed,18631,463,German,10237,11.83,48,Debt Consolidation,7/17/2021,6/26/2025,4,68982.59,-22157.59,Current,Not Started,0,,6/30/2025,46825,Employed,1444,0,6,Always Late,East,SMS
+238,19,Employed,21172,363,German,10238,13.12,60,Other,1/5/2022,12/10/2026,37,38410.92,-15215.92,Delinquent,Not Started,0,,1/16/2027,23195,Employed,1837,0,4,Always Late,North,SMS
+239,61,Employed,57080,390,German,10239,13.42,24,Home Improvement,3/14/2021,3/4/2023,73,8379.0504,-1773.0504,Delinquent,Not Started,0,,5/16/2023,6606,Employed,793,0,2,Mixed,East,SMS
+240,43,Employed,104097,416,German,10240,7.13,60,Education,8/8/2021,7/13/2026,54,6722.814,-1766.814,Delinquent,Not Started,0,,9/5/2026,4956,Employed,1854,0,4,Mixed,East,In-App
+241,49,Self-Employed,105353,566,German,10241,13.3,12,Education,3/16/2020,3/11/2021,0,19889.815,-2334.815,Current,Not Started,0,,3/11/2021,17555,Self-Employed,360,0,4,Always Late,South,In-App
+242,23,Employed,35281,439,German,10242,3.97,36,Debt Consolidation,10/13/2020,9/28/2023,3,28927.6159,-3078.6159,Current,Not Started,0,,10/1/2023,25849,Employed,1083,0,7,Always Late,North,Email
+243,49,Employed,43671,545,German,10243,4.07,48,Home Improvement,5/25/2021,5/4/2025,2,22895.532000000003,-3205.532,Current,Not Started,0,,5/6/2025,19690,Employed,1442,0,4,Mixed,North,Phone
+244,21,Employed,66431,694,German,10244,10.67,60,Business,9/3/2022,8/8/2027,3,76443.4415,-26594.4415,Current,Not Started,0,,8/11/2027,49849,Employed,1803,0,7,Always Late,South,Email
+245,28,Employed,105900,786,German,10245,4.23,48,Home Improvement,7/5/2021,6/14/2025,39,31974.1124,-4627.1124,Delinquent,Not Started,0,,7/23/2025,27347,Employed,1479,0,5,Always Late,East,In-App
+246,34,Employed,107961,775,German,10246,7.23,60,Education,1/20/2022,12/25/2026,49,46548.3235,-12359.3235,Delinquent,Not Started,0,,2/12/2027,34189,Employed,1849,0,1,Mixed,West,SMS
+247,55,Employed,43602,816,German,10247,11.24,12,Debt Consolidation,3/8/2020,3/3/2021,3,43726.2192,-4418.2192,Current,Not Started,0,,3/6/2021,39308,Employed,363,0,9,Mixed,North,In-App
+248,41,Employed,103789,483,German,10248,7.38,24,Debt Consolidation,8/23/2020,8/13/2022,76,30738.466,-3953.466,Delinquent,Not Started,0,,10/28/2022,26785,Employed,796,0,4,Always Late,North,Phone
+249,22,Self-Employed,66399,319,Other,10249,5.57,48,Business,11/13/2020,10/23/2024,1,41205.9144,-7507.9144,Current,Not Started,0,,10/24/2024,33698,Self-Employed,1441,0,3,Always Late,East,Email
+250,69,Employed,38472,823,German,10250,6.74,48,Debt Consolidation,4/1/2021,3/11/2025,-1,21540.0336,-4574.0336,Current,Not Started,0,,3/10/2025,16966,Employed,1439,0,5,Mixed,East,Email
+251,51,Employed,64230,828,German,10251,8.76,24,Debt Consolidation,5/26/2022,5/15/2024,143,37720.3944,-5623.3944,Default,Not Started,0,,10/5/2024,32097,Employed,863,0,1,Always Late,North,SMS
+252,23,Employed,88616,446,German,10252,8.97,48,Debt Consolidation,4/30/2021,4/9/2025,91,22939.2616,-6057.2616,Default,Recovered,-5543.152106,12/6/2025,7/9/2025,16882,Employed,1531,1,5,Always On Time,East,Email
+253,39,Employed,22099,603,German,10253,12.5,48,Debt Consolidation,4/27/2022,4/6/2026,-4,8512.5,-2837.5,Current,Not Started,0,,4/2/2026,5675,Employed,1436,0,4,Always Late,West,Email
+254,28,Employed,40431,527,German,10254,12.13,60,Debt Consolidation,6/2/2022,5/7/2027,148,68838.52500000001,-25988.525,Default,Not Started,0,,10/2/2027,42850,Employed,1948,0,3,Mixed,North,In-App
+255,65,Self-Employed,71492,401,German,10255,8.75,60,Education,4/5/2020,3/10/2025,-3,20137.9375,-6128.9375,Current,Not Started,0,,3/7/2025,14009,Self-Employed,1797,0,9,Always Late,West,Email
+256,33,Self-Employed,111722,716,Other,10256,13.23,24,Home Improvement,4/29/2021,4/19/2023,2,36474.8578,-7631.8578,Current,Not Started,0,,4/21/2023,28843,Self-Employed,722,0,4,Always Late,West,Email
+257,50,Self-Employed,62684,515,Other,10257,4.81,12,Other,7/16/2021,7/11/2022,0,32274.1433,-1481.1433,Current,Not Started,0,,7/11/2022,30793,Self-Employed,360,0,2,Mixed,East,Email
+258,26,Employed,45111,706,German,10258,6.44,48,Debt Consolidation,3/16/2020,2/24/2024,102,50952.9216,-10436.9216,Default,Recovered,-7406.296573,8/9/2024,6/5/2024,40516,Employed,1542,1,4,Mixed,West,SMS
+259,23,Employed,78936,698,German,10259,13.02,12,Other,10/21/2020,10/16/2021,4,45062.20419999999,-5191.2042,Current,Not Started,0,,10/20/2021,39871,Employed,364,0,8,Mixed,East,SMS
+260,33,Employed,37614,798,German,10260,7.85,24,Other,12/11/2021,12/1/2023,-1,21817.549,-2960.549,Current,Not Started,0,,11/30/2023,18857,Employed,719,0,2,Always Late,South,In-App
+261,46,Employed,107260,764,Other,10261,14.78,24,Education,2/20/2020,2/9/2022,-5,26724.3412,-6097.3412,Current,Not Started,0,,2/4/2022,20627,Employed,715,0,2,Always Late,East,Email
+262,20,Self-Employed,56991,381,Other,10262,8.86,60,Debt Consolidation,3/12/2021,2/14/2026,89,28232.295,-8667.295,Delinquent,Not Started,0,,5/14/2026,19565,Self-Employed,1889,0,1,Always Late,West,SMS
+263,37,Employed,85476,664,German,10263,12.61,48,Other,9/19/2021,8/29/2025,3,40656.41,-13631.41,Current,Not Started,0,,9/1/2025,27025,Employed,1443,0,1,Always Late,South,SMS
+264,53,Employed,75920,462,German,10264,8.13,36,Debt Consolidation,3/18/2021,3/2/2024,-3,35864.1248,-7032.1248,Current,Not Started,0,,2/28/2024,28832,Employed,1077,0,7,Always Late,East,In-App
+265,36,Employed,109294,347,German,10265,8.39,24,Business,1/30/2021,1/20/2023,-3,52686.4648,-7570.4648,Current,Not Started,0,,1/17/2023,45116,Employed,717,0,6,Always Late,West,Phone
+266,43,Employed,78530,810,German,10266,7.9,48,Business,6/12/2021,5/22/2025,-4,14189.112,-3407.112,Current,Not Started,0,,5/18/2025,10782,Employed,1436,0,3,Always Late,North,Email
+267,20,Employed,51224,628,German,10267,11.77,12,Business,7/23/2022,7/18/2023,81,44316.805,-4666.805,Delinquent,Not Started,0,,10/7/2023,39650,Employed,441,0,5,Mixed,North,SMS
+268,36,Employed,22788,415,German,10268,9.8,60,Other,10/23/2021,9/27/2026,-4,34815.34,-11449.34,Current,Not Started,0,,9/23/2026,23366,Employed,1796,0,3,Mixed,East,In-App
+269,37,Employed,43082,636,German,10269,14.35,12,Business,2/19/2020,2/13/2021,61,33798.4295,-4241.4295,Delinquent,Not Started,0,,4/15/2021,29557,Employed,421,0,9,Mixed,East,In-App
+270,49,Self-Employed,104570,446,German,10270,6.39,24,Education,11/13/2022,11/2/2024,3,7666.7844,-868.7844,Current,Not Started,0,,11/5/2024,6798,Self-Employed,723,0,9,Always Late,North,In-App
+271,24,Self-Employed,116015,622,German,10271,4.66,24,Education,8/30/2022,8/19/2024,150,11617.4364,-990.4364,Default,Not Started,0,,1/16/2025,10627,Self-Employed,870,0,3,Mixed,West,SMS
+272,69,Employed,91816,742,Other,10272,8.02,12,Other,2/18/2020,2/12/2021,4,45566.0766,-3383.0766,Current,Not Started,0,,2/16/2021,42183,Employed,364,0,7,Always Late,West,Email
+273,58,Employed,98588,312,German,10273,10.59,24,Debt Consolidation,7/14/2022,7/3/2024,1,16318.0988,-2852.0988,Current,Not Started,0,,7/4/2024,13466,Employed,721,0,6,Mixed,West,Phone
+274,50,Employed,31531,793,German,10274,13.4,48,Home Improvement,4/19/2020,3/29/2024,2,66991.104,-23377.104,Current,Not Started,0,,3/31/2024,43614,Employed,1442,0,3,Mixed,East,Email
+275,57,Employed,103340,586,German,10275,7.48,24,Debt Consolidation,9/6/2020,8/27/2022,48,15772.512,-2052.512,Delinquent,Not Started,0,,10/14/2022,13720,Employed,768,0,2,Always Late,South,In-App
+276,56,Employed,109439,413,German,10276,11.02,60,Debt Consolidation,5/20/2021,4/24/2026,112,66558.063,-23645.063,Default,Recovered,-14116.03116,9/20/2026,8/14/2026,42913,Employed,1912,1,4,Always On Time,South,In-App
+277,35,Employed,59857,779,German,10277,7.53,48,Debt Consolidation,2/15/2020,1/25/2024,-5,49825.55040000001,-11533.5504,Current,Not Started,0,,1/20/2024,38292,Employed,1435,0,6,Always Late,South,Phone
+278,57,Employed,25142,321,German,10278,10.6,36,Debt Consolidation,5/4/2022,4/18/2025,67,9962.762,-2403.762,Delinquent,Not Started,0,,6/24/2025,7559,Employed,1147,0,9,Mixed,South,Email
+279,18,Employed,63355,648,German,10279,13.68,24,Home Improvement,8/14/2020,8/4/2022,-3,52711.7568,-11323.7568,Current,Not Started,0,,8/1/2022,41388,Employed,717,0,6,Mixed,South,In-App
+280,28,Employed,24866,619,German,10280,6.16,24,Business,4/11/2022,3/31/2024,-3,22641.4656,-2483.4656,Current,Not Started,0,,3/28/2024,20158,Employed,717,0,7,Always Late,East,In-App
+281,45,Employed,85067,425,German,10281,8.15,60,Debt Consolidation,10/29/2022,10/3/2027,-3,44921.77,-13005.77,Current,Not Started,0,,9/30/2027,31916,Employed,1797,0,5,Mixed,East,Email
+282,42,Unemployed,118634,576,German,10282,14.92,60,Education,7/25/2020,6/29/2025,4,40257.522,-17200.522,Current,Not Started,0,,7/3/2025,23057,Unemployed,1804,0,7,Mixed,South,In-App
+283,67,Self-Employed,118814,503,German,10283,13.49,12,Other,7/29/2020,7/24/2021,56,41868.7308,-4976.7308,Delinquent,Not Started,0,,9/18/2021,36892,Self-Employed,416,0,6,Always Late,East,Email
+284,40,Employed,79027,493,German,10284,9.99,12,Other,4/25/2020,4/20/2021,4,46678.65610000001,-4239.6561,Current,Not Started,0,,4/24/2021,42439,Employed,364,0,3,Mixed,East,In-App
+285,48,Self-Employed,72906,846,German,10285,9.44,12,Education,1/15/2022,1/10/2023,2,13905.4464,-1199.4464,Current,Not Started,0,,1/12/2023,12706,Self-Employed,362,0,4,Always Late,South,Email
+286,47,Employed,43138,585,German,10286,6.77,60,Debt Consolidation,7/21/2022,6/25/2027,-1,17494.195,-4424.195,Current,Not Started,0,,6/24/2027,13070,Employed,1799,0,7,Mixed,West,Phone
+287,59,Self-Employed,107601,356,German,10287,9.45,12,Home Improvement,11/28/2022,11/23/2023,-2,45861.739,-3959.739,Current,Not Started,0,,11/21/2023,41902,Self-Employed,358,0,1,Mixed,East,In-App
+288,52,Self-Employed,44956,602,German,10288,13.25,12,Business,10/5/2020,9/30/2021,3,2178.9300000000003,-254.93,Current,Not Started,0,,10/3/2021,1924,Self-Employed,363,0,7,Mixed,West,Phone
+289,24,Employed,119797,462,German,10289,11.38,36,Other,5/29/2020,5/14/2023,3,36858.9892,-9380.9892,Current,Not Started,0,,5/17/2023,27478,Employed,1083,0,2,Mixed,East,In-App
+290,33,Employed,91295,318,German,10290,6.84,12,Business,6/27/2022,6/22/2023,-5,6951.0104,-445.0104,Current,Not Started,0,,6/17/2023,6506,Employed,355,0,4,Mixed,East,In-App
+291,43,Employed,20439,669,German,10291,5.82,24,Home Improvement,12/7/2021,11/27/2023,-4,52937.4552,-5519.4552,Current,Not Started,0,,11/23/2023,47418,Employed,716,0,7,Mixed,South,SMS
+292,65,Employed,62241,563,German,10292,6.55,60,Other,9/19/2022,8/24/2027,2,48006.38250000001,-11843.3825,Current,Not Started,0,,8/26/2027,36163,Employed,1802,0,2,Always Late,East,Email
+293,69,Employed,57533,412,German,10293,5.45,48,Business,6/10/2022,5/20/2026,-1,31185.672,-5581.672,Current,Not Started,0,,5/19/2026,25604,Employed,1439,0,2,Mixed,North,Phone
+294,66,Employed,43270,787,Other,10294,4.6,36,Home Improvement,2/23/2020,2/7/2023,1,18560.78,-2250.78,Current,Not Started,0,,2/8/2023,16310,Employed,1081,0,3,Always Late,North,Phone
+295,19,Employed,93815,626,German,10295,8.32,60,Business,10/27/2020,10/1/2025,-5,13064.016,-3838.016,Current,Not Started,0,,9/26/2025,9226,Employed,1795,0,7,Always Late,South,Phone
+296,18,Self-Employed,54279,841,German,10296,4.8,60,Debt Consolidation,9/18/2021,8/23/2026,4,15848.44,-3067.44,Current,Not Started,0,,8/27/2026,12781,Self-Employed,1804,0,1,Always Late,West,Email
+297,65,Unemployed,38888,364,German,10297,5.48,24,Home Improvement,3/3/2021,2/21/2023,-1,7229.044,-714.044,Current,Not Started,0,,2/20/2023,6515,Unemployed,719,0,8,Mixed,West,SMS
+298,29,Employed,32630,591,German,10298,9.79,12,Business,10/15/2022,10/10/2023,-3,40768.3207,-3635.3207,Current,Not Started,0,,10/7/2023,37133,Employed,357,0,2,Always Late,West,Phone
+299,22,Employed,76063,324,German,10299,5.39,24,Debt Consolidation,10/22/2020,10/12/2022,4,19909.3816,-1937.3816,Current,Not Started,0,,10/16/2022,17972,Employed,724,0,9,Mixed,North,Email
+300,54,Employed,50144,848,German,10300,4.23,12,Debt Consolidation,7/19/2021,7/14/2022,-4,34491.7916,-1399.7916,Current,Not Started,0,,7/10/2022,33092,Employed,356,0,9,Mixed,West,In-App
+301,49,Employed,67161,300,Other,10301,7.15,12,Home Improvement,9/30/2021,9/25/2022,-4,13297.315,-887.315,Current,Not Started,0,,9/21/2022,12410,Employed,356,0,4,Always Late,West,Phone
+302,26,Unemployed,111718,848,German,10302,6.03,60,Education,3/11/2021,2/13/2026,3,26709.383,-6187.383,Current,Not Started,0,,2/16/2026,20522,Unemployed,1803,0,4,Always Late,South,Phone
+303,58,Employed,106074,440,German,10303,9.43,12,Other,3/12/2021,3/7/2022,94,11046.9585,-951.9585,Default,Recovered,-611.5632134,12/5/2022,6/9/2022,10095,Employed,454,1,4,Always On Time,West,SMS
+304,52,Employed,92360,487,German,10304,4.68,36,Home Improvement,5/27/2022,5/11/2025,-2,27423.1988,-3376.1988,Current,Not Started,0,,5/9/2025,24047,Employed,1078,0,5,Always Late,North,Phone
+305,36,Employed,65979,427,German,10305,12.15,36,Debt Consolidation,2/9/2020,1/24/2023,1,29295.815,-7825.815,Current,Not Started,0,,1/25/2023,21470,Employed,1081,0,1,Mixed,North,Phone
+306,65,Employed,112661,500,German,10306,13.92,36,Debt Consolidation,11/11/2022,10/26/2025,55,62557.2704,-18428.2704,Delinquent,Not Started,0,,12/20/2025,44129,Employed,1135,0,1,Always Late,North,In-App
+307,33,Employed,21979,426,German,10307,12.05,60,Home Improvement,7/15/2022,6/19/2027,4,15273.4275,-5742.4275,Current,Not Started,0,,6/23/2027,9531,Employed,1804,0,1,Mixed,South,Email
+308,20,Self-Employed,41189,556,German,10308,9.63,24,Education,1/20/2020,1/9/2022,74,45364.1188,-7326.1188,Delinquent,Not Started,0,,3/24/2022,38038,Self-Employed,794,0,3,Always Late,South,Email
+309,37,Employed,57600,846,German,10309,13.4,48,Other,8/18/2022,7/28/2026,-4,35947.008,-12544.008,Current,Not Started,0,,7/24/2026,23403,Employed,1436,0,2,Mixed,East,SMS
+310,41,Employed,74560,493,German,10310,11.49,12,Business,1/9/2022,1/4/2023,125,48692.1426,-5018.1426,Default,Not Started,0,,5/9/2023,43674,Employed,485,0,5,Always Late,West,In-App
+311,50,Employed,93040,403,German,10311,3.62,48,Home Improvement,3/13/2022,2/20/2026,-3,34483.6656,-4361.6656,Current,Not Started,0,,2/17/2026,30122,Employed,1437,0,9,Always Late,South,Email
+312,41,Unemployed,76558,834,German,10312,8.03,24,Other,12/3/2021,11/23/2023,0,20821.164,-2881.164,Current,Not Started,0,,11/23/2023,17940,Unemployed,720,0,3,Always Late,North,In-App
+313,69,Self-Employed,101205,564,German,10313,13.29,24,Other,9/21/2020,9/11/2022,109,39025.8798,-8194.8798,Default,Recovered,-6167.319105,2/12/2023,12/29/2022,30831,Self-Employed,829,1,4,Always On Time,North,Email
+314,28,Employed,21910,683,German,10314,7.48,60,Debt Consolidation,4/15/2020,3/20/2025,-1,16871.346,-4592.346,Current,Not Started,0,,3/19/2025,12279,Employed,1799,0,3,Always Late,South,In-App
+315,66,Employed,72713,559,German,10315,3.9,36,Business,9/4/2021,8/19/2024,-2,43808.74,-4588.74,Current,Not Started,0,,8/17/2024,39220,Employed,1078,0,7,Always Late,South,SMS
+316,25,Employed,61857,713,German,10316,12.08,36,Home Improvement,4/15/2020,3/31/2023,80,10186.6648,-2709.6648,Delinquent,Not Started,0,,6/19/2023,7477,Employed,1160,0,8,Mixed,South,Phone
+317,53,Employed,49964,657,German,10317,12.72,24,Debt Consolidation,6/14/2020,6/4/2022,2,23080.96,-4680.96,Current,Not Started,0,,6/6/2022,18400,Employed,722,0,7,Mixed,East,SMS
+318,55,Unemployed,100667,374,German,10318,5.35,60,Debt Consolidation,5/12/2020,4/16/2025,4,9468.225,-1998.225,Current,Not Started,0,,4/20/2025,7470,Unemployed,1804,0,9,Mixed,North,Email
+319,57,Employed,40227,654,German,10319,9.68,60,Education,4/23/2021,3/28/2026,-3,4544.008,-1482.008,Current,Not Started,0,,3/25/2026,3062,Employed,1797,0,1,Always Late,East,SMS
+320,37,Employed,20978,487,Other,10320,5.71,12,Other,6/17/2020,6/12/2021,0,45241.7658,-2443.7658,Current,Not Started,0,,6/12/2021,42798,Employed,360,0,7,Always Late,East,Phone
+321,52,Employed,102527,589,German,10321,11.77,36,Home Improvement,6/3/2021,5/18/2024,58,28252.728,-7372.728,Delinquent,Not Started,0,,7/15/2024,20880,Employed,1138,0,6,Always Late,West,SMS
+322,65,Employed,32153,344,German,10322,6.62,24,Home Improvement,12/1/2021,11/21/2023,105,40291.9244,-4710.9244,Default,Not Started,0,,3/5/2024,35581,Employed,825,0,2,Mixed,North,Email
+323,42,Employed,74765,382,German,10323,7.14,48,Home Improvement,8/7/2021,7/17/2025,1,58416.3784,-12977.3784,Current,Not Started,0,,7/18/2025,45439,Employed,1441,0,9,Mixed,North,Email
+324,52,Self-Employed,114084,422,Other,10324,13.22,36,Debt Consolidation,8/17/2022,8/1/2025,1,21379.1528,-6071.1528,Current,Not Started,0,,8/2/2025,15308,Self-Employed,1081,0,1,Always Late,South,SMS
+325,42,Employed,54071,657,German,10325,8.98,12,Education,3/25/2021,3/20/2022,-4,29454.024600000004,-2427.0246,Current,Not Started,0,,3/16/2022,27027,Employed,356,0,5,Always Late,South,Phone
+326,46,Employed,84519,827,German,10326,11.2,60,Business,2/21/2022,1/26/2027,-3,49483.2,-17763.2,Current,Not Started,0,,1/23/2027,31720,Employed,1797,0,2,Always Late,West,SMS
+327,35,Employed,24503,365,German,10327,8.13,24,Debt Consolidation,7/1/2022,6/20/2024,118,41947.7706,-5866.7706,Default,Recovered,-4491.983237,2/13/2025,10/16/2024,36081,Employed,838,1,3,Always On Time,East,Phone
+328,63,Employed,75703,674,German,10328,6.93,36,Business,4/9/2022,3/24/2025,4,12931.7774,-2225.7774,Current,Not Started,0,,3/28/2025,10706,Employed,1084,0,6,Always Late,South,In-App
+329,35,Employed,79379,461,German,10329,10.69,48,Education,8/14/2022,7/24/2026,4,15470.9012,-4633.9012,Current,Not Started,0,,7/28/2026,10837,Employed,1444,0,4,Mixed,South,Phone
+330,19,Employed,110457,679,Other,10330,5.28,12,Other,1/24/2021,1/19/2022,76,41689.8272,-2090.8272,Delinquent,Not Started,0,,4/5/2022,39599,Employed,436,0,3,Always Late,North,In-App
+331,52,Self-Employed,72866,657,German,10331,7.79,12,Home Improvement,6/15/2022,6/10/2023,94,40770.4896,-2946.4896,Default,Recovered,-2660.062564,2/8/2024,9/12/2023,37824,Self-Employed,454,1,3,Always On Time,North,SMS
+332,33,Employed,31905,487,German,10332,5.9,36,Business,3/25/2022,3/9/2025,1,40103.921,-6030.921,Current,Not Started,0,,3/10/2025,34073,Employed,1081,0,7,Always Late,South,Phone
+333,58,Employed,60838,621,Other,10333,11.5,48,Debt Consolidation,4/18/2020,3/28/2024,-4,70247.9,-22132.9,Current,Not Started,0,,3/24/2024,48115,Employed,1436,0,1,Mixed,North,In-App
+334,53,Employed,73279,749,German,10334,14.36,12,Business,11/28/2020,11/23/2021,-3,37839.4368,-4751.4368,Current,Not Started,0,,11/20/2021,33088,Employed,357,0,3,Mixed,West,In-App
+335,50,Employed,104489,773,German,10335,14.95,24,Other,10/16/2021,10/6/2023,97,37816.488,-8704.488,Default,Recovered,-7796.404143,4/9/2024,1/11/2024,29112,Employed,817,1,8,Always On Time,South,In-App
+336,21,Unemployed,41806,312,German,10336,8.68,12,Home Improvement,1/6/2021,1/1/2022,1,29668.5532,-2369.5532,Current,Not Started,0,,1/2/2022,27299,Unemployed,361,0,7,Mixed,North,Email
+337,50,Self-Employed,60000,483,German,10337,6.4,48,Business,9/6/2022,8/16/2026,4,44533.992,-9076.992,Current,Not Started,0,,8/20/2026,35457,Self-Employed,1444,0,3,Always Late,West,SMS
+338,31,Employed,37168,410,German,10338,8.59,60,Other,4/14/2020,3/19/2025,-3,44404.5585,-13341.5585,Current,Not Started,0,,3/16/2025,31063,Employed,1797,0,6,Always Late,North,In-App
+339,38,Employed,85119,807,German,10339,13.24,60,Debt Consolidation,3/30/2020,3/4/2025,-5,8172.053999999999,-3255.054,Current,Not Started,0,,2/27/2025,4917,Employed,1795,0,7,Always Late,North,Phone
+340,65,Employed,53714,589,German,10340,5.87,36,Education,9/28/2020,9/13/2023,-3,4629.129599999999,-693.1296,Current,Not Started,0,,9/10/2023,3936,Employed,1077,0,7,Always Late,North,In-App
+341,37,Employed,69093,594,German,10341,14.45,48,Debt Consolidation,4/26/2021,4/5/2025,177,59380.13999999999,-21750.14,Default,Recovered,-17197.47201,11/7/2025,9/29/2025,37630,Employed,1617,1,4,Always On Time,South,Email
+342,25,Employed,70419,750,German,10342,7.43,12,Home Improvement,2/13/2020,2/7/2021,110,16658.0958,-1152.0958,Default,Not Started,0,,5/28/2021,15506,Employed,470,0,2,Always Late,East,SMS
+343,24,Employed,64145,514,German,10343,14.84,12,Debt Consolidation,6/6/2022,6/1/2023,103,34228.062000000005,-4423.062,Default,Recovered,-3938.262301,11/11/2023,9/12/2023,29805,Employed,463,1,2,Mixed,North,Email
+344,20,Employed,92425,326,Other,10344,13.14,60,Debt Consolidation,12/7/2020,11/11/2025,-5,25381.926,-10063.926,Current,Not Started,0,,11/6/2025,15318,Employed,1795,0,2,Mixed,West,Email
+345,34,Employed,107949,530,German,10345,12.8,60,Debt Consolidation,7/8/2021,6/12/2026,83,80471.52,-31403.52,Delinquent,Not Started,0,,9/3/2026,49068,Employed,1883,0,4,Always Late,South,Email
+346,50,Self-Employed,92811,620,Other,10346,7.16,24,Debt Consolidation,3/6/2022,2/24/2024,79,30896.1232,-3870.1232,Delinquent,Not Started,0,,5/13/2024,27026,Self-Employed,799,0,1,Always Late,South,Phone
+347,65,Employed,17461,532,German,10347,3.6,60,Home Improvement,1/23/2021,12/28/2025,-3,33832.96,-5160.96,Current,Not Started,0,,12/25/2025,28672,Employed,1797,0,5,Always Late,West,SMS
+348,29,Employed,29291,736,German,10348,7.89,24,Other,1/22/2021,1/12/2023,-2,45637.0026,-6220.0026,Current,Not Started,0,,1/10/2023,39417,Employed,718,0,3,Always Late,North,SMS
+349,68,Self-Employed,61804,832,German,10349,6.97,12,Business,10/27/2021,10/22/2022,0,30252.1857,-1971.1857,Current,Not Started,0,,10/22/2022,28281,Self-Employed,360,0,2,Always Late,East,Phone
+350,39,Employed,91971,702,German,10350,3.93,24,Education,5/16/2020,5/6/2022,176,53328.1412,-3886.1412,Default,Not Started,0,,10/29/2022,49442,Employed,896,0,7,Mixed,North,SMS
+351,39,Employed,108471,352,German,10351,9.31,24,Business,12/21/2021,12/11/2023,1,34507.7442,-5416.7442,Current,Not Started,0,,12/12/2023,29091,Employed,721,0,4,Always Late,West,Email
+352,63,Employed,79946,612,German,10352,8.13,36,Business,11/11/2021,10/26/2024,129,48920.0992,-9592.0992,Default,Not Started,0,,3/4/2025,39328,Employed,1209,0,1,Mixed,South,SMS
+353,47,Employed,113989,580,German,10353,10.8,60,Education,7/17/2020,6/21/2025,-4,75797.26,-26578.26,Current,Not Started,0,,6/17/2025,49219,Employed,1796,0,7,Mixed,East,Phone
+354,55,Self-Employed,99080,330,German,10354,10.64,24,Home Improvement,5/26/2020,5/16/2022,62,23783.008,-4173.008,Delinquent,Not Started,0,,7/17/2022,19610,Self-Employed,782,0,1,Mixed,South,Email
+355,55,Self-Employed,76332,636,German,10355,4.89,12,Education,8/23/2022,8/18/2023,4,2180.6631,-101.6631,Current,Not Started,0,,8/22/2023,2079,Self-Employed,364,0,6,Mixed,West,Phone
+356,62,Employed,92794,482,German,10356,14.74,48,Home Improvement,10/10/2022,9/19/2026,69,49039.16,-18189.16,Delinquent,Not Started,0,,11/27/2026,30850,Employed,1509,0,6,Mixed,North,In-App
+357,68,Employed,45841,322,German,10357,5.65,24,Business,4/21/2022,4/10/2024,-5,53146.863,-5395.863,Current,Not Started,0,,4/5/2024,47751,Employed,715,0,3,Always Late,East,Email
+358,25,Employed,63758,843,German,10358,8.62,60,Home Improvement,2/17/2020,1/21/2025,102,30895.29,-9305.29,Default,Not Started,0,,5/3/2025,21590,Employed,1902,0,7,Always Late,South,Email
+359,44,Employed,91272,745,German,10359,9.11,36,Other,5/16/2020,5/1/2023,-4,40683.2083,-8732.2083,Current,Not Started,0,,4/27/2023,31951,Employed,1076,0,4,Mixed,South,SMS
+360,44,Employed,52643,373,German,10360,12.85,12,Education,3/11/2021,3/6/2022,4,18425.0195,-2098.0195,Current,Not Started,0,,3/10/2022,16327,Employed,364,0,4,Mixed,South,Email
+361,51,Unemployed,65408,309,German,10361,4.64,36,Other,7/21/2020,7/6/2023,0,15669.696,-1914.696,Current,Not Started,0,,7/6/2023,13755,Unemployed,1080,0,1,Mixed,North,Phone
+362,38,Employed,58950,783,German,10362,8.43,48,Business,1/9/2020,12/19/2023,-5,11011.842,-2776.842,Current,Not Started,0,,12/14/2023,8235,Employed,1435,0,2,Mixed,East,SMS
+363,47,Unemployed,71849,755,German,10363,10.73,24,Education,11/25/2022,11/14/2024,4,22102.0762,-3905.0762,Current,Not Started,0,,11/18/2024,18197,Unemployed,724,0,8,Mixed,North,In-App
+364,50,Employed,115500,459,German,10364,5.97,24,Business,1/1/2020,12/21/2021,-3,25156.2762,-2683.2762,Current,Not Started,0,,12/18/2021,22473,Employed,717,0,3,Always Late,North,Phone
+365,45,Employed,43044,313,German,10365,10.72,60,Other,7/18/2021,6/22/2026,161,4655.616,-1624.616,Default,Recovered,-968.0871144,1/19/2027,11/30/2026,3031,Employed,1961,1,4,Always On Time,North,In-App
+366,64,Employed,30997,477,German,10366,14.12,24,Business,7/23/2021,7/13/2023,2,54222.4368,-11940.4368,Current,Not Started,0,,7/15/2023,42282,Employed,722,0,4,Mixed,West,In-App
+367,50,Self-Employed,94751,711,German,10367,14.97,12,Education,3/28/2021,3/23/2022,-2,49279.5911,-6416.5911,Current,Not Started,0,,3/21/2022,42863,Self-Employed,358,0,4,Always Late,West,In-App
+368,22,Self-Employed,113605,352,German,10368,3.87,48,Education,3/17/2021,2/24/2025,-3,17653.4276,-2366.4276,Current,Not Started,0,,2/21/2025,15287,Self-Employed,1437,0,1,Mixed,West,Email
+369,65,Self-Employed,38911,707,German,10369,6.21,36,Business,12/22/2020,12/7/2023,-5,47071.1977,-7392.1977,Current,Not Started,0,,12/2/2023,39679,Self-Employed,1075,0,3,Always Late,East,Phone
+370,36,Employed,70533,321,German,10370,7.07,48,Education,6/11/2021,5/21/2025,100,58319.9364,-12856.9364,Default,Not Started,0,,8/29/2025,45463,Employed,1540,0,6,Always Late,North,Phone
+371,21,Employed,97566,329,German,10371,8.09,24,Education,10/6/2020,9/26/2022,0,38606.614,-5376.614,Current,Not Started,0,,9/26/2022,33230,Employed,720,0,2,Always Late,North,Email
+372,52,Self-Employed,109870,559,German,10372,6.29,36,Business,9/8/2022,8/23/2025,147,23817.9819,-3780.9819,Default,Recovered,-1985.137485,5/7/2026,1/17/2026,20037,Self-Employed,1227,1,2,Always On Time,West,SMS
+373,66,Employed,29571,504,German,10373,5.84,60,Other,5/5/2020,4/9/2025,-5,36243.184,-8191.184,Current,Not Started,0,,4/4/2025,28052,Employed,1795,0,1,Always Late,North,In-App
+374,34,Employed,109463,358,German,10374,14.48,48,Education,3/9/2020,2/17/2024,0,6853.728000000001,-2513.728,Current,Not Started,0,,2/17/2024,4340,Employed,1440,0,3,Mixed,North,Phone
+375,61,Employed,72941,770,German,10375,14.06,36,Education,6/4/2022,5/19/2025,127,59209.4392,-17565.4392,Default,Recovered,-16455.6005,11/24/2025,9/23/2025,41644,Employed,1207,1,7,Always On Time,South,Email
+376,45,Unemployed,73005,765,German,10376,4.04,36,Education,5/25/2022,5/9/2025,0,55683.2768,-6019.2768,Current,Not Started,0,,5/9/2025,49664,Unemployed,1080,0,1,Mixed,North,In-App
+377,47,Unemployed,101250,311,German,10377,7.4,36,Education,10/21/2020,10/6/2023,2,56460.066,-10257.066,Current,Not Started,0,,10/8/2023,46203,Unemployed,1082,0,2,Always Late,South,SMS
+378,46,Employed,73712,589,German,10378,8.16,12,Business,12/2/2020,11/27/2021,-1,2315.7056,-174.7056,Current,Not Started,0,,11/26/2021,2141,Employed,359,0,3,Mixed,North,SMS
+379,63,Self-Employed,58541,653,German,10379,6.25,48,Other,12/24/2021,12/3/2025,63,33031.25,-6606.25,Delinquent,Not Started,0,,2/4/2026,26425,Self-Employed,1503,0,6,Always Late,East,In-App
+380,23,Unemployed,38387,374,German,10380,10.73,36,Other,2/2/2022,1/17/2025,-4,26809.4539,-6528.4539,Current,Not Started,0,,1/13/2025,20281,Unemployed,1076,0,5,Mixed,West,SMS
+381,52,Employed,108980,740,German,10381,10.86,48,Home Improvement,9/14/2020,8/24/2024,4,61749.48559999999,-18700.4856,Current,Not Started,0,,8/28/2024,43049,Employed,1444,0,3,Mixed,South,Phone
+382,58,Employed,63908,540,German,10382,13.28,36,Education,12/12/2022,11/26/2025,-1,29960.72,-8535.72,Current,Not Started,0,,11/25/2025,21425,Employed,1079,0,6,Always Late,West,Phone
+383,54,Unemployed,100457,453,German,10383,12.02,60,Education,7/15/2021,6/19/2026,-3,57325.406,-21519.406,Current,Not Started,0,,6/16/2026,35806,Unemployed,1797,0,5,Always Late,South,Phone
+384,41,Employed,28057,395,German,10384,9.74,60,Home Improvement,11/26/2021,10/31/2026,109,49239.031,-16126.031,Default,Recovered,-8672.212554,4/18/2027,2/17/2027,33113,Employed,1909,1,7,Always On Time,South,SMS
+385,46,Employed,79028,593,German,10385,11.02,60,Other,6/7/2021,5/12/2026,2,8173.769999999999,-2903.77,Current,Not Started,0,,5/14/2026,5270,Employed,1802,0,7,Always Late,South,Phone
+386,66,Employed,70731,508,German,10386,6.65,24,Debt Consolidation,7/18/2020,7/8/2022,1,49641.262,-5827.262,Current,Not Started,0,,7/9/2022,43814,Employed,721,0,2,Mixed,East,Email
+387,63,Unemployed,39858,642,German,10387,10.32,36,Debt Consolidation,12/3/2021,11/17/2024,62,7442.456800000001,-1759.4568,Delinquent,Not Started,0,,1/18/2025,5683,Unemployed,1142,0,2,Always Late,North,Phone
+388,48,Unemployed,63689,387,German,10388,9.13,24,Other,5/27/2022,5/16/2024,-1,48349.4184,-7465.4184,Current,Not Started,0,,5/15/2024,40884,Unemployed,719,0,1,Mixed,South,Phone
+389,52,Unemployed,59638,689,German,10389,5.03,48,Education,5/19/2022,4/28/2026,3,37007.7708,-6198.7708,Current,Not Started,0,,5/1/2026,30809,Unemployed,1443,0,3,Mixed,East,SMS
+390,50,Employed,106598,624,German,10390,6.29,24,Debt Consolidation,1/13/2022,1/3/2024,-2,40024.4416,-4472.4416,Current,Not Started,0,,1/1/2024,35552,Employed,718,0,9,Always Late,South,Phone
+391,69,Self-Employed,117386,456,Other,10391,6.85,48,Business,1/4/2020,12/14/2023,-5,6097.3640000000005,-1311.364,Current,Not Started,0,,12/9/2023,4786,Self-Employed,1435,0,3,Mixed,North,In-App
+392,38,Self-Employed,61486,436,German,10392,14.13,48,Business,2/24/2020,2/3/2024,2,35451.78,-12801.78,Current,Not Started,0,,2/5/2024,22650,Self-Employed,1442,0,2,Mixed,South,Email
+393,49,Employed,35567,727,German,10393,6.15,48,Home Improvement,11/14/2020,10/24/2024,-1,37013.676,-7307.676,Current,Not Started,0,,10/23/2024,29706,Employed,1439,0,6,Mixed,East,SMS
+394,40,Self-Employed,44739,751,German,10394,6.83,24,Other,1/11/2022,1/1/2024,-4,11581.954,-1391.954,Current,Not Started,0,,12/28/2023,10190,Self-Employed,716,0,4,Mixed,North,Email
+395,50,Employed,72804,440,German,10395,7.75,36,Other,5/3/2022,4/17/2025,-5,48309.07,-9113.07,Current,Not Started,0,,4/12/2025,39196,Employed,1075,0,1,Mixed,East,In-App
+396,20,Employed,18754,382,German,10396,11.13,24,Debt Consolidation,1/25/2021,1/15/2023,-3,49452.9474,-9003.9474,Current,Not Started,0,,1/12/2023,40449,Employed,717,0,3,Mixed,North,SMS
+397,35,Employed,42044,476,German,10397,4.86,36,Education,6/20/2022,6/4/2025,3,46589.3738,-5928.3738,Current,Not Started,0,,6/7/2025,40661,Employed,1083,0,3,Mixed,North,SMS
+398,42,Employed,82260,497,German,10398,14.47,36,Other,4/12/2022,3/27/2025,-5,44039.7769,-13330.7769,Current,Not Started,0,,3/22/2025,30709,Employed,1075,0,6,Mixed,West,Phone
+399,59,Employed,81912,720,German,10399,13.45,48,Debt Consolidation,6/22/2021,6/1/2025,114,71407.802,-24978.802,Default,Recovered,-15570.39172,3/20/2026,9/23/2025,46429,Employed,1554,1,1,Always On Time,West,Email
+400,48,Employed,23706,700,German,10400,10.14,24,Debt Consolidation,5/21/2020,5/11/2022,2,19114.8976,-3222.8976,Current,Not Started,0,,5/13/2022,15892,Employed,722,0,2,Always Late,West,In-App
+401,20,Employed,23894,770,German,10401,11.25,36,Other,6/23/2021,6/7/2024,87,14235.0125,-3592.0125,Delinquent,Not Started,0,,9/2/2024,10643,Employed,1167,0,4,Mixed,North,In-App
+402,57,Self-Employed,33037,517,German,10402,3.69,60,Debt Consolidation,8/16/2021,7/21/2026,2,12961.983499999998,-2018.9835,Current,Not Started,0,,7/23/2026,10943,Self-Employed,1802,0,2,Mixed,South,SMS
+403,63,Employed,98986,474,German,10403,7.4,36,Home Improvement,6/20/2021,6/4/2024,164,54061.28,-9821.28,Default,Recovered,-8325.101047,1/19/2025,11/15/2024,44240,Employed,1244,1,5,Always On Time,East,Phone
+404,41,Employed,96942,322,German,10404,12.65,60,Home Improvement,2/29/2020,2/2/2025,162,76335.7,-29575.7,Default,Not Started,0,,7/14/2025,46760,Employed,1962,0,4,Mixed,East,SMS
+405,67,Employed,66612,534,German,10405,4.39,24,Other,9/7/2021,8/28/2023,-2,23977.287600000003,-1935.2876,Current,Not Started,0,,8/26/2023,22042,Employed,718,0,3,Always Late,East,SMS
+406,49,Self-Employed,44725,312,German,10406,6.75,24,Education,3/18/2022,3/7/2024,2,50954.69,-6060.69,Current,Not Started,0,,3/9/2024,44894,Self-Employed,722,0,8,Always Late,West,SMS
+407,64,Employed,20926,400,German,10407,10.23,24,Home Improvement,3/4/2022,2/22/2024,3,9478.9974,-1609.9974,Current,Not Started,0,,2/25/2024,7869,Employed,723,0,5,Always Late,North,SMS
+408,39,Employed,119555,835,Other,10408,6.45,36,Home Improvement,2/1/2020,1/16/2023,1,49455.0595,-8018.0595,Current,Not Started,0,,1/17/2023,41437,Employed,1081,0,1,Always Late,West,In-App
+409,40,Self-Employed,24496,822,German,10409,14.24,12,Other,4/1/2021,3/27/2022,-4,51757.574400000005,-6451.5744,Current,Not Started,0,,3/23/2022,45306,Self-Employed,356,0,4,Always Late,South,In-App
+410,19,Employed,71447,751,German,10410,5.01,36,Business,9/17/2021,9/1/2024,86,50421.0999,-6588.0999,Delinquent,Not Started,0,,11/26/2024,43833,Employed,1166,0,6,Always Late,North,SMS
+411,44,Employed,116604,730,German,10411,12.67,36,Debt Consolidation,12/22/2020,12/7/2023,2,30249.0318,-8331.0318,Current,Not Started,0,,12/9/2023,21918,Employed,1082,0,6,Always Late,East,SMS
+412,59,Employed,44806,832,German,10412,9.34,48,Home Improvement,10/15/2020,9/24/2024,-1,40354.9944,-10975.9944,Current,Not Started,0,,9/23/2024,29379,Employed,1439,0,2,Mixed,West,Phone
+413,19,Self-Employed,103199,592,German,10413,12.13,48,Business,7/14/2022,6/23/2026,-3,65258.20280000001,-21319.2028,Current,Not Started,0,,6/20/2026,43939,Self-Employed,1437,0,9,Mixed,West,SMS
+414,43,Employed,56321,400,German,10414,7.07,36,Education,10/1/2020,9/16/2023,1,31846.7154,-5572.7154,Current,Not Started,0,,9/17/2023,26274,Employed,1081,0,3,Mixed,South,In-App
+415,34,Self-Employed,117031,801,German,10415,9.42,60,Business,4/29/2020,4/3/2025,136,27501.816000000003,-8805.816,Default,Recovered,-6205.6696,1/25/2026,8/17/2025,18696,Self-Employed,1936,1,2,Mixed,South,Email
+416,57,Employed,80095,603,German,10416,13.35,48,Other,6/4/2022,5/14/2026,44,6077.7080000000005,-2115.708,Delinquent,Not Started,0,,6/27/2026,3962,Employed,1484,0,2,Always Late,West,In-App
+417,50,Unemployed,37656,839,German,10417,8.87,36,Education,3/28/2022,3/12/2025,-4,18802.8511,-3951.8511,Current,Not Started,0,,3/8/2025,14851,Unemployed,1076,0,1,Always Late,South,Phone
+418,26,Self-Employed,70147,654,German,10418,7.64,12,Education,2/12/2020,2/6/2021,-3,50318.4708,-3571.4708,Current,Not Started,0,,2/3/2021,46747,Self-Employed,357,0,7,Always Late,East,In-App
+419,60,Unemployed,106396,602,German,10419,9.67,60,Business,12/29/2021,12/3/2026,3,9340.116,-3044.116,Current,Not Started,0,,12/6/2026,6296,Unemployed,1803,0,1,Mixed,South,Email
+420,65,Employed,64666,795,German,10420,11.75,24,Other,3/3/2021,2/21/2023,81,19445.075,-3700.075,Delinquent,Not Started,0,,5/13/2023,15745,Employed,801,0,1,Always Late,South,SMS
+421,56,Self-Employed,97368,526,German,10421,8.6,36,Home Improvement,5/24/2020,5/9/2023,-2,8466.34,-1736.34,Current,Not Started,0,,5/7/2023,6730,Self-Employed,1078,0,7,Mixed,West,Email
+422,46,Employed,53787,535,German,10422,14.3,36,Business,5/9/2022,4/23/2025,-3,21322.109,-6401.109,Current,Not Started,0,,4/20/2025,14921,Employed,1077,0,3,Mixed,West,SMS
+423,59,Employed,77946,754,German,10423,6.89,60,Home Improvement,8/30/2020,8/4/2025,34,45570.483,-11676.483,Delinquent,Not Started,0,,9/7/2025,33894,Employed,1834,0,1,Always Late,North,SMS
+424,43,Employed,36727,312,German,10424,8.97,48,Business,12/8/2020,11/17/2024,-3,8970.7976,-2368.7976,Current,Not Started,0,,11/14/2024,6602,Employed,1437,0,1,Always Late,North,In-App
+425,52,Self-Employed,110081,509,German,10425,12.2,48,Home Improvement,5/14/2021,4/23/2025,137,27639.6,-9064.6,Default,Recovered,-8504.017806,12/13/2025,9/7/2025,18575,Self-Employed,1577,1,1,Always On Time,West,In-App
+426,67,Unemployed,83056,696,Other,10426,11.42,48,Business,7/20/2022,6/29/2026,-3,29169.5064,-9146.5064,Current,Not Started,0,,6/26/2026,20023,Unemployed,1437,0,2,Mixed,South,In-App
+427,42,Self-Employed,18081,399,Other,10427,13.43,24,Education,11/12/2022,11/1/2024,92,58798.3414,-12449.3414,Default,Not Started,0,,2/1/2025,46349,Self-Employed,812,0,5,Always Late,South,Phone
+428,41,Employed,49196,330,German,10428,14.96,60,Debt Consolidation,2/11/2021,1/16/2026,-1,29710.756,-12713.756,Current,Not Started,0,,1/15/2026,16997,Employed,1799,0,2,Mixed,North,In-App
+429,30,Employed,51735,827,German,10429,8.41,60,Education,1/16/2022,12/21/2026,0,26634.375,-7884.375,Current,Not Started,0,,12/21/2026,18750,Employed,1800,0,1,Always Late,North,Phone
+430,24,Self-Employed,119749,628,German,10430,4.78,48,Home Improvement,12/16/2021,11/25/2025,-5,51196.5848,-8217.5848,Current,Not Started,0,,11/20/2025,42979,Self-Employed,1435,0,6,Mixed,North,In-App
+431,53,Employed,95102,465,German,10431,3.85,48,Other,5/27/2020,5/6/2024,43,27507.898,-3670.898,Delinquent,Not Started,0,,6/18/2024,23837,Employed,1483,0,5,Mixed,East,SMS
+432,62,Employed,94578,758,German,10432,11.86,12,Education,11/1/2022,10/27/2023,0,17894.2442,-1897.2442,Current,Not Started,0,,10/27/2023,15997,Employed,360,0,3,Mixed,East,Phone
+433,37,Employed,40498,399,German,10433,13.55,12,Debt Consolidation,7/15/2022,7/10/2023,4,45918.4845,-5479.4845,Current,Not Started,0,,7/14/2023,40439,Employed,364,0,4,Mixed,North,Email
+434,18,Employed,91865,472,German,10434,6.04,36,Home Improvement,12/14/2022,11/28/2025,-3,28427.9404,-4360.9404,Current,Not Started,0,,11/25/2025,24067,Employed,1077,0,3,Mixed,South,Phone
+435,25,Employed,46656,461,German,10435,5.32,36,Education,6/9/2022,5/24/2025,-2,53386.8244,-7347.8244,Current,Not Started,0,,5/22/2025,46039,Employed,1078,0,4,Always Late,North,Phone
+436,63,Employed,82695,562,German,10436,4.22,60,Business,5/12/2022,4/16/2027,0,26548.753,-4625.753,Current,Not Started,0,,4/16/2027,21923,Employed,1800,0,4,Always Late,East,Email
+437,33,Employed,52900,573,German,10437,12.96,60,Other,12/30/2020,12/4/2025,153,16275.648,-6399.648,Default,Recovered,-4153.306898,9/2/2026,5/6/2026,9876,Employed,1953,1,3,Always On Time,South,Phone
+438,31,Employed,99899,302,German,10438,7.08,24,Home Improvement,3/21/2022,3/10/2024,3,4437.3992,-550.3992,Current,Not Started,0,,3/13/2024,3887,Employed,723,0,8,Always Late,East,SMS
+439,29,Unemployed,62701,327,German,10439,8.12,24,Education,2/11/2020,1/31/2022,0,50473.7328,-7051.7328,Current,Not Started,0,,1/31/2022,43422,Unemployed,720,0,1,Mixed,South,In-App
+440,68,Employed,34033,625,German,10440,9.28,12,Home Improvement,7/13/2022,7/8/2023,1,41366.8512,-3512.8512,Current,Not Started,0,,7/9/2023,37854,Employed,361,0,6,Always Late,East,Email
+441,40,Employed,25805,448,German,10441,13.15,36,Business,2/26/2020,2/10/2023,-1,52918.486,-14970.486,Current,Not Started,0,,2/9/2023,37948,Employed,1079,0,1,Mixed,South,In-App
+442,32,Employed,50851,839,German,10442,10.98,12,Debt Consolidation,12/9/2021,12/4/2022,3,4262.7418,-421.7418,Current,Not Started,0,,12/7/2022,3841,Employed,363,0,6,Mixed,South,SMS
+443,45,Employed,41832,787,German,10443,10.57,12,Education,10/19/2020,10/14/2021,-2,32901.2092,-3145.2092,Current,Not Started,0,,10/12/2021,29756,Employed,358,0,5,Always Late,South,Email
+444,51,Unemployed,78437,737,German,10444,5.52,36,Home Improvement,7/12/2021,6/26/2024,4,8205.824,-1165.824,Current,Not Started,0,,6/30/2024,7040,Unemployed,1084,0,7,Always Late,South,In-App
+445,19,Self-Employed,28944,364,German,10445,9.4,24,Home Improvement,9/21/2021,9/11/2023,0,13429.152,-2125.152,Current,Not Started,0,,9/11/2023,11304,Self-Employed,720,0,1,Mixed,West,In-App
+446,49,Employed,34873,655,German,10446,11.73,36,Home Improvement,9/11/2021,8/26/2024,111,42369.8979,-11028.8979,Default,Recovered,-5579.912885,5/25/2025,12/15/2024,31341,Employed,1191,1,4,Always On Time,East,SMS
+447,40,Employed,55372,832,German,10447,14.69,48,Debt Consolidation,1/20/2021,12/30/2024,-5,9141.4008,-3383.4008,Current,Not Started,0,,12/25/2024,5758,Employed,1435,0,4,Mixed,East,In-App
+448,39,Self-Employed,104464,551,German,10448,5.82,48,Home Improvement,7/3/2022,6/12/2026,-1,22202.728000000003,-4192.728,Current,Not Started,0,,6/11/2026,18010,Self-Employed,1439,0,6,Always Late,West,SMS
+449,68,Unemployed,30379,534,German,10449,3.61,48,Other,5/4/2022,4/13/2026,42,37373.815200000005,-4715.8152,Delinquent,Not Started,0,,5/25/2026,32658,Unemployed,1482,0,4,Mixed,South,Phone
+450,42,Employed,51751,526,German,10450,4.37,60,Other,7/16/2022,6/20/2027,50,47255.867000000006,-8473.867,Delinquent,Not Started,0,,8/9/2027,38782,Employed,1850,0,4,Always Late,South,SMS
+451,39,Employed,115082,824,German,10451,7.82,24,Home Improvement,7/11/2021,7/1/2023,3,2746.4500000000003,-371.45,Current,Not Started,0,,7/4/2023,2375,Employed,723,0,3,Always Late,East,Phone
+452,39,Employed,104822,612,German,10452,12.94,24,Other,7/16/2020,7/6/2022,-5,43993.8012,-9044.8012,Current,Not Started,0,,7/1/2022,34949,Employed,715,0,3,Mixed,West,Email
+453,66,Unemployed,20110,348,German,10453,3.58,60,Education,10/28/2021,10/2/2026,137,27225.468,-4133.468,Default,Recovered,-2688.109235,3/26/2027,2/16/2027,23092,Unemployed,1937,1,4,Always On Time,South,In-App
+454,69,Employed,69341,417,Other,10454,8.75,12,Other,10/15/2020,10/10/2021,-1,1620.3749999999998,-130.375,Current,Not Started,0,,10/9/2021,1490,Employed,359,0,1,Mixed,South,SMS
+455,59,Unemployed,27087,353,German,10455,7.29,48,Home Improvement,6/11/2022,5/21/2026,1,6107.9764000000005,-1378.9764,Current,Not Started,0,,5/22/2026,4729,Unemployed,1441,0,9,Mixed,South,SMS
+456,23,Employed,38762,343,German,10456,4.1,48,Business,11/20/2022,10/30/2026,0,8117.736,-1143.736,Current,Not Started,0,,10/30/2026,6974,Employed,1440,0,6,Always Late,North,In-App
+457,32,Employed,97617,352,German,10457,8.68,12,Education,5/2/2022,4/27/2023,0,22475.024,-1795.024,Current,Not Started,0,,4/27/2023,20680,Employed,360,0,9,Always Late,West,In-App
+458,60,Employed,115483,824,German,10458,6.43,36,Debt Consolidation,9/21/2020,9/6/2023,1,23051.5996,-3727.5996,Current,Not Started,0,,9/7/2023,19324,Employed,1081,0,2,Always Late,South,Email
+459,54,Employed,24596,401,Other,10459,7.55,36,Home Improvement,1/20/2020,1/4/2023,35,39657.651,-7323.651,Delinquent,Not Started,0,,2/8/2023,32334,Employed,1115,0,7,Always Late,North,Email
+460,50,Employed,118555,697,German,10460,11.61,24,Debt Consolidation,11/28/2020,11/18/2022,-1,27598.8156,-5200.8156,Current,Not Started,0,,11/17/2022,22398,Employed,719,0,7,Always Late,West,SMS
+461,25,Employed,33313,437,German,10461,9.5,60,Business,4/1/2021,3/6/2026,4,52583.75,-16933.75,Current,Not Started,0,,3/10/2026,35650,Employed,1804,0,5,Always Late,South,Email
+462,61,Employed,81549,686,German,10462,4.93,24,Debt Consolidation,6/6/2022,5/26/2024,-1,24489.9912,-2197.9912,Current,Not Started,0,,5/25/2024,22292,Employed,719,0,5,Always Late,East,Phone
+463,61,Self-Employed,38705,410,German,10463,14.56,36,Home Improvement,6/12/2020,5/28/2023,3,52809.584,-16054.584,Current,Not Started,0,,5/31/2023,36755,Self-Employed,1083,0,3,Always Late,North,Email
+464,22,Employed,82364,316,German,10464,10.81,12,Home Improvement,9/2/2022,8/28/2023,75,43607.0593,-4254.0593,Delinquent,Not Started,0,,11/11/2023,39353,Employed,435,0,7,Always Late,North,Email
+465,56,Employed,88445,481,German,10465,12.31,24,Business,9/24/2022,9/13/2024,2,5182.9458,-1023.9458,Current,Not Started,0,,9/15/2024,4159,Employed,722,0,4,Always Late,South,SMS
+466,21,Unemployed,118892,835,German,10466,4.41,48,Home Improvement,4/6/2022,3/16/2026,104,39557.6264,-5931.6264,Default,Not Started,0,,6/28/2026,33626,Unemployed,1544,0,1,Always Late,South,Phone
+467,23,Self-Employed,93645,840,Other,10467,4.04,48,Business,1/12/2021,12/22/2024,4,35255.7216,-4904.7216,Current,Not Started,0,,12/26/2024,30351,Self-Employed,1444,0,3,Mixed,North,Email
+468,62,Unemployed,17023,470,German,10468,3.72,12,Business,7/2/2021,6/27/2022,-2,39722.6856,-1424.6856,Current,Not Started,0,,6/25/2022,38298,Unemployed,358,0,8,Always Late,East,Phone
+469,49,Unemployed,74796,708,German,10469,5.67,36,Home Improvement,7/14/2022,6/28/2025,81,21137.8565,-3072.8565,Delinquent,Not Started,0,,9/17/2025,18065,Unemployed,1161,0,7,Mixed,East,Phone
+470,69,Employed,95073,677,German,10470,8.27,48,Other,12/30/2020,12/9/2024,4,30126.6504,-7488.6504,Current,Not Started,0,,12/13/2024,22638,Employed,1444,0,9,Mixed,West,Phone
+471,47,Employed,107197,487,German,10471,14.26,48,Business,6/17/2021,5/27/2025,-1,3255.4392000000003,-1182.4392,Current,Not Started,0,,5/26/2025,2073,Employed,1439,0,5,Mixed,South,In-App
+472,64,Self-Employed,79429,529,German,10472,8.76,60,Home Improvement,1/2/2021,12/7/2025,74,68320.818,-20809.818,Delinquent,Not Started,0,,2/19/2026,47511,Self-Employed,1874,0,2,Always Late,East,In-App
+473,52,Employed,119195,418,German,10473,6.84,24,Other,11/26/2020,11/16/2022,-3,22475.6728,-2704.6728,Current,Not Started,0,,11/13/2022,19771,Employed,717,0,2,Always Late,West,In-App
+474,57,Employed,76627,455,German,10474,9.96,36,Business,11/16/2021,10/31/2024,137,47355.5468,-10894.5468,Default,Recovered,-8596.206239,5/15/2025,3/17/2025,36461,Employed,1217,1,2,Always On Time,East,In-App
+475,69,Self-Employed,48848,764,German,10475,4.79,24,Other,8/14/2020,8/4/2022,98,47481.014,-4151.014,Default,Recovered,-2855.76973,4/3/2023,11/10/2022,43330,Self-Employed,818,1,1,Always On Time,South,SMS
+476,33,Employed,52804,403,German,10476,10.51,36,Education,11/5/2021,10/20/2024,1,39879.896,-9559.896,Current,Not Started,0,,10/21/2024,30320,Employed,1081,0,3,Mixed,West,Email
+477,30,Employed,30379,801,Other,10477,10.04,48,Education,1/7/2021,12/17/2024,-1,7484.544,-2144.544,Current,Not Started,0,,12/16/2024,5340,Employed,1439,0,2,Always Late,West,In-App
+478,67,Employed,74664,474,German,10478,12.61,60,Other,8/26/2021,7/31/2026,4,58574.082,-22650.082,Current,Not Started,0,,8/4/2026,35924,Employed,1804,0,3,Always Late,West,SMS
+479,59,Employed,42766,720,German,10479,14.85,24,Business,8/15/2020,8/5/2022,-3,22287.648,-5103.648,Current,Not Started,0,,8/2/2022,17184,Employed,717,0,8,Mixed,East,Email
+480,47,Employed,83099,433,German,10480,6.39,48,Home Improvement,7/27/2020,7/6/2024,60,52401.2104,-10667.2104,Delinquent,Not Started,0,,9/4/2024,41734,Employed,1500,0,3,Always Late,South,In-App
+481,36,Employed,51060,690,German,10481,9.36,36,Debt Consolidation,10/26/2020,10/11/2023,82,4585.264,-1005.264,Delinquent,Not Started,0,,1/1/2024,3580,Employed,1162,0,7,Always Late,West,Email
+482,34,Self-Employed,109733,800,German,10482,13.95,24,Home Improvement,11/12/2020,11/2/2022,-3,52470.975,-11445.975,Current,Not Started,0,,10/30/2022,41025,Self-Employed,717,0,5,Always Late,North,In-App
+483,36,Employed,84122,332,German,10483,12.53,24,Debt Consolidation,2/10/2021,1/31/2023,4,37476.7302,-7509.7302,Current,Not Started,0,,2/4/2023,29967,Employed,724,0,2,Always Late,South,SMS
+484,45,Employed,31087,354,German,10484,9.11,48,Debt Consolidation,6/14/2021,5/24/2025,-1,4310.1396,-1151.1396,Current,Not Started,0,,5/23/2025,3159,Employed,1439,0,3,Always Late,North,Phone
+485,43,Self-Employed,63868,818,German,10485,14.37,24,Business,8/21/2022,8/10/2024,-5,64292.756,-14352.756,Current,Not Started,0,,8/5/2024,49940,Self-Employed,715,0,1,Mixed,North,Phone
+486,54,Unemployed,38225,311,German,10486,4.16,60,Other,2/28/2020,2/1/2025,61,17999.2,-3099.2,Delinquent,Not Started,0,,4/3/2025,14900,Unemployed,1861,0,3,Mixed,West,Email
+487,43,Self-Employed,110286,827,German,10487,14.21,60,Home Improvement,6/16/2022,5/21/2027,0,21278.620000000003,-8838.62,Current,Not Started,0,,5/21/2027,12440,Self-Employed,1800,0,5,Mixed,West,SMS
+488,40,Self-Employed,21643,672,German,10488,4.08,48,Other,12/30/2022,12/9/2026,87,18236.6496,-2558.6496,Delinquent,Not Started,0,,3/6/2027,15678,Self-Employed,1527,0,1,Always Late,East,Phone
+489,26,Employed,108059,783,German,10489,9.79,36,Education,6/6/2020,5/22/2023,-2,62361.51479999999,-14157.5148,Current,Not Started,0,,5/20/2023,48204,Employed,1078,0,2,Mixed,East,In-App
+490,29,Employed,51727,527,German,10490,13.74,48,Business,9/21/2020,8/31/2024,49,20177.3416,-7156.3416,Delinquent,Not Started,0,,10/19/2024,13021,Employed,1489,0,3,Mixed,East,Phone
+491,18,Employed,26005,606,German,10491,6.52,60,Business,3/21/2020,2/23/2025,2,10305.672,-2533.672,Current,Not Started,0,,2/25/2025,7772,Employed,1802,0,9,Always Late,South,Email
+492,18,Employed,80697,756,German,10492,8.93,12,Education,6/20/2021,6/15/2022,-4,2861.5911,-234.5911,Current,Not Started,0,,6/11/2022,2627,Employed,356,0,6,Always Late,East,Email
+493,64,Employed,31029,459,German,10493,7.23,12,Home Improvement,12/12/2022,12/7/2023,-2,48716.7336,-3284.7336,Current,Not Started,0,,12/5/2023,45432,Employed,358,0,6,Always Late,North,SMS
+494,51,Employed,29226,630,German,10494,14.45,24,Education,3/30/2020,3/20/2022,76,11883.291,-2664.291,Delinquent,Not Started,0,,6/4/2022,9219,Employed,796,0,1,Mixed,East,Email
+495,49,Self-Employed,78646,524,German,10495,12.97,24,Home Improvement,8/15/2022,8/4/2024,-4,30809.9616,-6345.9616,Current,Not Started,0,,7/31/2024,24464,Self-Employed,716,0,6,Mixed,West,Phone
+496,65,Employed,75603,803,German,10496,11.65,12,Debt Consolidation,4/17/2020,4/12/2021,-5,34870.528,-3638.528,Current,Not Started,0,,4/7/2021,31232,Employed,355,0,6,Mixed,East,Phone
+497,42,Employed,43731,755,German,10497,10.26,60,Business,2/13/2021,1/18/2026,4,65786.753,-22305.753,Current,Not Started,0,,1/22/2026,43481,Employed,1804,0,5,Mixed,South,Phone
+498,57,Employed,83926,344,German,10498,12.94,24,Home Improvement,1/6/2021,12/27/2022,-3,11943.4944,-2455.4944,Current,Not Started,0,,12/24/2022,9488,Employed,717,0,9,Mixed,South,Phone
+499,62,Employed,20997,513,German,10499,8.01,48,Other,8/17/2020,7/27/2024,2,47467.0596,-11518.0596,Current,Not Started,0,,7/29/2024,35949,Employed,1442,0,3,Always Late,North,SMS
+500,18,Employed,70506,358,German,10500,8.65,48,Other,5/5/2020,4/14/2024,96,61057.252,-15695.252,Default,Recovered,-12045.10734,10/1/2024,7/19/2024,45362,Employed,1536,1,8,Always On Time,South,In-App
+501,33,Self-Employed,93229,494,German,10501,11.9,60,Business,3/25/2022,2/27/2027,1,65286.54000000001,-24354.54,Current,Not Started,0,,2/28/2027,40932,Self-Employed,1801,0,8,Always Late,East,In-App
+502,56,Employed,64815,788,German,10502,7.61,24,Education,6/14/2020,6/4/2022,-4,23022.1082,-3041.1082,Current,Not Started,0,,5/31/2022,19981,Employed,716,0,1,Mixed,West,SMS
+503,22,Employed,57092,456,German,10503,4.23,48,Education,1/2/2021,12/12/2024,0,2222.6492,-321.6492,Current,Not Started,0,,12/12/2024,1901,Employed,1440,0,4,Always Late,South,Email
+504,39,Employed,77539,525,Other,10504,4.35,24,Home Improvement,1/7/2022,12/28/2023,2,25483.628,-2039.628,Current,Not Started,0,,12/30/2023,23444,Employed,722,0,9,Always Late,North,In-App
+505,46,Self-Employed,81077,711,German,10505,4.83,24,Education,7/10/2021,6/30/2023,2,47217.4028,-4159.4028,Current,Not Started,0,,7/2/2023,43058,Self-Employed,722,0,1,Mixed,East,Email
+506,20,Employed,36817,504,German,10506,13.5,48,Business,10/13/2022,9/22/2026,-2,29353.94,-10292.94,Current,Not Started,0,,9/20/2026,19061,Employed,1438,0,4,Always Late,North,In-App
+507,29,Employed,52861,378,German,10507,8.93,12,Home Improvement,2/29/2020,2/23/2021,0,4227.5733,-346.5733,Current,Not Started,0,,2/23/2021,3881,Employed,360,0,9,Mixed,South,Email
+508,43,Employed,28428,423,German,10508,11.7,48,Debt Consolidation,8/8/2020,7/18/2024,-1,45306.884,-14443.884,Current,Not Started,0,,7/17/2024,30863,Employed,1439,0,4,Mixed,South,SMS
+509,33,Employed,58934,770,German,10509,8.02,60,Education,10/24/2022,9/28/2027,70,65603.226,-18777.226,Delinquent,Not Started,0,,12/7/2027,46826,Employed,1870,0,2,Always Late,North,Phone
+510,68,Self-Employed,25258,517,German,10510,6.48,36,Education,4/14/2022,3/29/2025,2,7909.3168,-1287.3168,Current,Not Started,0,,3/31/2025,6622,Self-Employed,1082,0,4,Mixed,East,Email
+511,54,Self-Employed,72775,815,German,10511,7.49,48,Home Improvement,5/12/2020,4/21/2024,124,3090.4488,-712.4488,Default,Not Started,0,,8/23/2024,2378,Self-Employed,1564,0,2,Always Late,South,Phone
+512,39,Employed,96580,403,German,10512,12.63,24,Other,1/30/2021,1/20/2023,1,23338.4432,-4706.4432,Current,Not Started,0,,1/21/2023,18632,Employed,721,0,4,Mixed,West,Email
+513,46,Self-Employed,109947,692,German,10513,10.69,24,Education,5/8/2021,4/28/2023,1,35577.6918,-6266.6918,Current,Not Started,0,,4/29/2023,29311,Self-Employed,721,0,1,Always Late,South,Email
+514,31,Self-Employed,20469,733,Other,10514,14.28,48,Business,2/4/2020,1/14/2024,-5,10448.48,-3798.48,Current,Not Started,0,,1/9/2024,6650,Self-Employed,1435,0,5,Always Late,East,Email
+515,45,Self-Employed,43854,630,German,10515,11.32,36,Education,3/2/2020,2/15/2023,-5,61890.8596,-15689.8596,Current,Not Started,0,,2/10/2023,46201,Self-Employed,1075,0,4,Mixed,South,Email
+516,22,Self-Employed,21256,442,Other,10516,10.06,48,Debt Consolidation,3/5/2020,2/13/2024,134,60617.337600000006,-17393.3376,Default,Not Started,0,,6/26/2024,43224,Self-Employed,1574,0,6,Mixed,North,Email
+517,64,Employed,91256,839,German,10517,10.52,36,Education,11/9/2021,10/24/2024,110,10572.1616,-2536.1616,Default,Not Started,0,,2/11/2025,8036,Employed,1190,0,5,Always Late,South,Phone
+518,66,Employed,48937,577,German,10518,14.34,36,Other,10/19/2021,10/3/2024,-1,57572.70100000001,-17317.701,Current,Not Started,0,,10/2/2024,40255,Employed,1079,0,4,Always Late,South,Email
+519,47,Employed,114134,532,German,10519,12.56,60,Education,7/14/2022,6/18/2027,-2,38256.372,-14757.372,Current,Not Started,0,,6/16/2027,23499,Employed,1798,0,5,Always Late,East,Phone
+520,63,Self-Employed,16651,828,German,10520,3.78,24,Home Improvement,12/16/2021,12/6/2023,1,40890.009600000005,-2874.0096,Current,Not Started,0,,12/7/2023,38016,Self-Employed,721,0,1,Always Late,North,SMS
+521,69,Employed,65288,389,German,10521,9.64,24,Education,4/10/2021,3/31/2023,-3,6683.258400000001,-1080.2584,Current,Not Started,0,,3/28/2023,5603,Employed,717,0,4,Always Late,East,In-App
+522,22,Self-Employed,99730,791,Other,10522,11.42,36,Other,3/12/2021,2/25/2024,1,38630.6298,-9857.6298,Current,Not Started,0,,2/26/2024,28773,Self-Employed,1081,0,2,Always Late,South,Email
+523,29,Self-Employed,40051,498,German,10523,12.11,24,Home Improvement,8/26/2022,8/15/2024,114,26007.9414,-5070.9414,Default,Recovered,-4758.059546,1/9/2025,12/7/2024,20937,Self-Employed,834,1,8,Always On Time,West,In-App
+524,33,Employed,42386,661,German,10524,5.95,12,Business,1/4/2021,12/30/2021,176,14443.104,-811.104,Default,Recovered,-775.6121387,9/30/2022,6/24/2022,13632,Employed,536,1,1,Always On Time,South,Phone
+525,43,Self-Employed,90054,740,German,10525,13.47,36,Home Improvement,5/4/2021,4/18/2024,160,44379.3887,-12772.3887,Default,Recovered,-8084.756419,11/16/2024,9/25/2024,31607,Self-Employed,1240,1,3,Always On Time,East,SMS
+526,43,Employed,31184,325,German,10526,14.49,24,Debt Consolidation,7/13/2020,7/3/2022,77,35259.2626,-7922.2626,Delinquent,Not Started,0,,9/18/2022,27337,Employed,797,0,5,Always Late,West,SMS
+527,65,Employed,48787,324,Other,10527,6.22,12,Home Improvement,8/21/2021,8/16/2022,2,1295.884,-75.884,Current,Not Started,0,,8/18/2022,1220,Employed,362,0,4,Always Late,East,SMS
+528,38,Self-Employed,36621,693,German,10528,13.65,60,Business,11/9/2021,10/14/2026,2,80749.905,-32755.905,Current,Not Started,0,,10/16/2026,47994,Self-Employed,1802,0,1,Always Late,East,In-App
+529,56,Employed,90564,806,German,10529,4.62,24,Education,12/10/2022,11/29/2024,1,6355.5832,-537.5832,Current,Not Started,0,,11/30/2024,5818,Employed,721,0,4,Always Late,North,Phone
+530,53,Self-Employed,92984,600,German,10530,4.14,12,Home Improvement,2/18/2020,2/12/2021,0,8694.6486,-345.6486,Current,Not Started,0,,2/12/2021,8349,Self-Employed,360,0,5,Mixed,West,Email
+531,50,Self-Employed,74792,638,German,10531,4.99,48,Home Improvement,5/8/2020,4/17/2024,0,7938.9528,-1320.9528,Current,Not Started,0,,4/17/2024,6618,Self-Employed,1440,0,6,Always Late,South,Email
+532,47,Employed,60253,566,Other,10532,4.16,48,Home Improvement,7/30/2021,7/9/2025,39,33200.4096,-4736.4096,Delinquent,Not Started,0,,8/17/2025,28464,Employed,1479,0,3,Always Late,East,Phone
+533,54,Employed,49051,760,German,10533,13.22,12,Home Improvement,10/31/2020,10/26/2021,45,49391.092800000006,-5767.0928,Delinquent,Not Started,0,,12/10/2021,43624,Employed,405,0,4,Mixed,South,In-App
+534,40,Employed,64811,755,German,10534,4.18,36,Business,7/9/2022,6/23/2025,165,43152.3376,-4808.3376,Default,Recovered,-3515.232507,1/19/2026,12/5/2025,38344,Employed,1245,1,4,Always On Time,North,Email
+535,27,Employed,45447,659,German,10535,6.62,36,Other,7/31/2021,7/15/2024,122,23079.043,-3824.043,Default,Recovered,-2961.996664,1/4/2025,11/14/2024,19255,Employed,1202,1,5,Always On Time,North,Phone
+536,22,Unemployed,98930,367,German,10536,4.69,24,Other,1/11/2021,1/1/2023,135,27672.046200000004,-2373.0462,Default,Recovered,-2312.666955,8/25/2023,5/16/2023,25299,Unemployed,855,1,4,Always On Time,West,Email
+537,53,Employed,115037,711,German,10537,6.9,48,Home Improvement,8/22/2021,8/1/2025,0,62492.1,-13517.1,Current,Not Started,0,,8/1/2025,48975,Employed,1440,0,4,Mixed,North,SMS
+538,51,Employed,45254,790,German,10538,4.54,36,Business,10/6/2020,9/21/2023,53,2797.3244000000004,-335.3244,Delinquent,Not Started,0,,11/13/2023,2462,Employed,1133,0,2,Mixed,North,Email
+539,69,Employed,99045,348,German,10539,11.18,36,Business,4/24/2020,4/9/2023,-5,22574.937,-5669.937,Current,Not Started,0,,4/4/2023,16905,Employed,1075,0,1,Always Late,South,In-App
+540,48,Employed,72418,401,Other,10540,5.03,48,Home Improvement,2/16/2022,1/26/2026,-1,31135.104,-5215.104,Current,Not Started,0,,1/25/2026,25920,Employed,1439,0,2,Always Late,North,Phone
+541,27,Self-Employed,29472,515,German,10541,13.3,60,Debt Consolidation,10/7/2020,9/11/2025,141,28724.58,-11472.58,Default,Recovered,-11464.64854,4/17/2026,1/30/2026,17252,Self-Employed,1941,1,1,Mixed,North,In-App
+542,36,Employed,18471,737,German,10542,12.9,36,Home Improvement,5/8/2021,4/22/2024,166,58259.548,-16255.548,Default,Not Started,0,,10/5/2024,42004,Employed,1246,0,3,Mixed,East,Phone
+543,49,Self-Employed,110804,458,Other,10543,3.66,12,Debt Consolidation,1/23/2022,1/18/2023,2,43102.8646,-1521.8646,Current,Not Started,0,,1/20/2023,41581,Self-Employed,362,0,5,Always Late,North,SMS
+544,18,Employed,23329,788,German,10544,13.8,24,Home Improvement,10/16/2022,10/5/2024,0,45726.736,-9890.736,Current,Not Started,0,,10/5/2024,35836,Employed,720,0,2,Always Late,East,Phone
+545,22,Unemployed,49865,541,German,10545,3.83,36,Debt Consolidation,9/24/2020,9/9/2023,-4,7528.9197,-775.9197,Current,Not Started,0,,9/5/2023,6753,Unemployed,1076,0,8,Mixed,North,Email
+546,62,Employed,61850,304,German,10546,6.26,36,Debt Consolidation,11/19/2020,11/4/2023,1,48705.739,-7700.739,Current,Not Started,0,,11/5/2023,41005,Employed,1081,0,1,Always Late,North,Email
+547,21,Employed,69220,660,German,10547,3.87,60,Home Improvement,7/2/2020,6/6/2025,154,18111.3625,-2936.3625,Default,Recovered,-1813.801759,3/23/2026,11/7/2025,15175,Employed,1954,1,6,Mixed,West,SMS
+548,33,Unemployed,108808,758,German,10548,7.36,12,Debt Consolidation,6/17/2021,6/12/2022,1,7720.257599999999,-529.2576,Current,Not Started,0,,6/13/2022,7191,Unemployed,361,0,5,Always Late,West,Phone
+549,41,Employed,21397,547,Other,10549,9.41,24,Education,6/10/2021,5/31/2023,-1,22454.6036,-3556.6036,Current,Not Started,0,,5/30/2023,18898,Employed,719,0,3,Always Late,East,SMS
+550,33,Unemployed,112909,721,German,10550,12.66,36,Other,10/19/2020,10/4/2023,2,27571.1636,-7589.1636,Current,Not Started,0,,10/6/2023,19982,Unemployed,1082,0,1,Always Late,North,Email
+551,19,Employed,50525,314,German,10551,7.39,24,Business,12/1/2020,11/21/2022,-1,17930.9316,-2308.9316,Current,Not Started,0,,11/20/2022,15622,Employed,719,0,5,Always Late,South,In-App
+552,66,Employed,68072,421,German,10552,11.61,48,Debt Consolidation,12/1/2022,11/10/2026,-5,2930.2644,-929.2644,Current,Not Started,0,,11/5/2026,2001,Employed,1435,0,3,Always Late,West,SMS
+553,45,Employed,105106,576,German,10553,5.66,36,Debt Consolidation,12/6/2022,11/20/2025,131,56904.921,-8259.921,Default,Not Started,0,,3/31/2026,48645,Employed,1211,0,8,Mixed,South,In-App
+554,49,Self-Employed,98820,752,German,10554,12.13,36,Business,3/30/2021,3/14/2024,-2,60011.600000000006,-16011.6,Current,Not Started,0,,3/12/2024,44000,Self-Employed,1078,0,4,Always Late,West,In-App
+555,44,Employed,99530,689,German,10555,6.21,48,Debt Consolidation,1/16/2020,12/26/2023,-4,30314.8972,-6031.8972,Current,Not Started,0,,12/22/2023,24283,Employed,1436,0,8,Always Late,West,Phone
+556,37,Employed,38284,593,German,10556,5.15,60,Business,4/29/2022,4/3/2027,-2,28212.0125,-5777.0125,Current,Not Started,0,,4/1/2027,22435,Employed,1798,0,2,Always Late,North,SMS
+557,41,Employed,76330,745,German,10557,5.63,36,Home Improvement,5/4/2021,4/18/2024,3,32989.8647,-4766.8647,Current,Not Started,0,,4/21/2024,28223,Employed,1083,0,6,Mixed,West,In-App
+558,29,Employed,98369,509,Other,10558,5.59,24,Education,8/31/2021,8/21/2023,31,42519.6792,-4275.6792,Delinquent,Not Started,0,,9/21/2023,38244,Employed,751,0,5,Always Late,South,In-App
+559,67,Employed,40122,601,German,10559,9.4,12,Education,7/13/2020,7/8/2021,-2,33940.256,-2916.256,Current,Not Started,0,,7/6/2021,31024,Employed,358,0,6,Mixed,West,Phone
+560,52,Self-Employed,85553,522,German,10560,13.22,24,Other,2/14/2022,2/4/2024,47,40124.4696,-8390.4696,Delinquent,Not Started,0,,3/22/2024,31734,Self-Employed,767,0,2,Always Late,East,Phone
+561,50,Unemployed,96906,302,German,10561,4.42,60,Debt Consolidation,4/26/2020,3/31/2025,-1,1849.815,-334.815,Current,Not Started,0,,3/30/2025,1515,Unemployed,1799,0,5,Mixed,North,Email
+562,50,Unemployed,109788,817,German,10562,11.63,12,Other,5/13/2021,5/8/2022,-3,51624.4098,-5378.4098,Current,Not Started,0,,5/5/2022,46246,Unemployed,357,0,4,Mixed,North,In-App
+563,68,Self-Employed,77812,392,German,10563,11.02,24,Home Improvement,10/11/2021,10/1/2023,4,2673.8964,-482.8964,Current,Not Started,0,,10/5/2023,2191,Self-Employed,724,0,6,Always Late,East,Email
+564,60,Employed,22999,819,German,10564,13.53,24,Education,5/24/2020,5/14/2022,-4,42265.2384,-9001.2384,Current,Not Started,0,,5/10/2022,33264,Employed,716,0,3,Mixed,East,In-App
+565,54,Self-Employed,37436,727,German,10565,6.31,48,Home Improvement,4/13/2021,3/23/2025,86,55892.1072,-11264.1072,Delinquent,Not Started,0,,6/17/2025,44628,Self-Employed,1526,0,7,Always Late,East,Email
+566,29,Employed,57963,792,German,10566,8.68,60,Home Improvement,6/23/2020,5/28/2025,-1,67707.74399999999,-20491.744,Current,Not Started,0,,5/27/2025,47216,Employed,1799,0,1,Always Late,West,Phone
+567,20,Employed,17096,534,German,10567,14.15,48,Debt Consolidation,11/25/2020,11/4/2024,4,11427.102,-4130.102,Current,Not Started,0,,11/8/2024,7297,Employed,1444,0,7,Always Late,North,SMS
+568,18,Employed,40279,460,German,10568,11.09,12,Home Improvement,9/14/2021,9/9/2022,-1,32056.1304,-3200.1304,Current,Not Started,0,,9/8/2022,28856,Employed,359,0,7,Mixed,East,Phone
+569,50,Employed,41201,630,Other,10569,7.97,48,Education,4/29/2022,4/8/2026,-5,12309.6792,-2975.6792,Current,Not Started,0,,4/3/2026,9334,Employed,1435,0,7,Mixed,West,Email
+570,57,Self-Employed,34715,632,German,10570,5.01,60,Other,8/31/2021,8/5/2026,176,31465.081,-6303.081,Default,Recovered,-5442.647007,7/9/2027,1/28/2027,25162,Self-Employed,1976,1,4,Mixed,East,Email
+571,27,Employed,44309,349,German,10571,6.52,36,Education,12/10/2022,11/24/2025,1,8378.7648,-1370.7648,Current,Not Started,0,,11/25/2025,7008,Employed,1081,0,3,Always Late,South,SMS
+572,60,Employed,30078,822,German,10572,10.18,36,Debt Consolidation,11/24/2022,11/8/2025,-5,11731.6298,-2744.6298,Current,Not Started,0,,11/3/2025,8987,Employed,1075,0,9,Always Late,South,In-App
+573,61,Employed,71614,791,German,10573,11.76,12,Education,10/3/2020,9/28/2021,99,35725.2016,-3759.2016,Default,Recovered,-2590.148287,2/10/2022,1/5/2022,31966,Employed,459,1,2,Always On Time,North,Email
+574,46,Unemployed,20105,571,German,10574,4.93,36,Business,10/28/2022,10/12/2025,2,4972.7028,-640.7028,Current,Not Started,0,,10/14/2025,4332,Unemployed,1082,0,4,Always Late,West,Email
+575,30,Employed,109848,551,German,10575,10.4,48,Other,5/8/2022,4/17/2026,2,2530.392,-743.392,Current,Not Started,0,,4/19/2026,1787,Employed,1442,0,5,Always Late,South,Email
+576,29,Employed,17839,389,German,10576,9.83,12,Business,7/2/2020,6/27/2021,1,43921.017,-3931.017,Current,Not Started,0,,6/28/2021,39990,Employed,361,0,6,Mixed,South,SMS
+577,48,Employed,83920,745,German,10577,9.41,60,Business,4/15/2021,3/20/2026,66,15988.7465,-5115.7465,Delinquent,Not Started,0,,5/25/2026,10873,Employed,1866,0,2,Always Late,West,Phone
+578,63,Self-Employed,58619,631,German,10578,11.44,12,Debt Consolidation,7/15/2020,7/10/2021,48,20065.8864,-2059.8864,Delinquent,Not Started,0,,8/27/2021,18006,Self-Employed,408,0,5,Always Late,East,Email
+579,19,Employed,57821,438,German,10579,13.13,12,Home Improvement,11/15/2022,11/10/2023,3,24011.8425,-2786.8425,Current,Not Started,0,,11/13/2023,21225,Employed,363,0,7,Mixed,West,SMS
+580,68,Employed,28493,656,German,10580,7.21,24,Business,5/9/2020,4/29/2022,1,42843.4248,-5399.4248,Current,Not Started,0,,4/30/2022,37444,Employed,721,0,1,Mixed,East,Email
+581,67,Employed,32069,573,German,10581,13.72,24,Education,11/1/2022,10/21/2024,116,46311.696,-9971.696,Default,Recovered,-5026.274237,5/5/2025,2/14/2025,36340,Employed,836,1,8,Always On Time,South,In-App
+582,52,Employed,22531,318,German,10582,5.35,12,Home Improvement,9/20/2021,9/15/2022,2,42859.5405,-2176.5405,Current,Not Started,0,,9/17/2022,40683,Employed,362,0,1,Always Late,South,SMS
+583,40,Employed,52051,610,German,10583,5.49,36,Education,2/22/2021,2/7/2024,0,7026.6351,-993.6351,Current,Not Started,0,,2/7/2024,6033,Employed,1080,0,3,Mixed,South,Email
+584,34,Employed,22736,453,German,10584,6.57,24,Education,2/11/2020,1/31/2022,-1,9942.7432,-1154.7432,Current,Not Started,0,,1/30/2022,8788,Employed,719,0,1,Mixed,North,SMS
+585,43,Unemployed,22710,689,German,10585,4.87,60,Home Improvement,4/22/2020,3/27/2025,37,20752.771500000003,-4063.7715,Delinquent,Not Started,0,,5/3/2025,16689,Unemployed,1837,0,1,Always Late,North,Email
+586,25,Employed,82155,559,German,10586,6.15,48,Home Improvement,12/20/2020,11/29/2024,-3,56344.12,-11124.12,Current,Not Started,0,,11/26/2024,45220,Employed,1437,0,8,Mixed,North,Phone
+587,46,Employed,28975,424,German,10587,4.72,24,Education,1/30/2022,1/20/2024,1,24731.2512,-2133.2512,Current,Not Started,0,,1/21/2024,22598,Employed,721,0,3,Mixed,West,Email
+588,43,Unemployed,77424,653,German,10588,12.95,12,Debt Consolidation,1/12/2022,1/7/2023,-4,43463.16,-4983.16,Current,Not Started,0,,1/3/2023,38480,Unemployed,356,0,3,Always Late,South,SMS
+589,27,Employed,60603,572,Other,10589,5.1,36,Other,2/24/2020,2/8/2023,-3,35400.559,-4697.559,Current,Not Started,0,,2/5/2023,30703,Employed,1077,0,2,Always Late,South,In-App
+590,43,Employed,38252,544,German,10590,12.09,48,Other,4/4/2020,3/14/2024,42,1581.5176,-515.5176,Delinquent,Not Started,0,,4/25/2024,1066,Employed,1482,0,4,Always Late,West,In-App
+591,51,Employed,95797,749,German,10591,4.05,24,Debt Consolidation,12/21/2022,12/10/2024,-4,53642.463,-4019.463,Current,Not Started,0,,12/6/2024,49623,Employed,716,0,4,Always Late,North,In-App
+592,68,Employed,16431,546,German,10592,14.41,36,Home Improvement,6/18/2022,6/2/2025,-1,66238.14580000001,-19992.1458,Current,Not Started,0,,6/1/2025,46246,Employed,1079,0,3,Always Late,West,Email
+593,58,Unemployed,89603,819,Other,10593,11.68,36,Education,4/1/2021,3/16/2024,1,11522.9632,-2989.9632,Current,Not Started,0,,3/17/2024,8533,Unemployed,1081,0,3,Always Late,North,Phone
+594,24,Employed,52481,440,German,10594,3.58,36,Other,7/27/2020,7/12/2023,4,17832.462199999998,-1729.4622,Current,Not Started,0,,7/16/2023,16103,Employed,1084,0,7,Mixed,South,Email
+595,21,Self-Employed,107573,661,German,10595,12.28,12,Education,5/20/2022,5/15/2023,88,6305.6448,-689.6448,Delinquent,Not Started,0,,8/11/2023,5616,Self-Employed,448,0,3,Always Late,East,In-App
+596,67,Employed,24557,307,German,10596,9.41,60,Debt Consolidation,2/25/2022,1/30/2027,4,69179.6725,-22134.6725,Current,Not Started,0,,2/3/2027,47045,Employed,1804,0,4,Always Late,North,SMS
+597,62,Employed,89971,777,German,10597,12.46,36,Education,2/24/2022,2/8/2025,76,54262.3524,-14764.3524,Delinquent,Not Started,0,,4/25/2025,39498,Employed,1156,0,2,Mixed,South,In-App
+598,28,Employed,118302,651,German,10598,9.51,48,Debt Consolidation,7/16/2020,6/25/2024,-5,61416.7568,-16924.7568,Current,Not Started,0,,6/20/2024,44492,Employed,1435,0,6,Mixed,South,SMS
+599,46,Employed,15162,794,German,10599,10.87,24,Home Improvement,4/24/2021,4/14/2023,4,15548.6328,-2776.6328,Current,Not Started,0,,4/18/2023,12772,Employed,724,0,3,Always Late,East,Phone
+600,53,Employed,49742,726,German,10600,12.54,48,Debt Consolidation,11/19/2021,10/29/2025,3,37313.2584,-12464.2584,Current,Not Started,0,,11/1/2025,24849,Employed,1443,0,4,Mixed,South,SMS
+601,42,Self-Employed,34675,338,German,10601,8.16,12,Debt Consolidation,5/29/2020,5/24/2021,-5,15077.504,-1137.504,Current,Not Started,0,,5/19/2021,13940,Self-Employed,355,0,2,Mixed,South,Email
+602,38,Employed,88997,486,German,10602,3.53,12,Other,3/6/2022,3/1/2023,-5,18564.9996,-632.9996,Current,Not Started,0,,2/24/2023,17932,Employed,355,0,9,Always Late,North,Email
+603,53,Unemployed,32015,392,German,10603,13.27,48,Education,11/7/2020,10/17/2024,44,47101.1852,-16332.1852,Delinquent,Not Started,0,,11/30/2024,30769,Unemployed,1484,0,2,Always Late,North,Email
+604,27,Employed,65057,385,German,10604,7.88,60,Other,9/15/2021,8/20/2026,4,35753.312,-10105.312,Current,Not Started,0,,8/24/2026,25648,Employed,1804,0,6,Always Late,East,SMS
+605,54,Self-Employed,47591,343,German,10605,9.2,12,Business,8/10/2020,8/5/2021,2,52864.812000000005,-4453.812,Current,Not Started,0,,8/7/2021,48411,Self-Employed,362,0,3,Mixed,East,Email
+606,26,Self-Employed,108583,436,German,10606,3.59,12,Debt Consolidation,11/22/2020,11/17/2021,67,35185.3794,-1219.3794,Delinquent,Not Started,0,,1/23/2022,33966,Self-Employed,427,0,2,Mixed,South,Email
+607,41,Self-Employed,115318,720,Other,10607,9.16,48,Business,2/29/2020,2/8/2024,35,39320.8928,-10543.8928,Delinquent,Not Started,0,,3/14/2024,28777,Self-Employed,1475,0,6,Always Late,North,Email
+608,52,Self-Employed,24833,373,German,10608,14.84,12,Other,9/12/2021,9/7/2022,3,38548.342800000006,-4981.3428,Current,Not Started,0,,9/10/2022,33567,Self-Employed,363,0,3,Always Late,East,Phone
+609,66,Self-Employed,22896,847,German,10609,6.7,60,Education,7/24/2021,6/28/2026,-2,24262.29,-6088.29,Current,Not Started,0,,6/26/2026,18174,Self-Employed,1798,0,7,Mixed,East,SMS
+610,52,Employed,47972,811,German,10610,8.05,60,Other,11/30/2022,11/4/2027,2,61146.19500000001,-17548.195,Current,Not Started,0,,11/6/2027,43598,Employed,1802,0,8,Always Late,West,SMS
+611,65,Employed,64733,455,German,10611,11.4,60,Education,8/30/2020,8/4/2025,33,23232.86,-8434.86,Delinquent,Not Started,0,,9/6/2025,14798,Employed,1833,0,7,Mixed,East,In-App
+612,53,Employed,56800,554,German,10612,12.87,24,Education,2/24/2020,2/13/2022,124,23334.8292,-4776.8292,Default,Recovered,-2410.51346,9/19/2022,6/17/2022,18558,Employed,844,1,1,Always On Time,South,SMS
+613,35,Unemployed,111044,470,German,10613,8.3,60,Home Improvement,10/20/2022,9/24/2027,146,64010.355,-18773.355,Default,Recovered,-13709.86208,3/26/2028,2/17/2028,45237,Unemployed,1946,1,6,Mixed,North,Phone
+614,66,Employed,20347,469,German,10614,7.06,60,Debt Consolidation,11/5/2022,10/10/2027,61,1593.834,-415.834,Delinquent,Not Started,0,,12/10/2027,1178,Employed,1861,0,3,Always Late,East,SMS
+615,56,Self-Employed,74063,621,German,10615,14.28,24,Other,10/26/2021,10/16/2023,1,27601.832,-6131.832,Current,Not Started,0,,10/17/2023,21470,Self-Employed,721,0,7,Always Late,West,Phone
+616,49,Employed,110850,755,German,10616,11.29,36,Education,5/6/2021,4/20/2024,81,24254.5666,-6136.5666,Delinquent,Not Started,0,,7/10/2024,18118,Employed,1161,0,5,Always Late,North,Phone
+617,41,Employed,17643,454,German,10617,4.87,12,Other,5/9/2022,5/4/2023,3,24766.0992,-1150.0992,Current,Not Started,0,,5/7/2023,23616,Employed,363,0,7,Always Late,East,SMS
+618,40,Employed,55785,648,German,10618,4.29,60,Other,7/3/2020,6/7/2025,3,2183.671,-385.671,Current,Not Started,0,,6/10/2025,1798,Employed,1803,0,4,Mixed,West,In-App
+619,49,Employed,33681,750,Other,10619,9.06,12,Education,5/17/2021,5/12/2022,2,9380.2506,-779.2506,Current,Not Started,0,,5/14/2022,8601,Employed,362,0,4,Always Late,East,Email
+620,54,Employed,65026,472,German,10620,6.03,48,Business,9/3/2021,8/13/2025,168,32721.7556,-6358.7556,Default,Recovered,-4731.978981,5/19/2026,1/28/2026,26363,Employed,1608,1,1,Always On Time,North,Email
+621,29,Employed,118864,309,Other,10621,6.42,12,Debt Consolidation,7/7/2020,7/2/2021,123,4038.639,-243.639,Default,Not Started,0,,11/2/2021,3795,Employed,483,0,6,Always Late,North,SMS
+622,66,Employed,30892,564,German,10622,13.59,24,Debt Consolidation,11/19/2022,11/8/2024,1,41875.2868,-8949.2868,Current,Not Started,0,,11/9/2024,32926,Employed,721,0,3,Mixed,North,SMS
+623,30,Employed,62299,737,Other,10623,4.53,12,Home Improvement,1/15/2020,1/9/2021,50,48359.75919999999,-2095.7592,Delinquent,Not Started,0,,2/28/2021,46264,Employed,410,0,4,Always Late,South,Phone
+624,40,Employed,32073,546,German,10624,11.73,12,Home Improvement,7/25/2022,7/20/2023,84,42855.1588,-4499.1588,Delinquent,Not Started,0,,10/12/2023,38356,Employed,444,0,6,Mixed,East,SMS
+625,42,Employed,117304,845,German,10625,6.62,12,Home Improvement,6/4/2022,5/30/2023,3,8846.2614,-549.2614,Current,Not Started,0,,6/2/2023,8297,Employed,363,0,4,Always Late,South,Phone
+626,52,Self-Employed,45682,798,German,10626,12.24,36,Debt Consolidation,6/5/2021,5/20/2024,-4,5583.6448,-1499.6448,Current,Not Started,0,,5/16/2024,4084,Self-Employed,1076,0,2,Always Late,North,In-App
+627,58,Employed,112798,428,German,10627,11.81,36,Business,3/5/2020,2/18/2023,42,42428.8647,-11099.8647,Delinquent,Not Started,0,,4/1/2023,31329,Employed,1122,0,4,Always Late,West,SMS
+628,47,Employed,111894,626,German,10628,3.59,48,Debt Consolidation,10/1/2021,9/10/2025,-2,13848.996,-1738.996,Current,Not Started,0,,9/8/2025,12110,Employed,1438,0,3,Mixed,East,Email
+629,34,Employed,29289,703,German,10629,9.36,24,Debt Consolidation,2/5/2021,1/26/2023,-2,2055.0432,-324.0432,Current,Not Started,0,,1/24/2023,1731,Employed,718,0,4,Always Late,South,Email
+630,66,Employed,22927,658,German,10630,5.1,12,Debt Consolidation,3/21/2021,3/16/2022,79,2237.579,-108.579,Delinquent,Not Started,0,,6/3/2022,2129,Employed,439,0,1,Always Late,East,SMS
+631,37,Employed,63330,316,German,10631,13.46,12,Debt Consolidation,8/27/2020,8/22/2021,138,32928.3612,-3906.3612,Default,Not Started,0,,1/7/2022,29022,Employed,498,0,2,Always Late,West,Phone
+632,65,Employed,81707,573,German,10632,13.52,12,Business,5/10/2022,5/5/2023,2,2957.196,-352.196,Current,Not Started,0,,5/7/2023,2605,Employed,362,0,2,Mixed,South,Email
+633,42,Employed,92454,415,German,10633,8.31,12,Home Improvement,1/27/2021,1/22/2022,41,14047.807,-1077.807,Delinquent,Not Started,0,,3/4/2022,12970,Employed,401,0,6,Always Late,North,Phone
+634,39,Employed,119646,390,German,10634,8.61,36,Other,12/13/2021,11/27/2024,3,56252.3015,-11547.3015,Current,Not Started,0,,11/30/2024,44705,Employed,1083,0,1,Always Late,South,SMS
+635,30,Employed,80428,381,German,10635,6.99,48,Home Improvement,12/24/2020,12/3/2024,0,57748.348000000005,-12618.348,Current,Not Started,0,,12/3/2024,45130,Employed,1440,0,3,Mixed,East,SMS
+636,36,Self-Employed,65601,623,German,10636,11.74,60,Home Improvement,10/12/2020,9/16/2025,4,48030.555,-17765.555,Current,Not Started,0,,9/20/2025,30265,Self-Employed,1804,0,8,Mixed,East,Email
+637,66,Self-Employed,92465,413,German,10637,7.62,24,Other,12/23/2022,12/12/2024,-4,38409.492000000006,-5079.492,Current,Not Started,0,,12/8/2024,33330,Self-Employed,716,0,1,Always Late,East,SMS
+638,53,Employed,17539,357,German,10638,6.58,12,Debt Consolidation,10/19/2020,10/14/2021,92,4191.7914,-258.7914,Default,Recovered,-132.3161217,3/29/2022,1/14/2022,3933,Employed,452,1,4,Mixed,East,In-App
+639,29,Employed,117263,453,German,10639,8.47,48,Business,12/20/2020,11/29/2024,1,21671.1556,-5484.1556,Current,Not Started,0,,11/30/2024,16187,Employed,1441,0,6,Always Late,North,In-App
+640,58,Employed,37669,703,German,10640,4.55,60,Business,1/27/2020,12/31/2024,2,32885.9525,-6094.9525,Current,Not Started,0,,1/2/2025,26791,Employed,1802,0,8,Mixed,South,Email
+641,36,Employed,85968,565,German,10641,12.09,48,Home Improvement,9/6/2021,8/16/2025,2,38425.24,-12525.24,Current,Not Started,0,,8/18/2025,25900,Employed,1442,0,6,Mixed,North,In-App
+642,29,Unemployed,35644,614,German,10642,3.64,36,Other,5/22/2020,5/7/2023,104,6737.2808,-663.2808,Default,Not Started,0,,8/19/2023,6074,Unemployed,1184,0,6,Mixed,North,Phone
+643,26,Employed,33745,340,German,10643,10.91,60,Education,3/5/2021,2/7/2026,0,73882.6275,-26077.6275,Current,Not Started,0,,2/7/2026,47805,Employed,1800,0,7,Always Late,North,Email
+644,24,Employed,43228,404,German,10644,5.6,48,Debt Consolidation,7/9/2021,6/18/2025,4,33569.424,-6143.424,Current,Not Started,0,,6/22/2025,27426,Employed,1444,0,3,Always Late,East,Email
+645,45,Employed,49521,492,German,10645,6.17,36,Home Improvement,2/27/2021,2/12/2024,2,48431.4817,-7564.4817,Current,Not Started,0,,2/14/2024,40867,Employed,1082,0,7,Always Late,East,Phone
+646,31,Self-Employed,112239,700,German,10646,10.81,48,Business,4/16/2020,3/26/2024,60,2711.5332,-818.5332,Delinquent,Not Started,0,,5/25/2024,1893,Self-Employed,1500,0,1,Always Late,East,In-App
+647,48,Employed,41928,577,German,10647,14.92,48,Other,7/10/2022,6/19/2026,-5,56140.2944,-20982.2944,Current,Not Started,0,,6/14/2026,35158,Employed,1435,0,8,Always Late,South,In-App
+648,69,Employed,33322,653,German,10648,12.44,60,Other,3/13/2021,2/15/2026,3,33693.806,-12920.806,Current,Not Started,0,,2/18/2026,20773,Employed,1803,0,3,Mixed,West,In-App
+649,36,Employed,72714,555,German,10649,6.1,36,Home Improvement,10/22/2022,10/6/2025,-5,6197.737,-958.737,Current,Not Started,0,,10/1/2025,5239,Employed,1075,0,4,Mixed,East,Email
+650,64,Employed,102896,398,German,10650,5.52,12,Education,3/26/2022,3/21/2023,42,23069.8376,-1206.8376,Delinquent,Not Started,0,,5/2/2023,21863,Employed,402,0,2,Mixed,South,Email
+651,33,Employed,77292,581,German,10651,13.46,24,Business,7/6/2021,6/26/2023,-3,5625.094400000001,-1193.0944,Current,Not Started,0,,6/23/2023,4432,Employed,717,0,6,Always Late,East,In-App
+652,22,Employed,44055,702,German,10652,8.61,60,Home Improvement,6/22/2022,5/27/2027,3,51696.8395,-15557.8395,Current,Not Started,0,,5/30/2027,36139,Employed,1803,0,1,Always Late,East,SMS
+653,52,Employed,57891,408,German,10653,5.08,36,Education,2/19/2022,2/3/2025,-1,2898.286,-383.286,Current,Not Started,0,,2/2/2025,2515,Employed,1079,0,7,Mixed,North,In-App
+654,29,Employed,96912,498,Other,10654,13.42,48,Other,5/3/2021,4/12/2025,3,50207.256,-17537.256,Current,Not Started,0,,4/15/2025,32670,Employed,1443,0,7,Mixed,North,Phone
+655,42,Employed,21588,602,German,10655,12.89,36,Debt Consolidation,11/22/2021,11/6/2024,45,68882.9358,-19208.9358,Delinquent,Not Started,0,,12/21/2024,49674,Employed,1125,0,2,Always Late,North,Email
+656,69,Employed,105536,626,Other,10656,14.81,24,Business,3/6/2021,2/24/2023,3,51969.8428,-11875.8428,Current,Not Started,0,,2/27/2023,40094,Employed,723,0,7,Always Late,South,Phone
+657,38,Employed,21304,453,German,10657,13.96,24,Business,8/22/2021,8/12/2023,128,19961.916,-4356.916,Default,Not Started,0,,12/18/2023,15605,Employed,848,0,6,Mixed,West,Phone
+658,53,Employed,22345,704,German,10658,13.3,12,Education,9/17/2022,9/12/2023,133,7461.938,-875.938,Default,Not Started,0,,1/23/2024,6586,Employed,493,0,5,Always Late,West,Email
+659,40,Self-Employed,44300,761,German,10659,4.1,12,Home Improvement,3/3/2021,2/26/2022,-5,38189.085,-1504.085,Current,Not Started,0,,2/21/2022,36685,Self-Employed,355,0,3,Always Late,South,SMS
+660,33,Employed,39259,431,German,10660,4.7,24,Other,5/16/2021,5/6/2023,87,54337.886000000006,-4668.886,Delinquent,Not Started,0,,8/1/2023,49669,Employed,807,0,2,Mixed,East,In-App
+661,56,Employed,106006,383,German,10661,10.04,60,Education,5/7/2020,4/11/2025,52,48343.372,-16157.372,Delinquent,Not Started,0,,6/2/2025,32186,Employed,1852,0,2,Always Late,South,Phone
+662,62,Employed,103553,698,German,10662,9.61,60,Debt Consolidation,10/28/2022,10/2/2027,104,41347.404,-13419.404,Default,Not Started,0,,1/14/2028,27928,Employed,1904,0,3,Mixed,East,Email
+663,59,Employed,30352,408,German,10663,8.77,48,Debt Consolidation,11/14/2022,10/24/2026,0,45559.7824,-11831.7824,Current,Not Started,0,,10/24/2026,33728,Employed,1440,0,8,Always Late,South,Phone
+664,56,Self-Employed,48365,520,Other,10664,8.06,12,Debt Consolidation,6/24/2020,6/19/2021,3,20046.2106,-1495.2106,Current,Not Started,0,,6/22/2021,18551,Self-Employed,363,0,1,Always Late,South,In-App
+665,31,Employed,34446,667,German,10665,8.46,48,Education,5/31/2022,5/10/2026,1,30104.6312,-7611.6312,Current,Not Started,0,,5/11/2026,22493,Employed,1441,0,7,Always Late,South,SMS
+666,48,Unemployed,17336,446,German,10666,10.05,12,Other,1/5/2021,12/31/2021,150,23892.9555,-2181.9555,Default,Recovered,-1840.400278,10/28/2022,5/30/2022,21711,Unemployed,510,1,3,Mixed,West,SMS
+667,22,Employed,77032,411,German,10667,3.52,24,Business,3/6/2021,2/24/2023,-2,22520.1456,-1481.1456,Current,Not Started,0,,2/22/2023,21039,Employed,718,0,4,Always Late,North,SMS
+668,52,Employed,90415,793,German,10668,6.5,60,Home Improvement,6/25/2022,5/30/2027,1,49768.325,-12207.325,Current,Not Started,0,,5/31/2027,37561,Employed,1801,0,6,Mixed,South,Email
+669,40,Self-Employed,112852,804,German,10669,9.46,60,Business,6/30/2022,6/4/2027,-4,16124.931,-5177.931,Current,Not Started,0,,5/31/2027,10947,Self-Employed,1796,0,7,Always Late,West,Email
+670,46,Self-Employed,113876,774,German,10670,11.81,24,Other,7/13/2021,7/3/2023,0,41208.727,-7873.727,Current,Not Started,0,,7/3/2023,33335,Self-Employed,720,0,3,Always Late,North,SMS
+671,60,Self-Employed,22521,570,Other,10671,5.5,48,Business,1/8/2022,12/18/2025,0,20567.98,-3708.98,Current,Not Started,0,,12/18/2025,16859,Self-Employed,1440,0,4,Always Late,North,In-App
+672,28,Self-Employed,86707,720,German,10672,9.79,48,Education,3/6/2020,2/14/2024,-4,33568.1752,-9446.1752,Current,Not Started,0,,2/10/2024,24122,Self-Employed,1436,0,3,Always Late,South,In-App
+673,35,Employed,38481,666,German,10673,11.72,36,Debt Consolidation,12/11/2021,11/25/2024,-2,3483.0732,-906.0732,Current,Not Started,0,,11/23/2024,2577,Employed,1078,0,1,Always Late,East,Email
+674,64,Self-Employed,33474,579,German,10674,8.61,12,Other,11/20/2021,11/15/2022,130,46980.3416,-3724.3416,Default,Recovered,-2409.655325,5/3/2023,3/25/2023,43256,Self-Employed,490,1,2,Always On Time,East,SMS
+675,29,Employed,61760,582,German,10675,3.81,48,Other,8/17/2021,7/27/2025,2,33822.94,-4472.94,Current,Not Started,0,,7/29/2025,29350,Employed,1442,0,4,Always Late,East,In-App
+676,26,Self-Employed,70718,339,German,10676,8.67,24,Business,7/22/2021,7/12/2023,90,50376.4088,-7444.4088,Delinquent,Not Started,0,,10/10/2023,42932,Self-Employed,810,0,3,Mixed,South,In-App
+677,27,Employed,59629,488,German,10677,6.91,48,Education,9/26/2022,9/5/2026,2,44416.1672,-9618.1672,Current,Not Started,0,,9/7/2026,34798,Employed,1442,0,6,Always Late,East,In-App
+678,61,Self-Employed,60232,463,German,10678,14.19,60,Business,7/4/2022,6/8/2027,2,56239.131,-23341.131,Current,Not Started,0,,6/10/2027,32898,Self-Employed,1802,0,3,Always Late,West,Email
+679,34,Employed,101544,835,German,10679,4.93,12,Business,12/15/2022,12/10/2023,62,17713.2333,-832.2333,Delinquent,Not Started,0,,2/10/2024,16881,Employed,422,0,4,Always Late,West,SMS
+680,55,Employed,82169,835,German,10680,11,36,Other,8/18/2021,8/2/2024,63,15674.05,-3889.05,Delinquent,Not Started,0,,10/4/2024,11785,Employed,1143,0,3,Always Late,West,Phone
+681,24,Employed,65669,303,German,10681,4.11,12,Business,3/13/2022,3/8/2023,-2,8007.1001,-316.1001,Current,Not Started,0,,3/6/2023,7691,Employed,358,0,6,Mixed,West,SMS
+682,63,Self-Employed,93021,589,German,10682,8.63,60,Debt Consolidation,10/2/2020,9/6/2025,150,26192.1555,-7895.1555,Default,Recovered,-6157.7993,5/16/2026,2/3/2026,18297,Self-Employed,1950,1,7,Always On Time,North,SMS
+683,30,Employed,84184,732,German,10683,9.87,60,Business,2/26/2022,1/31/2027,147,10989.173,-3631.173,Default,Recovered,-2361.931107,9/12/2027,6/27/2027,7358,Employed,1947,1,4,Always On Time,West,Email
+684,57,Employed,62945,770,German,10684,6.93,60,Debt Consolidation,8/21/2021,7/26/2026,136,27712.3165,-7131.3165,Default,Recovered,-4161.602099,4/4/2027,12/9/2026,20581,Employed,1936,1,6,Mixed,East,In-App
+685,59,Employed,28140,480,German,10685,8.73,60,Other,7/12/2020,6/16/2025,0,3536.6630000000005,-1074.663,Current,Not Started,0,,6/16/2025,2462,Employed,1800,0,2,Mixed,South,In-App
+686,26,Employed,98457,547,German,10686,5.38,24,Education,10/13/2020,10/3/2022,1,18287.5836,-1776.5836,Current,Not Started,0,,10/4/2022,16511,Employed,721,0,4,Always Late,East,Email
+687,67,Self-Employed,29357,578,German,10687,7,36,Debt Consolidation,7/27/2020,7/12/2023,2,13999.7,-2429.7,Current,Not Started,0,,7/14/2023,11570,Self-Employed,1082,0,3,Always Late,West,Email
+688,44,Employed,83673,553,German,10688,10.64,60,Education,2/25/2022,1/30/2027,1,76086.78,-26421.78,Current,Not Started,0,,1/31/2027,49665,Employed,1801,0,3,Mixed,North,Email
+689,19,Unemployed,80633,480,German,10689,6.97,60,Education,1/28/2022,1/2/2027,-3,61240.779,-15826.779,Current,Not Started,0,,12/30/2026,45414,Unemployed,1797,0,6,Always Late,West,Email
+690,22,Employed,91943,808,German,10690,13.85,48,Debt Consolidation,11/1/2022,10/11/2026,51,25600.596,-9126.596,Delinquent,Not Started,0,,12/1/2026,16474,Employed,1491,0,7,Mixed,South,Email
+691,46,Employed,111111,625,German,10691,10.73,36,Other,10/2/2021,9/16/2024,-1,10624.1103,-2587.1103,Current,Not Started,0,,9/15/2024,8037,Employed,1079,0,1,Always Late,East,Phone
+692,54,Self-Employed,93258,656,German,10692,8.54,12,Home Improvement,4/1/2022,3/27/2023,4,31616.6166,-2487.6166,Current,Not Started,0,,3/31/2023,29129,Self-Employed,364,0,5,Always Late,South,SMS
+693,55,Employed,27924,690,German,10693,3.95,36,Education,3/25/2020,3/10/2023,-2,48394.139500000005,-5127.1395,Current,Not Started,0,,3/8/2023,43267,Employed,1078,0,4,Mixed,South,SMS
+694,36,Employed,84286,384,German,10694,9.24,36,Education,4/15/2020,3/31/2023,62,18373.7992,-3987.7992,Delinquent,Not Started,0,,6/1/2023,14386,Employed,1142,0,1,Mixed,South,SMS
+695,25,Employed,108269,616,German,10695,12.29,36,Other,4/19/2020,4/4/2023,1,9883.3827,-2662.3827,Current,Not Started,0,,4/5/2023,7221,Employed,1081,0,2,Mixed,East,In-App
+696,65,Self-Employed,89071,511,German,10696,6.55,60,Other,2/13/2020,1/17/2025,53,32489.235000000004,-8015.235,Delinquent,Not Started,0,,3/11/2025,24474,Self-Employed,1853,0,3,Always Late,West,Phone
+697,62,Employed,72326,814,German,10697,12.78,60,Business,12/28/2020,12/2/2025,-4,68079.143,-26542.143,Current,Not Started,0,,11/28/2025,41537,Employed,1796,0,2,Mixed,South,SMS
+698,18,Unemployed,105023,683,German,10698,6.4,24,Other,9/10/2020,8/31/2022,36,54283.872,-6159.872,Delinquent,Not Started,0,,10/6/2022,48124,Unemployed,756,0,2,Mixed,East,In-App
+699,39,Unemployed,45651,641,German,10699,12.97,12,Education,5/21/2022,5/16/2023,128,24904.2365,-2859.2365,Default,Recovered,-2011.721258,2/8/2024,9/21/2023,22045,Unemployed,488,1,2,Always On Time,North,Phone
+700,69,Employed,85202,337,Other,10700,4.48,48,Debt Consolidation,1/17/2021,12/27/2024,-1,31582.5136,-4799.5136,Current,Not Started,0,,12/26/2024,26783,Employed,1439,0,3,Always Late,East,Phone
+701,34,Employed,63777,810,German,10701,13.46,36,Home Improvement,6/5/2020,5/21/2023,158,57776.1966,-16619.1966,Default,Not Started,0,,10/26/2023,41157,Employed,1238,0,6,Always Late,North,In-App
+702,24,Employed,31994,719,German,10702,9.24,12,Business,5/22/2020,5/17/2021,-4,6469.1928,-547.1928,Current,Not Started,0,,5/13/2021,5922,Employed,356,0,4,Always Late,East,Phone
+703,42,Employed,82263,468,Other,10703,6.91,12,Debt Consolidation,4/5/2020,3/31/2021,4,50682.82369999999,-3275.8237,Current,Not Started,0,,4/4/2021,47407,Employed,364,0,9,Always Late,West,In-App
+704,62,Employed,74634,642,Other,10704,6.55,24,Home Improvement,2/8/2022,1/29/2024,0,26811.486,-3105.486,Current,Not Started,0,,1/29/2024,23706,Employed,720,0,3,Mixed,South,SMS
+705,21,Employed,115158,605,German,10705,8.47,48,Home Improvement,9/22/2020,9/1/2024,-1,58600.6148,-14829.6148,Current,Not Started,0,,8/31/2024,43771,Employed,1439,0,6,Always Late,West,In-App
+706,53,Employed,25800,841,German,10706,14.99,36,Home Improvement,7/9/2021,6/23/2024,79,48534.5063,-15055.5063,Delinquent,Not Started,0,,9/10/2024,33479,Employed,1159,0,7,Always Late,East,Phone
+707,23,Self-Employed,52823,836,German,10707,6.03,48,Debt Consolidation,10/17/2022,9/26/2026,4,7668.1336,-1490.1336,Current,Not Started,0,,9/30/2026,6178,Self-Employed,1444,0,5,Always Late,South,SMS
+708,48,Self-Employed,78878,411,German,10708,4.69,24,Business,2/18/2022,2/8/2024,1,33931.863600000004,-2909.8636,Current,Not Started,0,,2/9/2024,31022,Self-Employed,721,0,3,Mixed,North,SMS
+709,36,Self-Employed,33708,710,German,10709,10.23,60,Business,12/15/2021,11/19/2026,0,24546.76,-8306.76,Current,Not Started,0,,11/19/2026,16240,Self-Employed,1800,0,6,Always Late,East,Email
+710,61,Employed,27819,505,German,10710,9.12,12,Home Improvement,4/21/2022,4/16/2023,3,29702.464,-2482.464,Current,Not Started,0,,4/19/2023,27220,Employed,363,0,2,Always Late,South,Email
+711,56,Employed,89905,484,German,10711,9.53,36,Debt Consolidation,1/8/2022,12/23/2024,4,48524.7224,-10788.7224,Current,Not Started,0,,12/27/2024,37736,Employed,1084,0,3,Always Late,North,Phone
+712,44,Employed,78870,681,German,10712,11.17,60,Home Improvement,9/21/2021,8/26/2026,82,5791.386,-2075.386,Delinquent,Not Started,0,,11/16/2026,3716,Employed,1882,0,4,Mixed,North,In-App
+713,27,Unemployed,24283,795,German,10713,6.57,24,Other,6/30/2021,6/20/2023,3,19883.2236,-2309.2236,Current,Not Started,0,,6/23/2023,17574,Unemployed,723,0,4,Mixed,West,In-App
+714,43,Employed,45573,678,German,10714,13.97,48,Business,1/22/2021,1/1/2025,3,73698.50520000001,-26419.5052,Current,Not Started,0,,1/4/2025,47279,Employed,1443,0,1,Mixed,East,Phone
+715,36,Self-Employed,93707,346,German,10715,8.51,12,Education,10/13/2021,10/8/2022,-5,20311.9869,-1592.9869,Current,Not Started,0,,10/3/2022,18719,Self-Employed,355,0,8,Mixed,North,SMS
+716,56,Employed,45933,827,German,10716,4.98,36,Home Improvement,8/17/2021,8/1/2024,-1,10552.6414,-1371.6414,Current,Not Started,0,,7/31/2024,9181,Employed,1079,0,5,Always Late,South,Phone
+717,20,Employed,20774,803,German,10717,12.04,60,Other,10/25/2020,9/29/2025,3,74914.326,-28151.326,Current,Not Started,0,,10/2/2025,46763,Employed,1803,0,4,Mixed,North,Phone
+718,62,Self-Employed,87055,321,German,10718,10.9,60,Business,10/2/2021,9/6/2026,128,69626.97,-24560.97,Default,Not Started,0,,1/12/2027,45066,Self-Employed,1928,0,8,Always Late,North,SMS
+719,30,Employed,25983,512,German,10719,7.13,12,Debt Consolidation,6/21/2022,6/16/2023,0,22725.4869,-1512.4869,Current,Not Started,0,,6/16/2023,21213,Employed,360,0,3,Mixed,West,In-App
+720,67,Self-Employed,111468,609,Other,10720,10.65,48,Business,6/22/2021,6/1/2025,1,10523.88,-3143.88,Current,Not Started,0,,6/2/2025,7380,Self-Employed,1441,0,9,Mixed,West,Phone
+721,45,Unemployed,111334,571,German,10721,6.03,24,Debt Consolidation,5/12/2022,5/1/2024,-5,1809.769,-194.769,Current,Not Started,0,,4/26/2024,1615,Unemployed,715,0,4,Always Late,South,In-App
+722,37,Employed,33133,501,German,10722,8.62,48,Debt Consolidation,3/15/2022,2/22/2026,-2,1967.4424,-504.4424,Current,Not Started,0,,2/20/2026,1463,Employed,1438,0,1,Mixed,West,Phone
+723,45,Employed,29939,331,German,10723,13.84,48,Home Improvement,1/31/2021,1/10/2025,58,51226.85279999999,-18253.8528,Delinquent,Not Started,0,,3/9/2025,32973,Employed,1498,0,6,Always Late,North,SMS
+724,25,Employed,15781,742,German,10724,5.04,48,Home Improvement,4/13/2020,3/23/2024,-5,12205.8528,-2047.8528,Current,Not Started,0,,3/18/2024,10158,Employed,1435,0,5,Always Late,North,SMS
+725,58,Unemployed,71700,461,German,10725,7.95,12,Business,1/6/2020,12/31/2020,0,23372.2545,-1721.2545,Current,Not Started,0,,12/31/2020,21651,Unemployed,360,0,6,Mixed,West,Email
+726,56,Employed,42624,553,German,10726,12.94,12,Other,1/25/2021,1/20/2022,59,4696.0452,-538.0452,Delinquent,Not Started,0,,3/20/2022,4158,Employed,419,0,9,Mixed,North,SMS
+727,18,Employed,21823,820,German,10727,14.65,24,Business,9/27/2022,9/16/2024,-2,27163.344,-6155.344,Current,Not Started,0,,9/14/2024,21008,Employed,718,0,6,Mixed,North,Email
+728,20,Employed,33489,779,German,10728,8.72,48,Education,9/17/2020,8/27/2024,-5,63666.0576,-16464.0576,Current,Not Started,0,,8/22/2024,47202,Employed,1435,0,5,Mixed,South,Phone
+729,30,Self-Employed,54961,309,German,10729,9.33,12,Debt Consolidation,7/9/2022,7/4/2023,3,6492.015399999999,-554.0154,Current,Not Started,0,,7/7/2023,5938,Self-Employed,363,0,7,Mixed,West,In-App
+730,45,Employed,44118,804,German,10730,10.08,24,Debt Consolidation,5/27/2021,5/17/2023,-2,47084.696,-7899.696,Current,Not Started,0,,5/15/2023,39185,Employed,718,0,5,Mixed,North,SMS
+731,66,Self-Employed,115417,735,Other,10731,14.22,24,Home Improvement,12/8/2021,11/28/2023,176,30039.5472,-6651.5472,Default,Not Started,0,,5/22/2024,23388,Self-Employed,896,0,3,Mixed,West,SMS
+732,42,Unemployed,96816,410,Other,10732,13.37,48,Other,9/8/2021,8/18/2025,1,15165.3588,-5284.3588,Current,Not Started,0,,8/19/2025,9881,Unemployed,1441,0,7,Always Late,South,SMS
+733,50,Employed,37263,452,German,10733,5.46,36,Home Improvement,12/11/2022,11/25/2025,37,7684.5714,-1081.5714,Delinquent,Not Started,0,,1/1/2026,6603,Employed,1117,0,2,Always Late,West,Phone
+734,55,Employed,28565,401,German,10734,8.52,48,Education,2/15/2022,1/25/2026,3,48241.984,-12261.984,Current,Not Started,0,,1/28/2026,35980,Employed,1443,0,6,Always Late,North,Email
+735,23,Unemployed,35354,490,German,10735,8.84,36,Business,2/2/2020,1/17/2023,179,29737.260800000004,-6233.2608,Default,Not Started,0,,7/15/2023,23504,Unemployed,1259,0,7,Mixed,West,Phone
+736,61,Employed,57951,380,German,10736,12.57,24,Business,1/25/2020,1/14/2022,2,22232.3724,-4466.3724,Current,Not Started,0,,1/16/2022,17766,Employed,722,0,6,Mixed,North,In-App
+737,62,Self-Employed,106179,788,German,10737,10.43,12,Other,5/20/2022,5/15/2023,4,32450.9598,-3064.9598,Current,Not Started,0,,5/19/2023,29386,Self-Employed,364,0,5,Always Late,North,Phone
+738,49,Employed,38648,387,Other,10738,11.02,60,Home Improvement,5/31/2022,5/5/2027,-3,19689.945,-6994.945,Current,Not Started,0,,5/2/2027,12695,Employed,1797,0,6,Always Late,North,In-App
+739,62,Employed,65729,493,German,10739,14.98,24,Home Improvement,11/6/2020,10/27/2022,-4,24427.2816,-5631.2816,Current,Not Started,0,,10/23/2022,18796,Employed,716,0,4,Always Late,South,SMS
+740,64,Self-Employed,56971,403,German,10740,4.36,12,Education,1/5/2020,12/30/2020,-1,45441.4748,-1898.4748,Current,Not Started,0,,12/29/2020,43543,Self-Employed,359,0,7,Mixed,West,In-App
+741,38,Employed,33658,395,German,10741,6.06,24,Business,7/16/2022,7/5/2024,46,17444.750799999998,-1885.7508,Delinquent,Not Started,0,,8/20/2024,15559,Employed,766,0,2,Always Late,South,In-App
+742,33,Employed,36253,722,Other,10742,8.19,48,Home Improvement,8/4/2020,7/14/2024,125,52989.8264,-13075.8264,Default,Not Started,0,,11/16/2024,39914,Employed,1565,0,1,Always Late,West,Email
+743,38,Employed,79166,497,German,10743,7.5,36,Other,8/5/2020,7/21/2023,-5,41820.275,-7681.275,Current,Not Started,0,,7/16/2023,34139,Employed,1075,0,2,Mixed,South,In-App
+744,28,Employed,63563,300,German,10744,3.75,24,Business,4/10/2020,3/31/2022,-3,42282.975,-2949.975,Current,Not Started,0,,3/28/2022,39333,Employed,717,0,4,Always Late,East,In-App
+745,54,Employed,41390,706,German,10745,4.56,12,Education,8/17/2021,8/12/2022,90,10248.9712,-446.9712,Delinquent,Not Started,0,,11/10/2022,9802,Employed,450,0,4,Always Late,North,Phone
+746,53,Employed,103664,677,German,10746,11.33,48,Other,6/18/2021,5/28/2025,-2,13524.9324,-4217.9324,Current,Not Started,0,,5/26/2025,9307,Employed,1438,0,7,Mixed,North,SMS
+747,52,Unemployed,66578,466,German,10747,13.61,60,Debt Consolidation,9/9/2020,8/14/2025,177,69245.0025,-28040.0025,Default,Recovered,-17276.47411,3/24/2026,2/7/2026,41205,Unemployed,1977,1,3,Mixed,South,Phone
+748,36,Employed,94025,808,Other,10748,9.41,48,Education,3/28/2022,3/7/2026,-1,47092.1496,-12878.1496,Current,Not Started,0,,3/6/2026,34214,Employed,1439,0,4,Mixed,East,Phone
+749,37,Employed,118850,612,German,10749,9.7,36,Other,3/29/2022,3/13/2025,-1,45390.269,-10231.269,Current,Not Started,0,,3/12/2025,35159,Employed,1079,0,1,Always Late,North,SMS
+750,35,Employed,47658,717,German,10750,6.43,48,Home Improvement,3/6/2022,2/13/2026,-5,15735.115200000002,-3219.1152,Current,Not Started,0,,2/8/2026,12516,Employed,1435,0,3,Always Late,West,SMS
+751,64,Self-Employed,21852,776,German,10751,12.33,60,Debt Consolidation,1/21/2021,12/26/2025,2,48634.019,-18548.019,Current,Not Started,0,,12/28/2025,30086,Self-Employed,1802,0,5,Mixed,South,In-App
+752,58,Employed,109986,372,German,10752,12.15,12,Education,1/5/2022,12/31/2022,-2,55202.473,-5980.473,Current,Not Started,0,,12/29/2022,49222,Employed,358,0,1,Mixed,North,In-App
+753,66,Unemployed,17551,440,German,10753,10.27,24,Home Improvement,7/21/2022,7/10/2024,148,37945.992,-6465.992,Default,Recovered,-4962.005419,2/25/2025,12/5/2024,31480,Unemployed,868,1,2,Always On Time,North,Email
+754,31,Employed,86947,561,German,10754,5.95,36,Debt Consolidation,3/3/2020,2/16/2023,127,53809.1315,-8150.1315,Default,Recovered,-4885.305084,8/31/2023,6/23/2023,45659,Employed,1207,1,2,Always On Time,South,Phone
+755,32,Employed,76001,639,German,10755,4.62,60,Business,11/19/2020,10/24/2025,-4,60030.946,-11264.946,Current,Not Started,0,,10/20/2025,48766,Employed,1796,0,1,Mixed,South,SMS
+756,48,Employed,64159,607,German,10756,4.24,36,Home Improvement,1/23/2022,1/7/2025,-5,44791.5464,-5054.5464,Current,Not Started,0,,1/2/2025,39737,Employed,1075,0,4,Always Late,West,In-App
+757,18,Employed,66707,544,German,10757,10.32,48,Other,10/16/2022,9/25/2026,3,14502.392,-4237.392,Current,Not Started,0,,9/28/2026,10265,Employed,1443,0,2,Mixed,West,SMS
+758,20,Employed,48243,814,German,10758,12.99,36,Education,8/27/2021,8/11/2024,169,68969.4213,-19340.4213,Default,Not Started,0,,1/27/2025,49629,Employed,1249,0,6,Always Late,North,In-App
+759,33,Employed,36800,636,German,10759,13.37,60,Debt Consolidation,8/18/2020,7/23/2025,-4,10768.499,-4314.499,Current,Not Started,0,,7/19/2025,6454,Employed,1796,0,7,Mixed,North,Email
+760,40,Self-Employed,90939,375,German,10760,8.83,24,Home Improvement,2/12/2020,2/1/2022,0,43437.7188,-6519.7188,Current,Not Started,0,,2/1/2022,36918,Self-Employed,720,0,4,Mixed,South,Email
+761,28,Employed,72828,474,German,10761,12.52,24,Business,12/8/2022,11/27/2024,-5,33987.1224,-6806.1224,Current,Not Started,0,,11/22/2024,27181,Employed,715,0,9,Always Late,North,SMS
+762,29,Employed,22239,408,German,10762,14.39,36,Education,12/18/2021,12/2/2024,-5,23459.8362,-7073.8362,Current,Not Started,0,,11/27/2024,16386,Employed,1075,0,4,Always Late,North,Email
+763,27,Employed,21710,482,German,10763,6.66,12,Education,12/12/2022,12/7/2023,110,42858.1212,-2676.1212,Default,Recovered,-2018.338606,8/2/2024,3/26/2024,40182,Employed,470,1,4,Mixed,South,SMS
+764,49,Self-Employed,36384,491,German,10764,8.08,36,Home Improvement,5/30/2022,5/14/2025,3,47739.22,-9314.22,Current,Not Started,0,,5/17/2025,38425,Self-Employed,1083,0,9,Always Late,North,In-App
+765,33,Employed,36038,364,German,10765,14.21,48,Business,9/5/2020,8/15/2024,-1,69407.9736,-25153.9736,Current,Not Started,0,,8/14/2024,44254,Employed,1439,0,2,Always Late,North,Phone
+766,25,Employed,55846,773,German,10766,7.39,24,Debt Consolidation,5/25/2020,5/15/2022,1,29070.3306,-3743.3306,Current,Not Started,0,,5/16/2022,25327,Employed,721,0,8,Always Late,East,Email
+767,55,Employed,102983,399,German,10767,14.01,24,Home Improvement,5/5/2022,4/24/2024,-5,28396.1162,-6215.1162,Current,Not Started,0,,4/19/2024,22181,Employed,715,0,1,Mixed,West,In-App
+768,29,Self-Employed,82821,843,German,10768,14.78,24,Debt Consolidation,6/11/2022,5/31/2024,0,63046.4872,-14384.4872,Current,Not Started,0,,5/31/2024,48662,Self-Employed,720,0,3,Always Late,South,Phone
+769,41,Employed,52991,427,German,10769,11.11,12,Education,3/27/2020,3/22/2021,2,24946.4172,-2494.4172,Current,Not Started,0,,3/24/2021,22452,Employed,362,0,1,Mixed,East,Phone
+770,45,Employed,94057,751,Other,10770,12.89,12,Debt Consolidation,1/18/2021,1/13/2022,-5,44307.0672,-5059.0672,Current,Not Started,0,,1/8/2022,39248,Employed,355,0,6,Always Late,West,Phone
+771,25,Self-Employed,21971,668,German,10771,12.12,60,Business,3/4/2020,2/6/2025,3,67132.40599999999,-25331.406,Current,Not Started,0,,2/9/2025,41801,Self-Employed,1803,0,5,Always Late,West,In-App
+772,45,Self-Employed,44139,342,German,10772,11.54,36,Other,12/15/2020,11/30/2023,-3,46781.7962,-12030.7962,Current,Not Started,0,,11/27/2023,34751,Self-Employed,1077,0,6,Mixed,West,In-App
+773,53,Employed,100445,718,German,10773,7.03,36,Business,4/30/2022,4/14/2025,-5,27839.8019,-4848.8019,Current,Not Started,0,,4/9/2025,22991,Employed,1075,0,3,Always Late,East,SMS
+774,43,Self-Employed,92067,787,Other,10774,4.16,48,Debt Consolidation,1/17/2020,12/27/2023,30,49351.55039999999,-7040.5504,Current,Not Started,0,,1/26/2024,42311,Self-Employed,1470,0,3,Mixed,East,Phone
+775,25,Employed,95257,377,German,10775,7.45,24,Home Improvement,10/14/2021,10/4/2023,0,12542.484,-1626.484,Current,Not Started,0,,10/4/2023,10916,Employed,720,0,1,Mixed,West,Phone
+776,67,Employed,99742,569,German,10776,11.17,12,Education,4/29/2021,4/24/2022,0,12387.673099999998,-1244.6731,Current,Not Started,0,,4/24/2022,11143,Employed,360,0,3,Always Late,North,Phone
+777,45,Employed,52711,614,German,10777,4.68,48,Other,2/28/2020,2/7/2024,-5,31882.256,-5027.256,Current,Not Started,0,,2/2/2024,26855,Employed,1435,0,8,Mixed,North,SMS
+778,45,Employed,21530,467,German,10778,3.64,48,Home Improvement,1/20/2022,12/30/2025,-3,18995.1936,-2414.1936,Current,Not Started,0,,12/27/2025,16581,Employed,1437,0,3,Always Late,East,Phone
+779,54,Employed,26116,638,German,10779,5.11,12,Home Improvement,5/6/2020,5/1/2021,1,3055.5477,-148.5477,Current,Not Started,0,,5/2/2021,2907,Employed,361,0,7,Mixed,East,In-App
+780,58,Unemployed,80794,492,German,10780,11.73,36,Business,11/26/2022,11/10/2025,100,41130.2056,-10706.2056,Default,Not Started,0,,2/18/2026,30424,Unemployed,1180,0,7,Mixed,East,Phone
+781,53,Employed,15282,752,German,10781,14.69,24,Debt Consolidation,6/7/2021,5/28/2023,-3,31449.690400000003,-7141.6904,Current,Not Started,0,,5/25/2023,24308,Employed,717,0,3,Mixed,West,Email
+782,44,Employed,94473,582,German,10782,14.81,36,Business,5/2/2020,4/17/2023,-3,62081.79120000001,-19097.7912,Current,Not Started,0,,4/14/2023,42984,Employed,1077,0,5,Mixed,North,In-App
+783,34,Employed,16898,635,German,10783,9.18,48,Debt Consolidation,1/17/2021,12/27/2024,80,58112.836,-15607.836,Delinquent,Not Started,0,,3/17/2025,42505,Employed,1520,0,1,Always Late,East,SMS
+784,26,Unemployed,19135,689,German,10784,13.5,24,Business,4/11/2022,3/31/2024,1,60356.75,-12831.75,Current,Not Started,0,,4/1/2024,47525,Unemployed,721,0,1,Always Late,East,Phone
+785,50,Employed,21629,824,German,10785,11.97,60,Home Improvement,5/19/2022,4/23/2027,158,60650.287,-22708.287,Default,Recovered,-13141.04174,11/16/2027,9/28/2027,37942,Employed,1958,1,1,Always On Time,South,Email
+786,37,Employed,100120,539,German,10786,9.26,48,Education,9/26/2022,9/5/2026,-2,38312.2728,-10355.2728,Current,Not Started,0,,9/3/2026,27957,Employed,1438,0,4,Always Late,West,SMS
+787,30,Employed,104087,782,German,10787,10.09,36,Debt Consolidation,12/6/2021,11/20/2024,173,34474.6528,-8010.6528,Default,Recovered,-6692.799118,8/18/2025,5/12/2025,26464,Employed,1253,1,3,Always On Time,South,SMS
+788,45,Employed,80031,757,Other,10788,5.08,36,Other,12/13/2022,11/27/2025,71,57016.1424,-7540.1424,Delinquent,Not Started,0,,2/6/2026,49476,Employed,1151,0,4,Always Late,North,In-App
+789,65,Unemployed,48380,388,German,10789,14.28,36,Other,8/15/2020,7/31/2023,147,35208.6316,-10559.6316,Default,Not Started,0,,12/25/2023,24649,Unemployed,1227,0,4,Mixed,South,SMS
+790,46,Unemployed,32071,394,German,10790,7.55,12,Home Improvement,12/29/2020,12/24/2021,158,46316.4075,-3251.4075,Default,Recovered,-2851.383071,8/13/2022,5/31/2022,43065,Unemployed,518,1,3,Always On Time,South,SMS
+791,30,Employed,35074,751,German,10791,8.63,48,Business,9/29/2020,9/8/2024,128,37833.75,-9708.75,Default,Recovered,-5390.270011,2/18/2025,1/14/2025,28125,Employed,1568,1,5,Always On Time,South,SMS
+792,63,Unemployed,105724,727,German,10792,11.22,24,Business,2/17/2020,2/6/2022,36,43782.0952,-8024.0952,Delinquent,Not Started,0,,3/14/2022,35758,Unemployed,756,0,6,Always Late,West,SMS
+793,52,Employed,82843,450,Other,10793,7.34,36,Home Improvement,11/11/2021,10/26/2024,1,8048.4392,-1452.4392,Current,Not Started,0,,10/27/2024,6596,Employed,1081,0,1,Mixed,North,Phone
+794,23,Self-Employed,54901,813,German,10794,6.42,36,Other,10/26/2022,10/10/2025,-4,20720.2324,-3346.2324,Current,Not Started,0,,10/6/2025,17374,Self-Employed,1076,0,2,Mixed,South,Phone
+795,35,Employed,26205,675,German,10795,10.76,12,Other,11/26/2022,11/21/2023,-2,5288.79,-513.79,Current,Not Started,0,,11/19/2023,4775,Employed,358,0,6,Always Late,West,Phone
+796,68,Employed,70661,321,German,10796,3.79,24,Business,1/2/2020,12/22/2021,116,30539.8104,-2151.8104,Default,Recovered,-1579.216248,6/24/2022,4/17/2022,28388,Employed,836,1,3,Always On Time,North,Phone
+797,22,Employed,20906,612,German,10797,11.79,48,Debt Consolidation,1/30/2020,1/9/2024,55,32417.8764,-10388.8764,Delinquent,Not Started,0,,3/4/2024,22029,Employed,1495,0,5,Mixed,East,Email
+798,64,Employed,17591,818,German,10798,9.41,60,Education,9/14/2021,8/19/2026,109,28593.8725,-9148.8725,Default,Recovered,-4898.634327,4/16/2027,12/6/2026,19445,Employed,1909,1,3,Always On Time,South,Phone
+799,42,Employed,77987,505,German,10799,10.47,12,Debt Consolidation,10/23/2022,10/18/2023,38,54653.9278,-5179.9278,Delinquent,Not Started,0,,11/25/2023,49474,Employed,398,0,3,Mixed,North,SMS
+800,19,Employed,78370,674,German,10800,10.77,48,Other,3/4/2022,2/11/2026,-2,22384.866,-6739.866,Current,Not Started,0,,2/9/2026,15645,Employed,1438,0,2,Always Late,South,Phone
+801,27,Employed,95685,750,German,10801,9.56,60,Debt Consolidation,2/23/2021,1/28/2026,4,47451.19,-15346.19,Current,Not Started,0,,2/1/2026,32105,Employed,1804,0,2,Always Late,East,Phone
+802,47,Self-Employed,69400,478,German,10802,10.2,36,Education,12/26/2020,12/11/2023,-4,19156.408,-4488.408,Current,Not Started,0,,12/7/2023,14668,Self-Employed,1076,0,5,Always Late,North,In-App
+803,67,Employed,40150,509,Other,10803,11.36,36,Debt Consolidation,11/5/2021,10/20/2024,0,22739.968,-5779.968,Current,Not Started,0,,10/20/2024,16960,Employed,1080,0,3,Mixed,West,SMS
+804,62,Employed,46852,799,German,10804,12.16,24,Debt Consolidation,7/2/2022,6/21/2024,-5,15362.2224,-3005.2224,Current,Not Started,0,,6/16/2024,12357,Employed,715,0,6,Mixed,North,Phone
+805,22,Unemployed,57870,763,German,10805,11.87,60,Debt Consolidation,10/12/2020,9/16/2025,112,60876.4805,-22673.4805,Default,Not Started,0,,1/6/2026,38203,Unemployed,1912,0,7,Always Late,West,Phone
+806,50,Employed,67756,423,German,10806,13.5,36,Debt Consolidation,10/4/2022,9/18/2025,42,23609.62,-6805.62,Delinquent,Not Started,0,,10/30/2025,16804,Employed,1122,0,4,Mixed,North,Phone
+807,18,Employed,71481,412,German,10807,5.68,36,Home Improvement,8/14/2020,7/30/2023,4,18288.6704,-2662.6704,Current,Not Started,0,,8/3/2023,15626,Employed,1084,0,6,Always Late,West,Email
+808,35,Employed,16283,311,German,10808,8.11,24,Other,4/22/2020,4/12/2022,-5,33857.2104,-4725.2104,Current,Not Started,0,,4/7/2022,29132,Employed,715,0,3,Mixed,East,Phone
+809,49,Self-Employed,48691,425,German,10809,14.4,48,Education,11/4/2021,10/14/2025,2,14106.776,-5155.776,Current,Not Started,0,,10/16/2025,8951,Self-Employed,1442,0,3,Always Late,East,In-App
+810,64,Employed,16125,630,German,10810,8.06,36,Other,5/10/2022,4/24/2025,-1,9250.1682,-1801.1682,Current,Not Started,0,,4/23/2025,7449,Employed,1079,0,6,Mixed,East,SMS
+811,66,Employed,82065,582,German,10811,4.94,12,Home Improvement,2/11/2021,2/6/2022,0,21056.211000000003,-991.211,Current,Not Started,0,,2/6/2022,20065,Employed,360,0,3,Always Late,North,SMS
+812,28,Self-Employed,41170,439,German,10812,9.54,12,Home Improvement,3/9/2022,3/4/2023,-4,40493.6518,-3526.6518,Current,Not Started,0,,2/28/2023,36967,Self-Employed,356,0,4,Always Late,East,Phone
+813,38,Unemployed,23438,700,German,10813,4.76,48,Home Improvement,6/1/2022,5/11/2026,-4,48254.05439999999,-7718.0544,Current,Not Started,0,,5/7/2026,40536,Unemployed,1436,0,2,Always Late,South,Phone
+814,43,Employed,35095,396,German,10814,5.83,60,Home Improvement,9/2/2020,8/7/2025,3,13082.895,-2952.895,Current,Not Started,0,,8/10/2025,10130,Employed,1803,0,4,Mixed,East,Phone
+815,42,Employed,31154,816,German,10815,14.98,24,Debt Consolidation,8/31/2021,8/21/2023,157,32261.2704,-7437.2704,Default,Recovered,-5943.057498,7/2/2024,1/25/2024,24824,Employed,877,1,7,Mixed,West,SMS
+816,39,Employed,23004,368,German,10816,9.73,12,Other,1/3/2021,12/29/2021,0,46526.6173,-4125.6173,Current,Not Started,0,,12/29/2021,42401,Employed,360,0,7,Always Late,West,SMS
+817,44,Self-Employed,24752,417,German,10817,6.77,12,Business,10/15/2021,10/10/2022,4,40565.1261,-2572.1261,Current,Not Started,0,,10/14/2022,37993,Self-Employed,364,0,6,Always Late,West,Email
+818,66,Employed,70426,358,German,10818,14.94,48,Education,4/13/2022,3/23/2026,-1,52521.1,-19646.1,Current,Not Started,0,,3/22/2026,32875,Employed,1439,0,6,Mixed,North,In-App
+819,30,Employed,41819,332,German,10819,14.62,60,Home Improvement,9/10/2020,8/15/2025,-2,12210.473999999998,-5156.474,Current,Not Started,0,,8/13/2025,7054,Employed,1798,0,4,Always Late,South,Email
+820,50,Unemployed,117168,617,German,10820,8.57,60,Other,2/11/2020,1/15/2025,4,50387.480500000005,-15114.4805,Current,Not Started,0,,1/19/2025,35273,Unemployed,1804,0,4,Mixed,East,In-App
+821,51,Employed,107051,349,German,10821,6.49,48,Home Improvement,9/27/2020,9/6/2024,63,53937.331600000005,-11116.3316,Delinquent,Not Started,0,,11/8/2024,42821,Employed,1503,0,1,Mixed,South,Email
+822,58,Employed,39217,788,German,10822,13.14,12,Home Improvement,6/12/2022,6/7/2023,2,56023.5338,-6506.5338,Current,Not Started,0,,6/9/2023,49517,Employed,362,0,3,Always Late,South,SMS
+823,52,Employed,103708,318,German,10823,11.73,24,Home Improvement,6/26/2021,6/16/2023,4,14607.7872,-2775.7872,Current,Not Started,0,,6/20/2023,11832,Employed,724,0,4,Mixed,West,Email
+824,18,Employed,47994,496,German,10824,11.4,12,Home Improvement,4/11/2021,4/6/2022,1,34166.380000000005,-3496.38,Current,Not Started,0,,4/7/2022,30670,Employed,361,0,9,Always Late,West,In-App
+825,38,Employed,30036,749,German,10825,13.77,60,Home Improvement,6/27/2020,6/1/2025,-4,40274.102,-16422.102,Current,Not Started,0,,5/28/2025,23852,Employed,1796,0,3,Mixed,West,Phone
+826,65,Employed,92275,751,German,10826,11.43,12,Education,1/21/2021,1/16/2022,0,27434.066000000003,-2814.066,Current,Not Started,0,,1/16/2022,24620,Employed,360,0,4,Always Late,North,In-App
+827,23,Employed,112756,588,German,10827,6.76,24,Other,1/24/2020,1/13/2022,2,33269.3064,-3962.3064,Current,Not Started,0,,1/15/2022,29307,Employed,722,0,4,Always Late,South,Phone
+828,45,Employed,64416,440,German,10828,11.48,36,Home Improvement,11/17/2021,11/1/2024,84,65271.9644,-16720.9644,Delinquent,Not Started,0,,1/24/2025,48551,Employed,1164,0,5,Always Late,South,SMS
+829,34,Unemployed,24587,383,German,10829,7.02,12,Home Improvement,1/13/2022,1/8/2023,44,2730.0802,-179.0802,Delinquent,Not Started,0,,2/21/2023,2551,Unemployed,404,0,6,Mixed,North,In-App
+830,22,Employed,110665,690,German,10830,12.23,48,Home Improvement,5/13/2022,4/22/2026,46,72854.6424,-23932.6424,Delinquent,Not Started,0,,6/7/2026,48922,Employed,1486,0,2,Mixed,North,Email
+831,48,Unemployed,15645,514,German,10831,10.63,36,Home Improvement,5/26/2020,5/11/2023,-1,38000.1468,-9188.1468,Current,Not Started,0,,5/10/2023,28812,Unemployed,1079,0,4,Always Late,North,In-App
+832,22,Employed,45930,825,German,10832,4.39,48,Debt Consolidation,8/24/2021,8/3/2025,-4,17397.7044,-2598.7044,Current,Not Started,0,,7/30/2025,14799,Employed,1436,0,7,Mixed,South,Phone
+833,55,Self-Employed,96835,514,German,10833,9.4,48,Debt Consolidation,4/8/2021,3/18/2025,113,37581.312,-10269.312,Default,Recovered,-6492.281115,11/22/2025,7/9/2025,27312,Self-Employed,1553,1,4,Mixed,South,SMS
+834,20,Self-Employed,45090,702,German,10834,7.45,48,Business,9/24/2020,9/3/2024,1,52724.76,-12104.76,Current,Not Started,0,,9/4/2024,40620,Self-Employed,1441,0,2,Mixed,West,Email
+835,40,Employed,102489,427,German,10835,7.28,12,Home Improvement,7/18/2020,7/13/2021,-3,2627.2872,-178.2872,Current,Not Started,0,,7/10/2021,2449,Employed,357,0,5,Always Late,West,In-App
+836,54,Self-Employed,67142,776,German,10836,10.43,60,Business,11/24/2020,10/29/2025,1,38685.659,-13259.659,Current,Not Started,0,,10/30/2025,25426,Self-Employed,1801,0,7,Always Late,South,Phone
+837,54,Self-Employed,41475,703,German,10837,7.21,36,Education,8/26/2020,8/11/2023,-1,44306.1601,-7879.1601,Current,Not Started,0,,8/10/2023,36427,Self-Employed,1079,0,1,Always Late,West,Email
+838,27,Employed,33888,328,German,10838,12.43,24,Business,5/27/2021,5/17/2023,2,51538.4622,-10261.4622,Current,Not Started,0,,5/19/2023,41277,Employed,722,0,6,Mixed,North,SMS
+839,27,Employed,58732,637,German,10839,4.31,60,Other,1/11/2020,12/15/2024,2,39565.7405,-7014.7405,Current,Not Started,0,,12/17/2024,32551,Employed,1802,0,7,Mixed,East,Email
+840,36,Employed,96623,660,German,10840,11.09,12,Debt Consolidation,10/30/2021,10/25/2022,1,28080.2193,-2803.2193,Current,Not Started,0,,10/26/2022,25277,Employed,361,0,4,Mixed,West,SMS
+841,34,Self-Employed,61305,691,German,10841,12.81,48,Debt Consolidation,11/25/2021,11/4/2025,160,55185.9636,-18696.9636,Default,Recovered,-14280.96943,6/20/2026,4/13/2026,36489,Self-Employed,1600,1,9,Always On Time,South,Email
+842,38,Self-Employed,61037,517,German,10842,11.24,24,Home Improvement,10/17/2022,10/6/2024,-4,56600.4576,-10388.4576,Current,Not Started,0,,10/2/2024,46212,Self-Employed,716,0,6,Always Late,West,In-App
+843,31,Self-Employed,24346,501,German,10843,9.22,36,Home Improvement,8/11/2022,7/26/2025,0,13579.1942,-2942.1942,Current,Not Started,0,,7/26/2025,10637,Self-Employed,1080,0,6,Always Late,West,Phone
+844,26,Employed,15587,316,German,10844,14.43,60,Education,3/5/2021,2/7/2026,3,76190.147,-31932.147,Current,Not Started,0,,2/10/2026,44258,Employed,1803,0,6,Always Late,West,In-App
+845,63,Self-Employed,27763,621,German,10845,6.95,60,Education,2/23/2020,1/27/2025,-4,49443.817500000005,-12750.8175,Current,Not Started,0,,1/23/2025,36693,Self-Employed,1796,0,2,Always Late,East,In-App
+846,18,Employed,74165,817,German,10846,3.72,24,Other,1/31/2020,1/20/2022,-5,11629.3056,-805.3056,Current,Not Started,0,,1/15/2022,10824,Employed,715,0,2,Always Late,North,SMS
+847,68,Employed,84615,624,German,10847,8.47,12,Home Improvement,11/23/2021,11/18/2022,56,30317.365,-2367.365,Delinquent,Not Started,0,,1/13/2023,27950,Employed,416,0,4,Always Late,South,SMS
+848,62,Employed,51116,711,German,10848,3.88,36,Home Improvement,6/11/2022,5/26/2025,-1,27338.4032,-2850.4032,Current,Not Started,0,,5/25/2025,24488,Employed,1079,0,2,Mixed,East,SMS
+849,30,Employed,100751,617,German,10849,14.47,24,Education,10/22/2021,10/12/2023,72,51586.315200000005,-11578.3152,Delinquent,Not Started,0,,12/23/2023,40008,Employed,792,0,3,Always Late,South,In-App
+850,21,Employed,106353,381,German,10850,5.91,48,Education,9/12/2020,8/22/2024,0,1502.226,-287.226,Current,Not Started,0,,8/22/2024,1215,Employed,1440,0,7,Always Late,South,Email
+851,18,Employed,105301,773,Other,10851,12.57,36,Education,10/4/2021,9/18/2024,-3,56553.3657,-15486.3657,Current,Not Started,0,,9/15/2024,41067,Employed,1077,0,7,Always Late,South,Email
+852,66,Employed,110648,767,German,10852,12.41,60,Debt Consolidation,2/17/2021,1/22/2026,154,20293.5215,-7770.5215,Default,Not Started,0,,6/25/2026,12523,Employed,1954,0,5,Always Late,East,In-App
+853,57,Employed,40556,724,Other,10853,6,24,Business,5/29/2021,5/19/2023,2,12727.680000000002,-1363.68,Current,Not Started,0,,5/21/2023,11364,Employed,722,0,7,Always Late,North,In-App
+854,49,Employed,74042,503,Other,10854,10.64,60,Business,2/10/2021,1/15/2026,1,6362.396,-2209.396,Current,Not Started,0,,1/16/2026,4153,Employed,1801,0,6,Always Late,South,Phone
+855,51,Employed,33099,686,German,10855,4.05,60,Home Improvement,6/18/2020,5/23/2025,-4,29862.885,-5028.885,Current,Not Started,0,,5/19/2025,24834,Employed,1796,0,3,Always Late,North,SMS
+856,45,Employed,60096,397,German,10856,9.06,60,Debt Consolidation,7/10/2020,6/14/2025,1,51543.722,-16069.722,Current,Not Started,0,,6/15/2025,35474,Employed,1801,0,2,Always Late,North,SMS
+857,48,Employed,86986,644,German,10857,3.67,12,Education,2/2/2021,1/28/2022,-5,45683.2222,-1617.2222,Current,Not Started,0,,1/23/2022,44066,Employed,355,0,4,Mixed,West,In-App
+858,25,Employed,28230,507,German,10858,14.09,60,Home Improvement,2/28/2022,2/2/2027,3,60228.5075,-24893.5075,Current,Not Started,0,,2/5/2027,35335,Employed,1803,0,6,Mixed,East,In-App
+859,56,Employed,44009,813,German,10859,14.72,48,Debt Consolidation,4/2/2021,3/12/2025,1,18112.32,-6712.32,Current,Not Started,0,,3/13/2025,11400,Employed,1441,0,3,Always Late,East,Email
+860,43,Employed,85969,465,German,10860,6.06,48,Other,5/22/2021,5/1/2025,0,14095.028,-2750.028,Current,Not Started,0,,5/1/2025,11345,Employed,1440,0,5,Always Late,West,In-App
+861,51,Employed,48866,321,German,10861,5.89,36,Debt Consolidation,5/22/2020,5/7/2023,61,41062.1232,-6166.1232,Delinquent,Not Started,0,,7/7/2023,34896,Employed,1141,0,1,Mixed,West,Email
+862,20,Employed,99246,453,German,10862,12.17,60,Home Improvement,10/22/2020,9/26/2025,74,33607.999,-12713.999,Delinquent,Not Started,0,,12/9/2025,20894,Employed,1874,0,6,Always Late,North,In-App
+863,67,Employed,91975,738,German,10863,6.41,60,Business,7/7/2021,6/11/2026,79,39481.6295,-9582.6295,Delinquent,Not Started,0,,8/29/2026,29899,Employed,1879,0,7,Mixed,South,Phone
+864,29,Self-Employed,56855,594,German,10864,13.79,24,Education,6/8/2022,5/28/2024,-3,53117.933000000005,-11482.933,Current,Not Started,0,,5/25/2024,41635,Self-Employed,717,0,6,Mixed,East,Phone
+865,18,Employed,96557,518,German,10865,10.1,12,Other,11/20/2021,11/15/2022,155,32181.129,-2952.129,Default,Recovered,-2239.870326,9/13/2023,4/19/2023,29229,Employed,515,1,9,Always On Time,South,Email
+866,61,Employed,21416,794,German,10866,7.53,36,Debt Consolidation,12/4/2021,11/18/2024,4,8070.0997,-1487.0997,Current,Not Started,0,,11/22/2024,6583,Employed,1084,0,7,Always Late,South,SMS
+867,22,Employed,87516,529,German,10867,13.08,60,Home Improvement,7/9/2021,6/13/2026,95,9753.638,-3856.638,Default,Not Started,0,,9/16/2026,5897,Employed,1895,0,8,Mixed,West,Phone
+868,47,Employed,70915,319,Other,10868,9.17,24,Home Improvement,5/12/2021,5/2/2023,3,8284.9834,-1283.9834,Current,Not Started,0,,5/5/2023,7001,Employed,723,0,8,Mixed,South,Email
+869,47,Employed,33058,447,German,10869,13.98,12,Education,11/16/2020,11/11/2021,0,51155.3638,-6274.3638,Current,Not Started,0,,11/11/2021,44881,Employed,360,0,7,Mixed,North,In-App
+870,34,Employed,91637,407,German,10870,14.17,36,Home Improvement,8/13/2021,7/28/2024,34,7933.5317,-2366.5317,Delinquent,Not Started,0,,8/31/2024,5567,Employed,1114,0,5,Always Late,West,In-App
+871,65,Employed,55718,702,German,10871,5.4,36,Home Improvement,4/17/2020,4/2/2023,-3,11934.902,-1663.902,Current,Not Started,0,,3/30/2023,10271,Employed,1077,0,1,Always Late,South,Email
+872,64,Employed,47602,782,German,10872,3.53,60,Education,5/23/2021,4/27/2026,-1,56608.474,-8492.474,Current,Not Started,0,,4/26/2026,48116,Employed,1799,0,4,Always Late,West,SMS
+873,40,Employed,89658,666,German,10873,14.82,36,Other,11/29/2021,11/13/2024,53,18350.7538,-5647.7538,Delinquent,Not Started,0,,1/5/2025,12703,Employed,1133,0,4,Always Late,North,Email
+874,32,Self-Employed,93112,713,German,10874,13.92,24,Business,5/28/2021,5/18/2023,89,18318.1936,-3989.1936,Delinquent,Not Started,0,,8/15/2023,14329,Self-Employed,809,0,3,Mixed,North,Email
+875,54,Self-Employed,73067,608,German,10875,4.14,36,Business,9/20/2020,9/5/2023,108,41043.4178,-4534.4178,Default,Not Started,0,,12/22/2023,36509,Self-Employed,1188,0,3,Always Late,South,Phone
+876,38,Self-Employed,42516,433,German,10876,13.08,48,Debt Consolidation,4/9/2022,3/19/2026,-1,11052.3392,-3796.3392,Current,Not Started,0,,3/18/2026,7256,Self-Employed,1439,0,9,Mixed,West,Email
+877,31,Unemployed,102969,582,Other,10877,8.76,24,Other,7/27/2021,7/17/2023,0,1443.1456,-215.1456,Current,Not Started,0,,7/17/2023,1228,Unemployed,720,0,7,Always Late,South,Email
+878,19,Employed,16089,372,German,10878,6.48,12,Debt Consolidation,4/17/2022,4/12/2023,4,27414.3408,-1668.3408,Current,Not Started,0,,4/16/2023,25746,Employed,364,0,7,Always Late,South,In-App
+879,28,Employed,52346,780,German,10879,13.61,12,Business,4/28/2020,4/23/2021,2,20083.9758,-2405.9758,Current,Not Started,0,,4/25/2021,17678,Employed,362,0,3,Always Late,West,Phone
+880,68,Employed,89663,651,German,10880,5.76,60,Education,1/7/2021,12/12/2025,2,49010.976,-10958.976,Current,Not Started,0,,12/14/2025,38052,Employed,1802,0,1,Mixed,South,In-App
+881,56,Employed,25487,625,German,10881,14.39,60,Home Improvement,6/12/2022,5/17/2027,-1,80871.524,-33839.524,Current,Not Started,0,,5/16/2027,47032,Employed,1799,0,1,Always Late,North,In-App
+882,55,Self-Employed,15155,742,German,10882,5.86,48,Business,11/14/2022,10/24/2026,3,58211.8352,-11053.8352,Current,Not Started,0,,10/27/2026,47158,Self-Employed,1443,0,3,Mixed,West,SMS
+883,51,Employed,82494,399,German,10883,10.56,12,Other,4/14/2022,4/9/2023,-2,26738.936,-2553.936,Current,Not Started,0,,4/7/2023,24185,Employed,358,0,1,Mixed,West,SMS
+884,55,Unemployed,91229,358,German,10884,6.07,12,Business,1/14/2022,1/9/2023,89,36791.4402,-2105.4402,Delinquent,Not Started,0,,4/8/2023,34686,Unemployed,449,0,1,Always Late,West,Phone
+885,67,Employed,119648,807,Other,10885,9.78,12,Other,5/14/2021,5/9/2022,147,13662.121,-1217.121,Default,Recovered,-1171.086043,3/30/2023,10/3/2022,12445,Employed,507,1,8,Always On Time,West,Phone
+886,51,Unemployed,53547,557,German,10886,11.37,12,Other,10/14/2022,10/9/2023,88,38162.0442,-3896.0442,Delinquent,Not Started,0,,1/5/2024,34266,Unemployed,448,0,6,Mixed,South,SMS
+887,35,Employed,43795,712,German,10887,5.69,36,Other,12/30/2020,12/15/2023,52,4459.1963000000005,-650.1963,Delinquent,Not Started,0,,2/5/2024,3809,Employed,1132,0,3,Always Late,South,SMS
+888,47,Employed,70296,751,German,10888,9.49,24,Debt Consolidation,5/30/2020,5/20/2022,0,46079.7642,-7350.7642,Current,Not Started,0,,5/20/2022,38729,Employed,720,0,1,Mixed,North,SMS
+889,32,Employed,36447,364,German,10889,8.89,24,Education,1/25/2022,1/15/2024,158,50392.173,-7607.173,Default,Not Started,0,,6/21/2024,42785,Employed,878,0,4,Mixed,East,SMS
+890,44,Employed,51598,453,German,10890,4.32,48,Business,3/6/2021,2/13/2025,-4,44035.121600000006,-6488.1216,Current,Not Started,0,,2/9/2025,37547,Employed,1436,0,1,Always Late,East,SMS
+891,68,Employed,56814,565,German,10891,12.91,36,Education,3/26/2021,3/10/2024,160,60788.7114,-16970.7114,Default,Not Started,0,,8/17/2024,43818,Employed,1240,0,8,Always Late,North,In-App
+892,51,Employed,105751,378,German,10892,7.36,12,Home Improvement,5/7/2020,5/2/2021,118,38527.2096,-2641.2096,Default,Recovered,-2045.726739,12/17/2021,8/28/2021,35886,Employed,478,1,3,Always On Time,East,Phone
+893,69,Self-Employed,90330,614,German,10893,10.11,12,Business,1/17/2022,1/12/2023,129,8138.2301,-747.2301,Default,Recovered,-591.4320561,8/12/2023,5/21/2023,7391,Self-Employed,489,1,3,Mixed,North,In-App
+894,55,Employed,113745,547,German,10894,9.42,60,Education,10/14/2020,9/18/2025,4,1684.295,-539.295,Current,Not Started,0,,9/22/2025,1145,Employed,1804,0,3,Always Late,South,In-App
+895,50,Employed,102960,713,German,10895,9.4,60,Education,8/13/2022,7/18/2027,1,21945.63,-7016.63,Current,Not Started,0,,7/19/2027,14929,Employed,1801,0,1,Always Late,West,Email
+896,41,Employed,78278,324,German,10896,4.73,48,Home Improvement,1/28/2022,1/7/2026,0,30117.6792,-4791.6792,Current,Not Started,0,,1/7/2026,25326,Employed,1440,0,5,Always Late,West,In-App
+897,32,Self-Employed,70077,583,German,10897,8.37,12,Other,10/30/2021,10/25/2022,-4,33584.94669999999,-2593.9467,Current,Not Started,0,,10/21/2022,30991,Self-Employed,356,0,6,Mixed,South,SMS
+898,47,Employed,117932,748,German,10898,8.7,48,Business,12/1/2022,11/10/2026,2,65627.37999999999,-16942.38,Current,Not Started,0,,11/12/2026,48685,Employed,1442,0,5,Always Late,West,SMS
+899,59,Employed,86906,600,German,10899,11.94,36,Business,5/20/2020,5/5/2023,-5,52063.8806,-13730.8806,Current,Not Started,0,,4/30/2023,38333,Employed,1075,0,1,Always Late,West,Email
+900,68,Employed,24528,367,German,10900,13.16,24,Home Improvement,5/11/2021,5/1/2023,-5,22202.0032,-4626.0032,Current,Not Started,0,,4/26/2023,17576,Employed,715,0,4,Always Late,East,Email
+901,34,Employed,108812,306,German,10901,9.77,12,Other,9/8/2020,9/3/2021,0,44352.5685,-3947.5685,Current,Not Started,0,,9/3/2021,40405,Employed,360,0,4,Always Late,South,Email
+902,22,Employed,65100,436,German,10902,4.5,36,Business,6/30/2022,6/14/2025,34,33441.64,-3977.64,Delinquent,Not Started,0,,7/18/2025,29464,Employed,1114,0,7,Always Late,East,Email
+903,46,Employed,23179,463,German,10903,6.22,12,Business,6/25/2022,6/20/2023,3,9817.9146,-574.9146,Current,Not Started,0,,6/23/2023,9243,Employed,363,0,3,Always Late,East,Email
+904,21,Employed,63781,382,German,10904,5.4,60,Business,4/28/2020,4/2/2025,1,41403.27,-8802.27,Current,Not Started,0,,4/3/2025,32601,Employed,1801,0,3,Always Late,West,In-App
+905,27,Self-Employed,70267,719,German,10905,4.93,48,Other,2/27/2021,2/6/2025,79,4082.452,-672.452,Delinquent,Not Started,0,,4/26/2025,3410,Self-Employed,1519,0,5,Mixed,West,Email
+906,34,Employed,97379,372,German,10906,7.71,60,Home Improvement,1/27/2022,1/1/2027,1,3907.11,-1087.11,Current,Not Started,0,,1/2/2027,2820,Employed,1801,0,5,Mixed,South,In-App
+907,27,Employed,38952,536,German,10907,6.14,24,Business,11/28/2020,11/18/2022,137,40745.2892,-4456.2892,Default,Not Started,0,,4/4/2023,36289,Employed,857,0,4,Always Late,West,Phone
+908,34,Employed,68798,345,German,10908,6.01,60,Education,9/2/2021,8/7/2026,-3,51564.825,-11914.825,Current,Not Started,0,,8/4/2026,39650,Employed,1797,0,3,Mixed,West,Email
+909,37,Unemployed,113696,561,German,10909,4.13,12,Other,5/17/2022,5/12/2023,-5,37106.72549999999,-1471.7255,Current,Not Started,0,,5/7/2023,35635,Unemployed,355,0,4,Always Late,South,Email
+910,41,Employed,65939,475,German,10910,3.7,60,Debt Consolidation,1/28/2020,1/1/2025,2,10031.025,-1566.025,Current,Not Started,0,,1/3/2025,8465,Employed,1802,0,7,Mixed,West,In-App
+911,22,Self-Employed,44516,465,Other,10911,4.68,12,Home Improvement,2/27/2020,2/21/2021,-3,35003.9452,-1564.9452,Current,Not Started,0,,2/18/2021,33439,Self-Employed,357,0,4,Always Late,East,Phone
+912,51,Employed,71526,669,German,10912,5.48,24,Education,5/1/2021,4/21/2023,2,31417.2144,-3103.2144,Current,Not Started,0,,4/23/2023,28314,Employed,722,0,8,Mixed,South,In-App
+913,23,Employed,25449,353,German,10913,8.46,60,Business,9/15/2020,8/20/2025,1,64360.867,-19131.867,Current,Not Started,0,,8/21/2025,45229,Employed,1801,0,4,Mixed,West,In-App
+914,19,Employed,65290,718,German,10914,9.37,48,Debt Consolidation,10/20/2020,9/29/2024,-4,28297.5084,-7714.5084,Current,Not Started,0,,9/25/2024,20583,Employed,1436,0,8,Always Late,North,Email
+915,30,Unemployed,101661,806,German,10915,5.12,48,Home Improvement,11/20/2022,10/30/2026,-5,33921.144,-5766.144,Current,Not Started,0,,10/25/2026,28155,Unemployed,1435,0,7,Always Late,South,SMS
+916,60,Employed,87954,640,German,10916,8.39,48,Other,2/11/2022,1/21/2026,1,53251.7076,-13380.7076,Current,Not Started,0,,1/22/2026,39871,Employed,1441,0,3,Always Late,South,SMS
+917,60,Self-Employed,37746,426,German,10917,7.43,60,Debt Consolidation,1/18/2021,12/23/2025,-5,18099.6855,-4902.6855,Current,Not Started,0,,12/18/2025,13197,Self-Employed,1795,0,7,Always Late,North,In-App
+918,65,Self-Employed,82990,708,German,10918,5.61,60,Debt Consolidation,1/26/2020,12/30/2024,0,39069.3355,-8558.3355,Current,Not Started,0,,12/30/2024,30511,Self-Employed,1800,0,1,Always Late,West,Email
+919,28,Employed,73810,666,German,10919,3.58,60,Education,11/9/2022,10/14/2027,4,19363.896,-2939.896,Current,Not Started,0,,10/18/2027,16424,Employed,1804,0,8,Always Late,West,Phone
+920,68,Employed,98297,570,German,10920,8.87,12,Home Improvement,7/28/2020,7/23/2021,4,54240.1227,-4419.1227,Current,Not Started,0,,7/27/2021,49821,Employed,364,0,5,Always Late,South,SMS
+921,64,Employed,30223,678,German,10921,11.38,24,Education,4/3/2022,3/23/2024,2,1522.224,-282.224,Current,Not Started,0,,3/25/2024,1240,Employed,722,0,1,Mixed,South,Phone
+922,40,Employed,87237,372,German,10922,6.1,48,Education,6/29/2020,6/8/2024,1,7004.964,-1373.964,Current,Not Started,0,,6/9/2024,5631,Employed,1441,0,5,Always Late,West,SMS
+923,33,Self-Employed,17597,547,German,10923,5.02,12,Business,3/14/2022,3/9/2023,110,11131.0698,-532.0698,Default,Not Started,0,,6/27/2023,10599,Self-Employed,470,0,9,Always Late,West,Email
+924,48,Unemployed,80677,342,Other,10924,13.7,48,Other,9/29/2021,9/8/2025,-5,70375.176,-24913.176,Current,Not Started,0,,9/3/2025,45462,Unemployed,1435,0,1,Always Late,East,In-App
+925,28,Employed,17659,676,German,10925,6.66,12,Debt Consolidation,2/25/2021,2/20/2022,46,27366.8228,-1708.8228,Delinquent,Not Started,0,,4/7/2022,25658,Employed,406,0,4,Mixed,South,Phone
+926,33,Employed,101516,340,German,10926,6.07,60,Home Improvement,9/28/2021,9/2/2026,158,50634.4575,-11789.4575,Default,Recovered,-8262.364978,6/26/2027,2/7/2027,38845,Employed,1958,1,6,Always On Time,South,Phone
+927,25,Self-Employed,89567,469,German,10927,13.36,48,Other,6/3/2021,5/13/2025,-1,51515.9456,-17941.9456,Current,Not Started,0,,5/12/2025,33574,Self-Employed,1439,0,7,Always Late,North,In-App
+928,21,Employed,30037,511,German,10928,12.9,60,Other,2/4/2020,1/8/2025,1,61746.72,-24210.72,Current,Not Started,0,,1/9/2025,37536,Employed,1801,0,3,Always Late,East,Phone
+929,57,Self-Employed,61738,792,German,10929,8.66,48,Home Improvement,1/12/2020,12/22/2023,136,57774.024000000005,-14864.024,Default,Recovered,-14485.583,6/16/2024,5/6/2024,42910,Self-Employed,1576,1,2,Always On Time,West,SMS
+930,21,Employed,118965,338,German,10930,9.13,36,Other,10/17/2020,10/2/2023,81,11458.7305,-2463.7305,Delinquent,Not Started,0,,12/22/2023,8995,Employed,1161,0,1,Always Late,East,In-App
+931,42,Employed,86678,668,German,10931,6,12,Business,4/28/2020,4/23/2021,4,27757.16,-1571.16,Current,Not Started,0,,4/27/2021,26186,Employed,364,0,4,Mixed,West,SMS
+932,20,Employed,27109,450,German,10932,4.4,36,Other,10/5/2021,9/19/2024,75,34237.340000000004,-3992.34,Delinquent,Not Started,0,,12/3/2024,30245,Employed,1155,0,4,Always Late,West,SMS
+933,49,Employed,37010,410,German,10933,10.09,12,Business,5/5/2022,4/30/2023,57,26215.7317,-2402.7317,Delinquent,Not Started,0,,6/26/2023,23813,Employed,417,0,8,Mixed,East,Email
+934,20,Employed,23787,779,Other,10934,4.63,24,Debt Consolidation,12/8/2020,11/28/2022,-5,15597.9576,-1321.9576,Current,Not Started,0,,11/23/2022,14276,Employed,715,0,1,Mixed,South,SMS
+935,44,Employed,23472,735,German,10935,8.67,48,Debt Consolidation,9/3/2022,8/13/2026,133,28267.9852,-7278.9852,Default,Not Started,0,,12/24/2026,20989,Employed,1573,0,5,Always Late,West,Email
+936,46,Employed,38383,346,German,10936,14.32,24,Education,4/12/2021,4/2/2023,4,17682.8544,-3936.8544,Current,Not Started,0,,4/6/2023,13746,Employed,724,0,1,Always Late,East,Phone
+937,49,Self-Employed,76709,665,German,10937,14.46,24,Business,5/27/2021,5/17/2023,1,58327.27560000001,-13084.2756,Current,Not Started,0,,5/18/2023,45243,Self-Employed,721,0,2,Always Late,North,Phone
+938,67,Self-Employed,84785,368,German,10938,6.25,12,Debt Consolidation,10/22/2022,10/17/2023,138,20779.3125,-1222.3125,Default,Not Started,0,,3/3/2024,19557,Self-Employed,498,0,4,Always Late,East,Email
+939,68,Employed,49518,598,German,10939,10.68,36,Other,10/3/2021,9/17/2024,58,38370.824,-9310.824,Delinquent,Not Started,0,,11/14/2024,29060,Employed,1138,0,4,Mixed,North,SMS
+940,36,Employed,68909,595,German,10940,8.95,60,Home Improvement,8/30/2020,8/4/2025,-4,10954.68,-3386.68,Current,Not Started,0,,7/31/2025,7568,Employed,1796,0,5,Mixed,West,In-App
+941,38,Employed,33351,502,Other,10941,13.57,12,Home Improvement,2/3/2020,1/28/2021,2,41304.2733,-4935.2733,Current,Not Started,0,,1/30/2021,36369,Employed,362,0,8,Always Late,East,In-App
+942,22,Employed,84624,360,German,10942,6.62,60,Business,2/12/2020,1/16/2025,4,26674.571,-6633.571,Current,Not Started,0,,1/20/2025,20041,Employed,1804,0,5,Mixed,East,Email
+943,35,Employed,68330,613,German,10943,3.54,24,Education,10/24/2021,10/14/2023,87,7581.264,-501.264,Delinquent,Not Started,0,,1/9/2024,7080,Employed,807,0,9,Mixed,North,Phone
+944,45,Employed,30282,460,German,10944,5.37,60,Other,10/4/2022,9/8/2027,4,18842.299,-3988.299,Current,Not Started,0,,9/12/2027,14854,Employed,1804,0,7,Mixed,East,Phone
+945,59,Employed,99866,630,Other,10945,7.52,36,Business,8/16/2021,7/31/2024,159,3871.6704,-712.6704,Default,Not Started,0,,1/6/2025,3159,Employed,1239,0,4,Mixed,East,In-App
+946,39,Employed,36778,827,German,10946,7.13,12,Home Improvement,11/5/2022,10/31/2023,164,30023.1825,-1998.1825,Default,Recovered,-1775.570892,8/29/2024,4/12/2024,28025,Employed,524,1,7,Always On Time,West,Email
+947,38,Employed,39264,637,German,10947,12.6,36,Business,9/27/2021,9/11/2024,-4,57987.618,-15906.618,Current,Not Started,0,,9/7/2024,42081,Employed,1076,0,5,Always Late,East,In-App
+948,23,Employed,74675,603,German,10948,11.33,36,Other,5/23/2021,5/7/2024,-1,7192.583200000001,-1824.5832,Current,Not Started,0,,5/6/2024,5368,Employed,1079,0,1,Mixed,South,SMS
+949,18,Unemployed,20075,802,German,10949,6.94,12,Debt Consolidation,3/16/2020,3/11/2021,2,37519.899,-2434.899,Current,Not Started,0,,3/13/2021,35085,Unemployed,362,0,6,Always Late,North,SMS
+950,22,Employed,90948,637,German,10950,8.76,36,Other,4/29/2020,4/14/2023,0,35477.1032,-7383.1032,Current,Not Started,0,,4/14/2023,28094,Employed,1080,0,1,Mixed,East,Email
+951,58,Employed,63454,849,German,10951,4.6,48,Debt Consolidation,8/5/2021,7/15/2025,-3,55695.36,-8655.36,Current,Not Started,0,,7/12/2025,47040,Employed,1437,0,4,Always Late,North,Email
+952,29,Employed,43365,574,German,10952,13.83,48,Debt Consolidation,4/3/2021,3/13/2025,2,3463.636,-1233.636,Current,Not Started,0,,3/15/2025,2230,Employed,1442,0,6,Mixed,North,SMS
+953,43,Employed,87766,463,German,10953,14.26,48,Debt Consolidation,6/25/2020,6/4/2024,3,29079.0968,-10562.0968,Current,Not Started,0,,6/7/2024,18517,Employed,1443,0,1,Always Late,North,Phone
+954,63,Self-Employed,63200,742,German,10954,14.77,60,Business,10/1/2021,9/5/2026,-1,43446.8535,-18455.8535,Current,Not Started,0,,9/4/2026,24991,Self-Employed,1799,0,2,Always Late,East,Email
+955,51,Employed,26002,618,German,10955,13.49,36,Home Improvement,5/3/2021,4/17/2024,-4,3232.2147,-931.2147,Current,Not Started,0,,4/13/2024,2301,Employed,1076,0,8,Mixed,East,SMS
+956,66,Unemployed,28947,803,German,10956,5.5,12,Business,10/17/2022,10/12/2023,-4,31238.55,-1628.55,Current,Not Started,0,,10/8/2023,29610,Unemployed,356,0,5,Always Late,North,SMS
+957,31,Employed,94222,686,German,10957,4.03,12,Home Improvement,2/2/2020,1/27/2021,1,17609.1581,-682.1581,Current,Not Started,0,,1/28/2021,16927,Employed,361,0,2,Mixed,South,Phone
+958,43,Employed,109840,793,German,10958,10.17,60,Other,2/2/2021,1/7/2026,-5,53820.263,-18142.263,Current,Not Started,0,,1/2/2026,35678,Employed,1795,0,5,Always Late,North,Phone
+959,62,Self-Employed,93610,789,German,10959,13.99,12,Education,12/15/2021,12/10/2022,4,29028.6934,-3562.6934,Current,Not Started,0,,12/14/2022,25466,Self-Employed,364,0,4,Mixed,South,Phone
+960,44,Employed,67142,372,German,10960,5.54,48,Other,12/4/2021,11/13/2025,-4,19428.3264,-3524.3264,Current,Not Started,0,,11/9/2025,15904,Employed,1436,0,4,Always Late,North,Phone
+961,26,Employed,71307,808,German,10961,3.58,36,Business,11/12/2021,10/27/2024,4,46372.375,-4497.375,Current,Not Started,0,,10/31/2024,41875,Employed,1084,0,9,Mixed,West,In-App
+962,43,Employed,19493,689,Other,10962,12.76,12,Business,3/7/2020,3/2/2021,49,30536.5356,-3455.5356,Delinquent,Not Started,0,,4/20/2021,27081,Employed,409,0,5,Always Late,North,Phone
+963,64,Employed,65085,594,German,10963,4.38,12,Home Improvement,5/9/2022,5/4/2023,-5,26464.505200000003,-1110.5052,Current,Not Started,0,,4/29/2023,25354,Employed,355,0,3,Mixed,North,In-App
+964,39,Self-Employed,49228,668,German,10964,8.26,24,Business,4/7/2020,3/28/2022,-2,33512.3172,-4751.3172,Current,Not Started,0,,3/26/2022,28761,Self-Employed,718,0,7,Mixed,East,Email
+965,64,Employed,94676,848,German,10965,11.31,24,Debt Consolidation,10/7/2022,9/26/2024,74,23665.66,-4365.66,Delinquent,Not Started,0,,12/9/2024,19300,Employed,794,0,7,Always Late,South,SMS
+966,47,Employed,66875,486,German,10966,6.22,24,Business,3/8/2020,2/26/2022,4,34284.0804,-3793.0804,Current,Not Started,0,,3/2/2022,30491,Employed,724,0,1,Always Late,West,In-App
+967,60,Employed,46655,744,German,10967,4.47,36,Home Improvement,1/24/2020,1/8/2023,-1,41423.0025,-4898.0025,Current,Not Started,0,,1/7/2023,36525,Employed,1079,0,2,Mixed,South,Email
+968,65,Employed,58472,662,German,10968,12.36,48,Home Improvement,8/4/2020,7/14/2024,179,41143.8208,-13611.8208,Default,Not Started,0,,1/9/2025,27532,Employed,1619,0,2,Mixed,West,Email
+969,34,Employed,64437,422,German,10969,10.75,48,Debt Consolidation,12/30/2020,12/9/2024,78,10673.52,-3209.52,Delinquent,Not Started,0,,2/25/2025,7464,Employed,1518,0,5,Mixed,North,In-App
+970,43,Employed,64416,487,German,10970,14.87,48,Home Improvement,6/19/2021,5/29/2025,127,28007.8776,-10445.8776,Default,Recovered,-6713.593164,12/9/2025,10/3/2025,17562,Employed,1567,1,5,Always On Time,East,Email
+971,53,Employed,74711,719,German,10971,7.46,36,Education,6/5/2022,5/20/2025,63,52447.1728,-9591.1728,Delinquent,Not Started,0,,7/22/2025,42856,Employed,1143,0,5,Mixed,East,Email
+972,18,Self-Employed,21816,551,German,10972,4.21,36,Other,4/2/2020,3/18/2023,3,55067.0596,-6175.0596,Current,Not Started,0,,3/21/2023,48892,Self-Employed,1083,0,8,Mixed,South,In-App
+973,25,Employed,92175,848,German,10973,11.95,24,Business,7/9/2022,6/28/2024,0,59506.692,-11478.692,Current,Not Started,0,,6/28/2024,48028,Employed,720,0,6,Always Late,East,Email
+974,66,Employed,79307,634,German,10974,9.5,12,Education,9/18/2020,9/13/2021,-4,47644.545,-4133.545,Current,Not Started,0,,9/9/2021,43511,Employed,356,0,1,Mixed,South,Phone
+975,52,Self-Employed,61733,391,German,10975,5.95,60,Business,8/8/2020,7/13/2025,-3,12563.6925,-2880.6925,Current,Not Started,0,,7/10/2025,9683,Self-Employed,1797,0,3,Mixed,South,Phone
+976,69,Employed,110028,829,Other,10976,12.49,60,Education,12/29/2021,12/3/2026,2,54638.433,-21004.433,Current,Not Started,0,,12/5/2026,33634,Employed,1802,0,3,Always Late,West,SMS
+977,32,Employed,26240,362,German,10977,5.84,12,Business,12/31/2022,12/26/2023,46,1121.904,-61.904,Delinquent,Not Started,0,,2/10/2024,1060,Employed,406,0,3,Mixed,South,Email
+978,64,Employed,113234,811,German,10978,6.5,24,Debt Consolidation,1/6/2021,12/27/2022,-3,11603.97,-1334.97,Current,Not Started,0,,12/24/2022,10269,Employed,717,0,5,Mixed,West,SMS
+979,39,Employed,107493,438,German,10979,4.56,12,Home Improvement,10/11/2021,10/6/2022,4,25162.364,-1097.364,Current,Not Started,0,,10/10/2022,24065,Employed,364,0,7,Mixed,East,Phone
+980,31,Employed,113344,484,German,10980,8.09,12,Home Improvement,8/20/2020,8/15/2021,46,4210.1055,-315.1055,Delinquent,Not Started,0,,9/30/2021,3895,Employed,406,0,3,Always Late,South,Phone
+981,43,Unemployed,86363,504,German,10981,8.32,60,Debt Consolidation,6/6/2020,5/11/2025,88,23113.368,-6790.368,Delinquent,Not Started,0,,8/7/2025,16323,Unemployed,1888,0,4,Mixed,South,Phone
+982,45,Employed,47762,513,German,10982,9.42,24,Education,4/25/2022,4/14/2024,2,15867.5168,-2515.5168,Current,Not Started,0,,4/16/2024,13352,Employed,722,0,6,Always Late,North,Email
+983,40,Employed,23259,555,German,10983,11.65,36,Other,9/2/2020,8/18/2023,30,61595.2285,-15952.2285,Current,Not Started,0,,9/17/2023,45643,Employed,1110,0,3,Mixed,South,Email
+984,31,Self-Employed,65139,434,German,10984,13.92,60,Education,8/13/2021,7/18/2026,143,67146.336,-27555.336,Default,Recovered,-25408.9074,5/29/2027,12/8/2026,39591,Self-Employed,1943,1,2,Always On Time,South,Phone
+985,41,Employed,29849,387,German,10985,5.08,36,Home Improvement,11/30/2021,11/14/2024,-2,36750.036,-4860.036,Current,Not Started,0,,11/12/2024,31890,Employed,1078,0,4,Always Late,North,SMS
+986,19,Employed,96768,506,German,10986,4.13,24,Other,6/1/2020,5/22/2022,1,35743.1216,-2727.1216,Current,Not Started,0,,5/23/2022,33016,Employed,721,0,1,Mixed,North,SMS
+987,62,Employed,104709,428,German,10987,3.71,12,Business,8/6/2022,8/1/2023,-1,13442.890199999998,-480.8902,Current,Not Started,0,,7/31/2023,12962,Employed,359,0,8,Always Late,East,In-App
+988,43,Unemployed,69869,302,German,10988,5.15,48,Other,5/12/2020,4/21/2024,2,41368.212,-7066.212,Current,Not Started,0,,4/23/2024,34302,Unemployed,1442,0,1,Always Late,South,Phone
+989,31,Employed,78095,420,Other,10989,11.07,48,Education,5/13/2021,4/22/2025,-5,30076.6088,-9230.6088,Current,Not Started,0,,4/17/2025,20846,Employed,1435,0,3,Always Late,East,SMS
+990,68,Employed,85910,684,German,10990,11.87,24,Debt Consolidation,3/1/2021,2/19/2023,110,6200.611400000001,-1189.6114,Default,Not Started,0,,6/9/2023,5011,Employed,830,0,4,Mixed,East,Phone
+991,24,Employed,101710,337,German,10991,12.54,48,Business,7/1/2020,6/10/2024,32,31206.251199999995,-10424.2512,Delinquent,Not Started,0,,7/12/2024,20782,Employed,1472,0,9,Mixed,North,SMS
+992,20,Employed,38567,640,German,10992,6.3,36,Education,3/7/2020,2/20/2023,66,3751.295,-596.295,Delinquent,Not Started,0,,4/27/2023,3155,Employed,1146,0,2,Mixed,West,In-App
+993,64,Employed,50292,320,Other,10993,7.02,48,Business,11/8/2022,10/18/2026,180,52160.58,-11435.58,Default,Not Started,0,,4/16/2027,40725,Employed,1620,0,1,Mixed,East,In-App
+994,40,Employed,89813,541,German,10994,9.06,24,Other,3/30/2021,3/20/2023,105,12043.5152,-1847.5152,Default,Recovered,-1323.187024,8/8/2023,7/3/2023,10196,Employed,825,1,1,Always On Time,West,Phone
+995,63,Self-Employed,112136,754,German,10995,4.23,24,Home Improvement,6/26/2022,6/15/2024,-3,48220.2314,-3761.2314,Current,Not Started,0,,6/12/2024,44459,Self-Employed,717,0,2,Mixed,South,SMS
+996,60,Employed,66631,602,German,10996,10.53,36,Education,9/26/2021,9/10/2024,2,29882.7731,-7173.7731,Current,Not Started,0,,9/12/2024,22709,Employed,1082,0,2,Always Late,North,Email
+997,64,Employed,24885,368,German,10997,14.81,48,Debt Consolidation,3/24/2022,3/3/2026,42,22814.3148,-8487.3148,Delinquent,Not Started,0,,4/14/2026,14327,Employed,1482,0,5,Mixed,South,In-App
+998,62,Self-Employed,74659,428,German,10998,7.65,48,Other,1/21/2021,12/31/2024,-3,47635.044,-11161.044,Current,Not Started,0,,12/28/2024,36474,Self-Employed,1437,0,2,Always Late,South,Phone
+999,35,Unemployed,69306,495,German,10999,12.16,12,Education,7/4/2021,6/29/2022,-5,37875.3104,-4106.3104,Current,Not Started,0,,6/24/2022,33769,Unemployed,355,0,1,Always Late,North,Phone
+1000,55,Employed,81314,439,German,11000,9.25,60,Debt Consolidation,1/10/2020,12/14/2024,3,62877.2625,-19884.2625,Current,Not Started,0,,12/17/2024,42993,Employed,1803,0,7,Always Late,South,SMS
